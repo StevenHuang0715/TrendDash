@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+fetchers/.env
+
+# 抓取產生的資料：存在 GitHub 的 data 分支，不放進 main
+data/
+web/public/data/

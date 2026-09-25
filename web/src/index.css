@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* 可以左右滑動但不顯示捲軸（手機上的分頁列） */
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100;
+  font-family: system-ui, "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+}
