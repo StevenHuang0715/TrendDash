@@ -10,7 +10,7 @@
 
 from itertools import zip_longest
 
-from common import item
+from common import item, report
 
 PER_OUTLET = 15
 
@@ -33,9 +33,11 @@ class NewsGroup:
                 self.popular[outlet] = entries
                 lists.append([(outlet.NAME, e) for e in entries])
                 print(f"    {outlet.NAME}：{len(entries)} 筆")
+                report("熱門榜", outlet.NAME, bool(entries), len(entries))
             except Exception as exc:
                 errors.append(f"{outlet.NAME}：{exc}")
                 print(f"    {outlet.NAME} 失敗：{exc}")
+                report("熱門榜", outlet.NAME, False, error=exc)
 
         if not lists:
             raise RuntimeError("；".join(errors))

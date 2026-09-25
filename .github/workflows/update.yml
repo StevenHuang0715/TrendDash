@@ -28,7 +28,7 @@ jobs:
     env:
       FETCH: ${{ github.event_name != 'push' }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: 取回上次的資料（data 分支）
         run: |
@@ -42,7 +42,7 @@ jobs:
             echo "還沒有 data 分支，從零開始"
           fi
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         if: env.FETCH == 'true'
         with:
           python-version: "3.13"
@@ -73,7 +73,7 @@ jobs:
             commit -q -m "資料更新 $(date -u +%Y-%m-%dT%H:%MZ)"
           git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" data
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: npm
@@ -85,7 +85,7 @@ jobs:
           npm ci
           npm run build
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: web/dist
 
@@ -97,4 +97,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

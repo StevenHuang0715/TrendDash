@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 import events
 import history
-from common import make_session, now_iso
+from common import STATUS, make_session, now_iso, report
 from news_group import NewsGroup
 from sources import SOURCES
 
@@ -25,10 +25,12 @@ def run_source(src):
     try:
         result["items"] = src.fetch(make_session())
         print(f"✓ {src.NAME}：{len(result['items'])} 筆")
+        report("來源", src.NAME, True, len(result["items"]))
     except Exception as exc:  # 一個來源掛掉，其他照跑
         result["ok"] = False
         result["error"] = str(exc)
         print(f"✗ {src.NAME}：{exc}")
+        report("來源", src.NAME, False, error=exc)
     return result
 
 
@@ -67,6 +69,11 @@ def main():
     # 前端靠這個清單知道要顯示哪些來源、順序為何
     index = [{"id": s.ID, "name": s.NAME, "section": getattr(s, "SECTION", "other")} for s in active]
     (OUT_DIR / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # 這次執行的抓取狀況：打開 <網站>/data/status.json 就能看到哪個來源失敗
+    status = {"updated_at": now_iso(), "failed": [s for s in STATUS if not s["ok"]], "all": STATUS}
+    (OUT_DIR / "status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"✓ 狀態：{len(STATUS) - len(status['failed'])} 成功、{len(status['failed'])} 失敗（見 status.json）")
 
 
 if __name__ == "__main__":

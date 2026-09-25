@@ -30,6 +30,15 @@ def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
+# 每次執行的抓取狀況，main.py 最後寫成 status.json，方便從網站檢查哪個來源壞了
+STATUS = []
+
+
+def report(kind, name, ok, count=None, error=None):
+    """kind：熱門榜 / 補抓文章 / 來源 / PTT 看板 等分類；name：媒體或來源名稱。"""
+    STATUS.append({"kind": kind, "name": name, "ok": ok, "count": count, "error": str(error)[:200] if error else None})
+
+
 def item(title, url, *, thumbnail=None, score=None, score_label=None, time=None, meta=None):
     return {
         "title": title,

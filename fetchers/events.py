@@ -25,6 +25,7 @@ from datetime import datetime, timedelta, timezone
 
 import categories
 import google_news_archive
+from common import report
 from history import _connect
 
 BACKFILL_DAYS = 7
@@ -39,6 +40,7 @@ ITEMS_PER_EVENT = 10
 DATE_KEEP_DAYS = 30
 DATE_PER_CATEGORY = 50
 DATE_ITEMS_PER_EVENT = 6
+DATE_MIN_ARTICLES = 50  # 少於這個篇數的日子不列進日曆
 MIN_OUTLETS = 2  # 至少兩家媒體報導才算「事件」
 MAX_PER_OUTLET = 3
 
@@ -148,7 +150,9 @@ def collect(session, groups):
                     entries = outlet.fetch_recent(session, since)
                 except Exception as exc:
                     print(f"    [事件] {outlet.NAME} 補抓失敗：{exc}")
+                    report("補抓文章", outlet.NAME, False, error=exc)
                     continue
+                report("補抓文章", outlet.NAME, True, len(entries))
                 if key in REPUBLISHED:
                     marker, orig_key, orig_name = REPUBLISHED[key]
                     _save(db, orig_key, orig_name, group.ID, [e for e in entries if marker in e["url"]], now_iso, hot=False)
@@ -163,7 +167,9 @@ def collect(session, groups):
         known = {_outlet_key(o): (o.NAME, g.ID) for g in ALL_GROUPS for o in g.outlets}
         row = db.execute("SELECT last_fetch FROM archive_state WHERE outlet = 'google_news'").fetchone()
         since = max(datetime.fromisoformat(row[0]) - timedelta(hours=1), earliest) if row else earliest
-        for e in google_news_archive.fetch_since(session, since):
+        gn_entries = google_news_archive.fetch_since(session, since)
+        report("補抓文章", "Google News", bool(gn_entries), len(gn_entries))
+        for e in gn_entries:
             key, is_known = google_news_archive.outlet_key(e["publisher"])
             name, group_id = known[key] if is_known and key in known else (e["publisher"], "google")
             _save(db, key, name, group_id, [e], now_iso, hot=False)
@@ -301,7 +307,7 @@ def _export_dates(out_dir, clusters, articles, feats, idf, now):
         counts[a["dt"].astimezone(TW).date()] += 1
 
     index = []
-    for day in sorted(d for d in counts if d >= first):
+    for day in sorted(d for d in counts if d >= first and (counts[d] >= DATE_MIN_ARTICLES or d == today)):
         path = out_dir / f"events_date_{day.isoformat()}.json"
         if not path.exists() or day >= today - timedelta(days=1):
             start = datetime.combine(day, datetime.min.time(), TW)

@@ -8,7 +8,7 @@ from datetime import date, timedelta
 
 from bs4 import BeautifulSoup
 
-from common import item
+from common import item, report
 
 ID = "ptt"
 NAME = "PTT 熱門"
@@ -52,6 +52,10 @@ def _fetch_board(session, board):
         resp = session.get(url, timeout=20)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
+        if not soup.select("div.r-ent"):
+            # 不是文章列表（可能被擋、或是 18 歲確認頁），把頁面標題記下來方便查原因
+            title = soup.title.get_text(strip=True) if soup.title else "無標題"
+            raise RuntimeError(f"頁面沒有文章列表（HTTP {resp.status_code}，標題：{title}，網址：{resp.url}）")
 
         # 第一頁底部的置底文（公告、舊爆文）在 r-list-sep 之後，要略過
         sep = soup.select_one("div.r-list-sep")
@@ -96,8 +100,11 @@ def fetch(session):
     items = []
     for board in BOARDS:
         try:
-            items.extend(_fetch_board(session, board))
+            found = _fetch_board(session, board)
+            items.extend(found)
+            report("PTT 看板", board, True, len(found))
         except Exception as exc:  # 單一看板失敗不影響其他看板
             print(f"  [ptt] {board} 失敗：{exc}")
+            report("PTT 看板", board, False, error=exc)
     items.sort(key=lambda x: x["score"], reverse=True)
     return items[:50]
