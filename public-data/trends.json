@@ -1,0 +1,99 @@
+{
+  "id": "trends",
+  "name": "Google 熱搜",
+  "updated_at": "2026-09-26T18:10:23+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "539",
+      "url": "https://www.google.com/search?q=539",
+      "thumbnail": null,
+      "score": 5000,
+      "score_label": "5000+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 05:40:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "英格蘭 對 西班牙",
+      "url": "https://www.google.com/search?q=%E8%8B%B1%E6%A0%BC%E8%98%AD%20%E5%B0%8D%20%E8%A5%BF%E7%8F%AD%E7%89%99",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTik5WFvA8EcZpbPa9vnZBoHL7Z2bru5RpicLNh-5RU47l_Tg7RbGClYBWCMMI",
+      "score": 2000,
+      "score_label": "2000+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 10:50:00 -0700",
+      "meta": "足球運彩分析》9/27 英格蘭急欲擺脫世界盃傷疤復仇歐洲盃 西班牙要持續統治能力"
+    },
+    {
+      "title": "自由座",
+      "url": "https://www.google.com/search?q=%E8%87%AA%E7%94%B1%E5%BA%A7",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQklJbRJ9LnjL4oJyhxfdzsMmQ6FbLMgUadU7_jZ6nk75UjhsxrL2ldY-LmbNc",
+      "score": 2000,
+      "score_label": "2000+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 07:50:00 -0700",
+      "meta": "高鐵連假疏運前2日運量暴增！9/28迎收假最高峰 自由座避開這5小時"
+    },
+    {
+      "title": "台北市政府",
+      "url": "https://www.google.com/search?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAHx0oQe6HjAgxiWog12YSzGv24afMOl4Ffwam-ZZI5PaEwuphyugWb9_IGqo",
+      "score": 2000,
+      "score_label": "2000+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 07:20:00 -0700",
+      "meta": "快訊／被駭？台北市官網深夜全面癱瘓 林亮君揭原因"
+    },
+    {
+      "title": "胡瓜",
+      "url": "https://www.google.com/search?q=%E8%83%A1%E7%93%9C",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6gvwhokxwLLLedunNEt_wsqvXnCoX7DQHBtML_RaZ6XRBO5-_o0ul0GrLXcI",
+      "score": 1000,
+      "score_label": "1000+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 06:20:00 -0700",
+      "meta": "募500萬善款卻病倒！胡瓜爆狂吞6藥憂中毒 證實演藝活動停辦一年"
+    },
+    {
+      "title": "曹雅雯",
+      "url": "https://www.google.com/search?q=%E6%9B%B9%E9%9B%85%E9%9B%AF",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9SRPGJNS195FCWeSQ7AcGcR1L9UJtCUW5fnTbgW2RysFGi4nI6R-BrolS59I",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 06:50:00 -0700",
+      "meta": "曹雅雯為癌末父親「剃光頭」！媽媽曾擔心影響工作　她一句話堅定陪到底"
+    },
+    {
+      "title": "六合彩",
+      "url": "https://www.google.com/search?q=%E5%85%AD%E5%90%88%E5%BD%A9",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoY3DAdsCkgvp3dZ6cpKGM_uRdyittMzye5pXl52qiSSFZBw-zx7lhRSPznCM",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 06:50:00 -0700",
+      "meta": "六合彩｜中秋金多寶頭獎無人中 下期頭獎基金高達 9100 萬"
+    },
+    {
+      "title": "週末最強大",
+      "url": "https://www.google.com/search?q=%E9%80%B1%E6%9C%AB%E6%9C%80%E5%BC%B7%E5%A4%A7",
+      "thumbnail": null,
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 05:50:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "亞運 棒球 韓國 中國",
+      "url": "https://www.google.com/search?q=%E4%BA%9E%E9%81%8B%20%E6%A3%92%E7%90%83%20%E9%9F%93%E5%9C%8B%20%E4%B8%AD%E5%9C%8B",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuHKOKB3C63HgVC-oaLkcXcQpGKiQE9aKjaI_UGYezjS6I06g86IEHMD_7jeY",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 05:30:00 -0700",
+      "meta": "名古屋亞運》韓國隊「豊橋慘事」 韓媒：就算奪金也洗不清的恥辱"
+    },
+    {
+      "title": "justin verlander",
+      "url": "https://www.google.com/search?q=justin%20verlander",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgRUuck79v4FJTCjbCzPNPtaJEbmIXj9kveXg1yis3dqmFRyBruGAPmoqca5E",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 26 Sep 2026 10:50:00 -0700",
+      "meta": "'That's my girl': Verlander daddy-daughter duo shares unforgettable first pitch"
+    }
+  ]
+}

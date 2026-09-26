@@ -1,0 +1,441 @@
+{
+  "id": "finance",
+  "name": "財經新聞",
+  "updated_at": "2026-09-26T18:10:06+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "14檔低基期 點火 股價仍在季線下、今年獲利將成長 有望補漲",
+      "url": "https://money.udn.com/money/story/5607/9778139",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/18/35339725.jpg&M=1&s=Y&x=0&y=0&sw=1227&sh=818&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T02:41:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "面板雙虎轉攻先進封裝！友達規劃試產線、群創新平台拚2027年量產 最新進度曝光",
+      "url": "https://www.ctee.com.tw/news/20260926700096-430502",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26",
+      "meta": "工商時報"
+    },
+    {
+      "title": "習近平訪美與川普達成8項共識！中美「300億美元」對等降稅、AI對話11月登場",
+      "url": "https://news.cnyes.com/news/id/6616474",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616474/m/f6250d1c194d9229240b4d6f2be1dbac.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T10:10:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "一顆可賣2500！每週往返台北屏東，熱血電機教授帶400人種出台灣榴槤",
+      "url": "https://www.cw.com.tw/article/5143013",
+      "thumbnail": "https://cdn-smarteditor.cw.com.tw/article_main/202609/1aef97c2-682d-4c63-a153-a15808830ba2.webp",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "英特爾 CEO 陳立武點名下一波新興技術 微流體、碳化矽入列",
+      "url": "https://money.udn.com/money/story/5599/9779099",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35366314.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T17:59:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "記憶體最猛的還在後面？法人估NAND、DRAM Q4還要漲！群聯、南亞科、華邦電受惠",
+      "url": "https://www.ctee.com.tw/news/20260926700060-430502",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26",
+      "meta": "工商時報"
+    },
+    {
+      "title": "邁威爾：光學互連、記憶體成AI下一階段算力擴張關鍵",
+      "url": "https://news.cnyes.com/news/id/6616487",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616487/m/fcadeb956f8a216fd81171d6167be603.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T14:10:02+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "獨家》巨大賠1億還不夠？美國海關暫扣令一週年，接下來還有歐盟？",
+      "url": "https://www.cw.com.tw/article/5143029",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "美債殖利率急升 震撼波可能衝擊哪些資產市場？",
+      "url": "https://money.udn.com/money/story/5599/9779252",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35366486.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T21:49:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "習川會後 AI、中概股有戲？法人買超16檔 台達電、聯發科入列",
+      "url": "https://www.ctee.com.tw/news/20260926700024-430201",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26",
+      "meta": "工商時報"
+    },
+    {
+      "title": "美中推動優惠關稅待遇！中國2027、2028年各進口1000萬噸美國煤炭",
+      "url": "https://news.cnyes.com/news/id/6616459",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616459/m/f6a5da6d6e8a46907cbb30069aa6a8ba.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T09:10:02+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "60歲後每天5個動作，改善多年駝背",
+      "url": "https://www.cw.com.tw/article/5143043",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "習近平要川普反對台獨 在白宮會談中當面提出要求",
+      "url": "https://money.udn.com/money/story/5599/9778142",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/25/35364769.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T02:39:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "多屋族別讓房子空著！稅務局教省稅術 房屋稅率最低降至1.5％",
+      "url": "https://www.ctee.com.tw/news/20260926700011-430103",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26",
+      "meta": "工商時報"
+    },
+    {
+      "title": "川普發地圖 將荷姆茲海峽更名為「川普海峽」",
+      "url": "https://news.cnyes.com/news/id/6616491",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616491/m/38da970e4c52eb8d97f112a773ee5d6f.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T10:52:57+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "Uber司機、外送員如何在AI時代「安靜失業」？",
+      "url": "https://www.cw.com.tw/article/5143024",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人",
+      "url": "https://money.udn.com/money/story/5599/9778662",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35365620.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T11:47:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "從一顆藏在主機板裡的晶片出發...信驊22年煉成「2萬元股王」BMC吃下全球7成市占",
+      "url": "https://www.ctee.com.tw/news/20260926700009-430502",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26",
+      "meta": "工商時報"
+    },
+    {
+      "title": "沙國9月出口量寫伊朗戰爭爆發來新高 激增近80%",
+      "url": "https://news.cnyes.com/news/id/6616517",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616517/m/a438132bf7efafc74b117b2d823386e6.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T11:56:51+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "川習會｜門一關先談台灣，習近平談話2細節耐人尋味",
+      "url": "https://www.cw.com.tw/article/5143054",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "下周開盤前 五件值得回顧的國際大事",
+      "url": "https://money.udn.com/money/story/123398/9778978",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35366150.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T15:56:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "觸控雙雄跨足半導體 TPK攻玻璃基板 GIS布局光通訊",
+      "url": "https://www.ctee.com.tw/news/20260926700099-430502",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26",
+      "meta": "工商時報"
+    },
+    {
+      "title": "AI投資進入新階段！大摩：槓鈴策略成爲配置主線",
+      "url": "https://news.cnyes.com/news/id/6616373",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616373/m/77c7b66615038ce67e77d086038d24bf.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T12:10:07+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "60歲後能完成這3個動作　你的肌力高於平均",
+      "url": "https://www.cw.com.tw/article/5143000",
+      "thumbnail": "https://cdn-www.cw.com.tw/article/202609/article-6ab22597e2e7b4.08058184.jpg",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "整理包／川習會排場大、成果少：休兵兩月 美未回應台灣議題",
+      "url": "https://money.udn.com/money/story/5599/9778581",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35365495.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T11:04:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "台股10月先探底、12月挑戰5萬點？3名師看Q4行情 AI、傳產布局方向曝光",
+      "url": "https://www.ctee.com.tw/news/20260926700038-430201",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26",
+      "meta": "工商時報"
+    },
+    {
+      "title": "Fed可能忽視了柴油價格風險？美國柴油價格飆升83%恐推升核心通膨",
+      "url": "https://news.cnyes.com/news/id/6616414",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616414/m/46eb578d85d29379e11fd8d3a9393854.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T08:10:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "65歲後能完成這4個動作，代表你的體能不錯",
+      "url": "https://www.cw.com.tw/article/5143023",
+      "thumbnail": "https://cdn-www.cw.com.tw/article/202609/article-6ab393fa60d444.57828027.jpg",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "Fed 做錯了嗎？避險基金大亨：AI 時代升息抗通膨恐適得其反",
+      "url": "https://money.udn.com/money/story/5599/9779181",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35366400.jpg&M=1&s=Y&x=0&y=0&sw=1256&sh=837&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T19:53:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "AI代理對決美債殖利率！誰將主導美股？高盛：多頭可「這樣」避險",
+      "url": "https://news.cnyes.com/news/id/6616379",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616379/m/08abd9e550d227daddf921b5daed9ceb.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T13:10:02+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "高齡者真正需要的可能不是完美設計　為什麼家具「不正常使用」反而成了老後解方？",
+      "url": "https://www.cw.com.tw/article/5143010",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "換屋族注意！買這類房就算符合自住也不能申請退稅",
+      "url": "https://money.udn.com/money/story/6710/9778907",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35366022.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=854&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T14:42:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "《紐約客》AI建設速度驚人 科技巨頭為何難以共同防範AI風險？",
+      "url": "https://news.cnyes.com/news/id/6616456",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616456/m/46d0100090f4ecf86a5b1140aafac3b9.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T11:10:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "財經一週：川習會直攻台灣議題、Meta Muse一戰成名、OECD上修全球經濟成長",
+      "url": "https://www.cw.com.tw/article/5143055",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "也是養、套、殺？伊朗總統公開訴苦 在中國的資金受阻 無法匯出來",
+      "url": "https://money.udn.com/money/story/5599/9779292",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35366530.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T22:33:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "〈紐約匯市〉美元漲勢暫歇本周仍漲近1% 日元因川普關切大漲",
+      "url": "https://news.cnyes.com/news/id/6615983",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6615983/m/436950b38457f7a1bf59503a92dee5ff.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T22:41:08+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "川習二會，台灣獲得兩好球、兩壞球",
+      "url": "https://www.cw.com.tw/article/5143056",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "投顧董總看台股 12月上旬前攀高",
+      "url": "https://money.udn.com/money/story/5607/9778143",
+      "thumbnail": "https://udn.com/upf/2017_news/noimg_cid1001_3.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T02:37:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "〈貴金屬盤後〉Fed官員聯手放鷹、美債殖利率挺升 金價周線收黑",
+      "url": "https://news.cnyes.com/news/id/6616095",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616095/m/8ad28d89d0edbece4b2d0320b39d11d7.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T22:52:45+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "從幹細胞到中草藥，腦神經外科權威醫師林欣榮開拓大腦再生研究新路徑",
+      "url": "https://www.cw.com.tw/article/5142994",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "天下雜誌"
+    },
+    {
+      "title": "川普喊川習會成果豐 預告有大事 新華社披露達成一份新的聯合安排",
+      "url": "https://money.udn.com/money/story/5599/9778116",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/25/35364750.jpg&M=2&s=Y&x=0&y=18&sw=944&sh=629&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T02:27:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "外資回頭掃貨！主動式ETF規模前五強全勝大盤 00981A周漲近1成",
+      "url": "https://news.cnyes.com/news/id/6614874",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6614874/m/5ade35012afe6005621f2959998aeca9.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T04:27:36+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "美股周線全紅難掩債市壓力 下周通膨和就業數據考驗漲勢",
+      "url": "https://money.udn.com/money/story/123398/9778685",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35365647.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T11:59:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "英特爾14A製程來勢洶洶 與台積電A14性能差距曝光",
+      "url": "https://news.cnyes.com/news/id/6616246",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616246/m/383d69ea2fddb2cb87097f80e6eb5e0d.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T22:53:10+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "專家示警：美股崩盤要素已全部到位 只待導火線引爆",
+      "url": "https://money.udn.com/money/story/123398/9779409",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35366611.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T23:34:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "〈能源盤後〉美伊探索停戰路徑 油價回落逾2%  Brent站回104美元",
+      "url": "https://news.cnyes.com/news/id/6616209",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6616209/m/395aef4d81d514084c6d252c763bbe8b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T21:20:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "美股收紅、費半漲逾1% 這類股是升息環境下最具投資價值的",
+      "url": "https://money.udn.com/money/story/5607/9778960",
+      "thumbnail": "https://udn.com/upf/2017_news/noimg_cid1001_2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T15:35:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "宏碁華碩領銜首發Googlebook 結合Gemini催化高階AI PC新變局",
+      "url": "https://news.cnyes.com/news/id/6615421",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6615421/m/715bcaf7365ead4feed056e86894dd8a.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T01:40:21+00:00",
+      "meta": "鉅亨網"
+    }
+  ]
+}

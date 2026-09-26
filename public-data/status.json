@@ -1,0 +1,476 @@
+{
+  "updated_at": "2026-09-26T18:12:36+00:00",
+  "failed": [
+    {
+      "kind": "熱門榜",
+      "name": "華視",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://news.cts.com.tw/api/news/rankings"
+    },
+    {
+      "kind": "熱門榜",
+      "name": "商業周刊",
+      "ok": false,
+      "count": null,
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "kind": "熱門榜",
+      "name": "日經中文網",
+      "ok": false,
+      "count": null,
+      "error": "日經中文網 HotNews 解析不到任何文章"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Gossiping",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Gossiping/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Stock",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Stock/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "C_Chat",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/C_Chat/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Baseball",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Baseball/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Lifeismoney",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Lifeismoney/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "HatePolitics",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/HatePolitics/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Tech_Job",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Tech_Job/index.html"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "公視",
+      "ok": false,
+      "count": null,
+      "error": "公視即時新聞列表沒有抓到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "華視",
+      "ok": false,
+      "count": null,
+      "error": "華視新聞 API 沒有抓到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "商業周刊",
+      "ok": false,
+      "count": null,
+      "error": "商業周刊最新文章列表沒有抓到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "BBC 中文",
+      "ok": false,
+      "count": null,
+      "error": "BBC 中文近期文章解析不到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "紐約時報中文網",
+      "ok": false,
+      "count": null,
+      "error": "紐約時報中文網近期文章解析不到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "日經中文網",
+      "ok": false,
+      "count": null,
+      "error": "日經中文網近期文章解析不到任何文章"
+    }
+  ],
+  "all": [
+    {
+      "kind": "熱門榜",
+      "name": "聯合新聞網",
+      "ok": true,
+      "count": 15,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "自由時報",
+      "ok": true,
+      "count": 15,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "中時新聞網",
+      "ok": true,
+      "count": 15,
+      "error": null
+    },
+    {
+      "kind": "來源",
+      "name": "報紙新聞",
+      "ok": true,
+      "count": 45,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "TVBS",
+      "ok": true,
+      "count": 10,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "東森新聞",
+      "ok": true,
+      "count": 15,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "公視",
+      "ok": true,
+      "count": 8,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "華視",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://news.cts.com.tw/api/news/rankings"
+    },
+    {
+      "kind": "來源",
+      "name": "電視新聞",
+      "ok": true,
+      "count": 33,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "ETtoday 新聞雲",
+      "ok": true,
+      "count": 15,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "Yahoo 奇摩新聞",
+      "ok": true,
+      "count": 15,
+      "error": null
+    },
+    {
+      "kind": "來源",
+      "name": "網路新聞",
+      "ok": true,
+      "count": 30,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "經濟日報",
+      "ok": true,
+      "count": 15,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "工商時報",
+      "ok": true,
+      "count": 7,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "鉅亨網",
+      "ok": true,
+      "count": 15,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "天下雜誌",
+      "ok": true,
+      "count": 11,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "商業周刊",
+      "ok": false,
+      "count": null,
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "kind": "來源",
+      "name": "財經新聞",
+      "ok": true,
+      "count": 48,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "BBC 中文",
+      "ok": true,
+      "count": 10,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "紐約時報中文網",
+      "ok": true,
+      "count": 10,
+      "error": null
+    },
+    {
+      "kind": "熱門榜",
+      "name": "日經中文網",
+      "ok": false,
+      "count": null,
+      "error": "日經中文網 HotNews 解析不到任何文章"
+    },
+    {
+      "kind": "熱門榜",
+      "name": "DW 德國之聲中文",
+      "ok": true,
+      "count": 15,
+      "error": null
+    },
+    {
+      "kind": "來源",
+      "name": "國際新聞",
+      "ok": true,
+      "count": 35,
+      "error": null
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Gossiping",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Gossiping/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Stock",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Stock/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "C_Chat",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/C_Chat/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Baseball",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Baseball/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Lifeismoney",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Lifeismoney/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "HatePolitics",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/HatePolitics/index.html"
+    },
+    {
+      "kind": "PTT 看板",
+      "name": "Tech_Job",
+      "ok": false,
+      "count": null,
+      "error": "403 Client Error: Forbidden for url: https://www.ptt.cc/bbs/Tech_Job/index.html"
+    },
+    {
+      "kind": "來源",
+      "name": "PTT 熱門",
+      "ok": true,
+      "count": 0,
+      "error": null
+    },
+    {
+      "kind": "來源",
+      "name": "Google 熱搜",
+      "ok": true,
+      "count": 10,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "聯合新聞網",
+      "ok": true,
+      "count": 121,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "自由時報",
+      "ok": true,
+      "count": 120,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "中時新聞網",
+      "ok": true,
+      "count": 47,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "TVBS",
+      "ok": true,
+      "count": 36,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "東森新聞",
+      "ok": true,
+      "count": 31,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "公視",
+      "ok": false,
+      "count": null,
+      "error": "公視即時新聞列表沒有抓到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "華視",
+      "ok": false,
+      "count": null,
+      "error": "華視新聞 API 沒有抓到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "ETtoday 新聞雲",
+      "ok": true,
+      "count": 48,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "Yahoo 奇摩新聞",
+      "ok": true,
+      "count": 371,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "經濟日報",
+      "ok": true,
+      "count": 35,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "工商時報",
+      "ok": true,
+      "count": 8,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "鉅亨網",
+      "ok": true,
+      "count": 2,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "天下雜誌",
+      "ok": true,
+      "count": 1,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "商業周刊",
+      "ok": false,
+      "count": null,
+      "error": "商業周刊最新文章列表沒有抓到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "BBC 中文",
+      "ok": false,
+      "count": null,
+      "error": "BBC 中文近期文章解析不到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "紐約時報中文網",
+      "ok": false,
+      "count": null,
+      "error": "紐約時報中文網近期文章解析不到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "日經中文網",
+      "ok": false,
+      "count": null,
+      "error": "日經中文網近期文章解析不到任何文章"
+    },
+    {
+      "kind": "補抓文章",
+      "name": "DW 德國之聲中文",
+      "ok": true,
+      "count": 2,
+      "error": null
+    },
+    {
+      "kind": "補抓文章",
+      "name": "Google News",
+      "ok": true,
+      "count": 920,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "web",
+  "name": "網路新聞",
+  "updated_at": "2026-09-26T18:10:04+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "印度70歲老婦勸別喝酒　遭2男「集體性侵」慘死！拖行50m棄屍",
+      "url": "https://www.ettoday.net/news/20260926/3244507.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/8941/c8941115.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T18:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "北市大安區發生火警　蔣萬安：煙霧預估影響雙北6區",
+      "url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E7%99%BC%E7%94%9F%E7%81%AB%E8%AD%A6-%E8%94%A3%E8%90%AC%E5%AE%89-%E7%85%99%E9%9C%A7%E9%A0%90%E4%BC%B0%E5%BD%B1%E9%9F%BF%E9%9B%99%E5%8C%975%E5%8D%80-144957403.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/306532E3C65359DA76E0121E0B6CB8D3326BFD9EBB966A079DEB353E7366621C/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2F2a1b1a133a3daeadad0bf341a9940016.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-27T00:16:05+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "行醫25年曝「洗腎者最後悔10句話」！醫嘆：很多人都在拖",
+      "url": "https://health.ettoday.net/news/3244293",
+      "thumbnail": "https://cdn2.ettoday.net/images/7404/c7404925.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T21:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "快訊／被駭？台北市官網深夜全面癱瘓　林亮君揭原因",
+      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E8%A2%AB%E9%A7%AD-%E5%8F%B0%E5%8C%97%E5%B8%82%E5%AE%98%E7%B6%B2%E6%B7%B1%E5%A4%9C%E5%85%A8%E9%9D%A2%E7%99%B1%E7%98%93-%E6%9E%97%E4%BA%AE%E5%90%9B%E6%8F%AD%E5%8E%9F%E5%9B%A0-155400712.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/065D1CE728EE21C1E457C2C615AC8A50AE1968CC0BD83C1926B0DFC56D3C2BCF/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsetn.com.tw%2F50ee8f1b14a5bc4686317884d1e86fe5.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T23:54:00+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "中華隊對日本終於破蛋！終結12年尷尬紀錄",
+      "url": "https://sports.ettoday.net/news/3244526",
+      "thumbnail": "https://cdn2.ettoday.net/images/8937/c8937869.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T19:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "白冰冰突發「嚴正聲明」！喊話大家：尊重本人中立立場",
+      "url": "https://tw.news.yahoo.com/%E7%99%BD%E5%86%B0%E5%86%B0%E7%AA%81%E7%99%BC-%E5%9A%B4%E6%AD%A3%E8%81%B2%E6%98%8E-%E5%96%8A%E8%A9%B1%E5%A4%A7%E5%AE%B6-%E5%B0%8A%E9%87%8D%E6%9C%AC%E4%BA%BA%E4%B8%AD%E7%AB%8B%E7%AB%8B%E5%A0%B4-150700870.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/77D09894B771EC84A5829BB5DEFE6A962A229BF4701069274856E0D0C867B5DF/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsetn.com.tw%2F9df3439b70d077a68749c68e25176686.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T23:07:00+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "快訊／「舒力基」升級中颱　最新路徑曝",
+      "url": "https://www.ettoday.net/news/20260926/3244409.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/8941/c8941333.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T21:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "能說英語、衣著得體、平易近人　美媒：彭麗媛是習近平的「軟實力超級武器」",
+      "url": "https://tw.news.yahoo.com/%E8%83%BD%E8%AA%AA%E8%8B%B1%E8%AA%9E-%E8%A1%A3%E8%91%97%E5%BE%97%E9%AB%94-%E5%B9%B3%E6%98%93%E8%BF%91%E4%BA%BA-%E7%BE%8E%E5%AA%92-%E5%BD%AD%E9%BA%97%E5%AA%9B%E6%98%AF%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84-145406426.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/DBB3AE834EE4B4AD067B44E268C4E562B331BF43BE26184A99CA079CF642A051/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftaisounds_com_380%2F36849f785d0801a7dc5f194105c726e6.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T22:54:06+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "高鐵商務艙旅客中秋爆氣！大罵自由座旅客「滾出車廂」",
+      "url": "https://www.ettoday.net/news/20260926/3244556.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/4755/c4755807.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T22:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "日本免稅密封袋將走入歷史！專家提醒：做錯全單不退",
+      "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E5%85%8D%E7%A8%85%E5%AF%86%E5%B0%81%E8%A2%8B%E5%B0%87%E8%B5%B0%E5%85%A5%E6%AD%B7%E5%8F%B2-%E5%B0%88%E5%AE%B6%E6%8F%90%E9%86%92-%E5%81%9A%E9%8C%AF%E5%85%A8%E5%96%AE%E4%B8%8D%E9%80%80-145200578.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/5CDFD59478C9BFAE99F5417EC74D4098F9E03EF58B6A02BF11F24E019443660E/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Febc.net.tw%2Fcaf263ac36ff2c5bdf8062cb6b5dd6ab.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T22:52:00+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "北市都更工地晚間大火！「火舌從B3衝出」濃煙狂竄　消防員灌救中",
+      "url": "https://www.ettoday.net/news/20260926/3244585.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/8941/c8941439.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T23:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "第1名很多人中！醫執業25年揭「腎友後悔10大金句」　水分攝取不足也上榜",
+      "url": "https://tw.news.yahoo.com/%E7%AC%AC1%E5%90%8D%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%AD-%E9%86%AB%E5%9F%B7%E6%A5%AD25%E5%B9%B4%E6%8F%AD-%E8%85%8E%E5%8F%8B%E5%BE%8C%E6%82%9410%E5%A4%A7%E9%87%91%E5%8F%A5-%E6%B0%B4%E5%88%86%E6%94%9D%E5%8F%96%E4%B8%8D%E8%B6%B3%E4%B9%9F%E4%B8%8A%E6%A6%9C-131704818.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/561FC0F900655F100EAAF8F619C0EFD8BDB3DCE8BA5D4A4626F61416C2174ED1/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fctwant_com_582%2F4a8cd692298e5fb93036feb24f6b1947.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T21:17:04+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "《歌手》劉歡病逝前急托妻還錢　作曲家曝異狀：他可能有預感",
+      "url": "https://star.ettoday.net/news/3244579",
+      "thumbnail": "https://cdn2.ettoday.net/images/8941/c8941441.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T23:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "群益金融集團攜手台鋼雄鷹大巨蛋品牌日 推廣體育賽事與金融教育",
+      "url": "https://tw.stock.yahoo.com/news/%E7%BE%A4%E7%9B%8A%E9%87%91%E8%9E%8D%E9%9B%86%E5%9C%98%E6%94%9C%E6%89%8B%E5%8F%B0%E9%8B%BC%E9%9B%84%E9%B7%B9%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%93%81%E7%89%8C%E6%97%A5-%E6%8E%A8%E5%BB%A3%E9%AB%94%E8%82%B2%E8%B3%BD%E4%BA%8B%E8%88%87%E9%87%91%E8%9E%8D%E6%95%99%E8%82%B2-153207883.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/2521A415D58B2074E50248C5B93DC42730D3602C431397B747DE3AEF01F01F50/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fftvn_finance_535%2F2a5bd27eb48a4c62115a36c3cab59530.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T23:32:07+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "「工作2年給百萬」女移工淪性奴！慘被銬床性侵　惡老闆判刑7年",
+      "url": "https://www.ettoday.net/news/20260926/3244326.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/6908/c6908100.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T12:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "國五有望延伸頭份？揭黃世杰拋「史詩級」交通政見　粉專酸：桃園人有福了！",
+      "url": "https://tw.news.yahoo.com/%E5%9C%8B%E4%BA%94%E6%9C%89%E6%9C%9B%E5%BB%B6%E4%BC%B8%E9%A0%AD%E4%BB%BD-%E6%8F%AD%E9%BB%83%E4%B8%96%E6%9D%B0%E6%8B%8B-%E5%8F%B2%E8%A9%A9%E7%B4%9A-%E4%BA%A4%E9%80%9A%E6%94%BF%E8%A6%8B-%E7%B2%89%E5%B0%88%E9%85%B8-134352652.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/45EE443B3F1BF4E4C343703567C974D498C8BCA3295E4EBF021E17A75D4F968C/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstormmediagroup.com%2F8851bb3ad554785e97590b845533a043",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T21:43:52+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "台積電34職等跑去教書　大三生納悶「錢賺夠了？」釣出教授親解答",
+      "url": "https://www.ettoday.net/news/20260926/3243704.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/6543/c6543282.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T22:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "劉歡病逝前急忙還錢！遺孀悲慟首發聲：我永遠的痛",
+      "url": "https://tw.news.yahoo.com/%E5%8A%89%E6%AD%A1%E7%97%85%E9%80%9D%E5%89%8D%E6%80%A5%E5%BF%99%E9%82%84%E9%8C%A2-%E9%81%BA%E5%AD%80%E6%82%B2%E6%85%9F%E9%A6%96%E7%99%BC%E8%81%B2-%E6%88%91%E6%B0%B8%E9%81%A0%E7%9A%84%E7%97%9B-124727627.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/D4783FAC4E62221A3E849D348F135079A3EDCE03626419A43C9FE13714463DB7/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fchinatimes.com.tw%2F2b59255d37e279f004684fab6c9a796c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T20:47:27+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "加價2000做全套「泰國技師」清涼照誘老司機　中秋節被抄了",
+      "url": "https://www.ettoday.net/news/20260926/3244457.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/8941/c8941023.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T16:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "保時捷被平價品牌超車　福斯集團獲利王讓人意想不到",
+      "url": "https://tw.news.yahoo.com/%E4%BF%9D%E6%99%82%E6%8D%B7%E8%A2%AB%E5%B9%B3%E5%83%B9%E5%93%81%E7%89%8C%E8%B6%85%E8%BB%8A-%E7%A6%8F%E6%96%AF%E9%9B%86%E5%9C%98%E7%8D%B2%E5%88%A9%E7%8E%8B%E8%AE%93%E4%BA%BA%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0-133500750.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/11E044F4C92C6D912966F92686A42555925C27FEC188EC4ECD6ABB12E050148C/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fca%2Fsetn.com.tw%2F86a3aa9743760e251a259068c3bf0303.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T21:35:00+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "快訊／北市大安工地深夜大火！蔣萬安：地下3樓搶救難度較高",
+      "url": "https://www.ettoday.net/news/20260927/3244594.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/8941/c8941439.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-27T01:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "獨家／正妹哭了！ 近12萬寶格麗項鍊 游泳前遭竊 發文懸賞",
+      "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E6%AD%A3%E5%A6%B9%E5%93%AD%E4%BA%86-%E8%BF%9112%E8%90%AC%E5%AF%B6%E6%A0%BC%E9%BA%97%E9%A0%85%E9%8D%8A-%E6%B8%B8%E6%B3%B3%E5%89%8D%E9%81%AD%E7%AB%8A-%E7%99%BC%E6%96%87%E6%87%B8%E8%B3%9E-142800633.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/82D025A9233A88F03667640D21D1EE76A82AB237DAA658E4D63C66921A825B14/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Febc.net.tw%2Fbd6b2ed341b500ebf3225aa2661c5e28.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T22:28:00+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "自強號突冒煙「全車換車」　旅客問退費…車站人員：應該可以",
+      "url": "https://www.ettoday.net/news/20260926/3244562.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/8941/c8941402.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T23:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "CoWoS供電新寵！「這元件」村田、三星搶布局 6台廠卡位",
+      "url": "https://tw.stock.yahoo.com/news/cowos%E4%BE%9B%E9%9B%BB%E6%96%B0%E5%AF%B5-%E9%80%99%E5%85%83%E4%BB%B6-%E6%9D%91%E7%94%B0-%E4%B8%89%E6%98%9F%E6%90%B6%E5%B8%83%E5%B1%80-6%E5%8F%B0%E5%BB%A0%E5%8D%A1%E4%BD%8D-125000827.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/6FF629324399A3E1D4FCDAF2EA4CB0D62F8CAD66E8FF5115980F666B59C0F659/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Febc__387%2F0b8c3728eb52e30fb906d0a419777b72.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T20:50:00+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "日本免稅袋取消　回國前「不能吃掉、用掉」！少1樣整單不能退稅",
+      "url": "https://www.ettoday.net/news/20260926/3244487.htm",
+      "thumbnail": "https://cdn2.ettoday.net/images/3001/c3001653.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T18:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "記憶體被盯上！投信減倉「這2檔」2.3萬張　連砍華邦電7周帶走191億元",
+      "url": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E8%A2%AB%E7%9B%AF%E4%B8%8A-%E6%8A%95%E4%BF%A1%E6%B8%9B%E5%80%89-%E9%80%992%E6%AA%94-2-3%E8%90%AC%E5%BC%B5-130000234.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/40C0A4A3375A047588214FDE2155EFCA0E41AB17A3729A301115080D107754A1/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fftnn_com_tw_939%2F01c87f7e1dbadaddb05d650bdebd8fad.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T21:00:00+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "快訊／中華隊關鍵戰3比7不敵日本　確定銅牌戰",
+      "url": "https://sports.ettoday.net/news/3244508",
+      "thumbnail": "https://cdn2.ettoday.net/images/8940/c8940400.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T22:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "舒力基升級中颱了　氣象署曝對台影響、轉雨時段",
+      "url": "https://tw.news.yahoo.com/%E8%88%92%E5%8A%9B%E5%9F%BA%E6%9C%80%E5%BF%AB%E4%BB%8A%E6%99%9A%E5%8D%87%E7%B4%9A%E4%B8%AD%E9%A2%B1-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E6%9B%9D-%E8%BD%89%E9%9B%A8%E6%99%82%E6%AE%B5-%E6%81%90%E6%BF%953%E5%A4%A9-124300187.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/4167CB1008EF730DF12AB7A444A6BD31F74F8C9A61DED5C7FA6AA3FCE92E7FE9/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F940b532e6810b4ff2ee3b16a40d05921.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T21:37:00+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    },
+    {
+      "title": "超級厭蠢的三大星座！TOP 1腦筋反應都很快　無耐性與缺乏邏輯的人溝通",
+      "url": "https://fashion.ettoday.net/news/3244495",
+      "thumbnail": "https://cdn2.ettoday.net/images/8941/c8941101.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T18:10:00+08:00",
+      "meta": "ETtoday 新聞雲"
+    },
+    {
+      "title": "亞運》史上最年輕金牌得主！11歲電競神童到底多強？每天只玩1小時、打法被讚「像AI」",
+      "url": "https://tw.news.yahoo.com/%E4%BA%9E%E9%81%8B%E3%80%8B%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B9%B4%E8%BC%95%E9%87%91%E7%89%8C%E5%BE%97%E4%B8%BB%EF%BC%8111%E6%AD%B2%E9%9B%BB%E7%AB%B6%E7%A5%9E%E7%AB%A5%E5%88%B0%E5%BA%95%E5%A4%9A%E5%BC%B7%EF%BC%9F%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%8E%A91%E5%B0%8F%E6%99%82%E3%80%81%E6%89%93%E6%B3%95%E8%A2%AB%E8%AE%9A%E3%80%8C%E5%83%8Fai%E3%80%8D-072040594.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/813C3D9595FEF0037E86125BAB31FAC56AF4AC67B0C5B27A4D3095A0B4975EAB/subgraphmysterio/smartcrop_w440_h246_faces;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F2c7bf251-1439-480d-98af-9f66f13c7cdf",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T15:20:40+08:00",
+      "meta": "Yahoo 奇摩新聞"
+    }
+  ]
+}

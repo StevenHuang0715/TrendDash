@@ -1,0 +1,306 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-09-26T18:10:01+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "病毒大爆發！門診「飆升5成」破14萬人次　醫師也中鏢",
+      "url": "https://news.tvbs.com.tw/life/4027873",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0dc8e-1d31-71a0-850f-eacf699f0ee9.png?w=1067&h=600&t=16x9&wp=l,t&c=0,51,657,421&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "涉詐日翁858萬金塊！31歲台女遭警逮捕 長相姓名曝光",
+      "url": "https://news.ebc.net.tw/news/world/573052",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790434459_11315.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T14:50:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "最低工資首度突破3萬元 傳統產業承受壓力",
+      "url": "https://news.pts.org.tw/article/828539",
+      "thumbnail": "https://news-data.pts.org.tw/media/296178/conversions/01M39P7Q7TWFT1DEAXZ44APZ90-thumb_webp.webp",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T20:23:00+08:00",
+      "meta": "公視"
+    },
+    {
+      "title": "劉歡63歲病逝！哈林、那英痛聲哀悼　嘆：此刻心痛不捨",
+      "url": "https://news.tvbs.com.tw/entertainment/music/4027918",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0dcfe-088a-7377-aa85-3db03d751aee.jpg?w=1067&h=600&t=16x9&c=0,211,1080,819&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "罹不死癌症！《歌手2019》歌王劉歡病逝 享壽63歲",
+      "url": "https://ent.ebc.net.tw/music/502687",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/09/26/1790420066_36788.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T10:55:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "亞運棒球台灣9:1擊敗中國 明戰日本爭晉級優勢",
+      "url": "https://news.pts.org.tw/article/828746",
+      "thumbnail": "https://news-data.pts.org.tw/media/296374/conversions/01M3C8Q57H2TEGKS59XCX1VQ9Q-thumb_webp.webp",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T20:29:00+08:00",
+      "meta": "公視"
+    },
+    {
+      "title": "下一個路口撞死人！明星夫妻驚爆恐怖車禍　雙方遭猛烈撞擊",
+      "url": "https://news.tvbs.com.tw/entertainment/music/4027862",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0dc97-a904-7005-b291-e28a4ad10c0e.jpg?w=1067&h=600&t=16x9&c=0,173,1920,1253&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "「做滿2年給百萬」女移工淪性奴2年！新北男手銬囚禁性侵",
+      "url": "https://news.ebc.net.tw/news/society/573011",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790423024_23489.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T11:49:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "最低工資連11年調漲 明年月薪30900元、時薪205元",
+      "url": "https://news.pts.org.tw/article/828540",
+      "thumbnail": "https://news-data.pts.org.tw/media/296164/conversions/01M39KPJF071YHW6DYHN10Z6TQ-thumb_webp.webp",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T19:42:00+08:00",
+      "meta": "公視"
+    },
+    {
+      "title": "中秋烤肉變調！蘆洲男酒後失控持刀砍2友　遭警「大外割」壓制",
+      "url": "https://news.tvbs.com.tw/local/4027737",
+      "thumbnail": "https://img.youtube.com/vi/pFDR01iLkGI/maxresdefault.jpg?w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "傅崐萁喊加碼「普發2萬元」！行政院回應了 列3大原則",
+      "url": "https://news.ebc.net.tw/news/politics/573012",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790423606_26595.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T12:04:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "瑞芳14歲少年持剪刀刺傷學長 OHCA搶救後恢復心跳",
+      "url": "https://news.pts.org.tw/article/828561",
+      "thumbnail": "https://news-data.pts.org.tw/media/296213/conversions/01M39T5AGCGAP1KYSNPPKEX45G-thumb_webp.webp",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T21:29:00+08:00",
+      "meta": "公視"
+    },
+    {
+      "title": "26歲女模被騙到緬甸園區　未達業績「遭摘器官遺體被火化」",
+      "url": "https://news.tvbs.com.tw/world/3017694",
+      "thumbnail": "https://news-images.tvbs.com.tw/legacy/img/upload/2025/10/16/20251016115653-61f12b7e.jpg?w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／油價連續凍漲！中油宣布汽柴油「下週不調」",
+      "url": "https://news.ebc.net.tw/news/living/573084",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790442763_26420.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T17:15:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "亞運棒球複賽台灣9：1贏中國 闖金牌戰須贏日本至少6分",
+      "url": "https://news.pts.org.tw/article/828769",
+      "thumbnail": "https://news-data.pts.org.tw/media/296409/conversions/01M3E057911FZNCXYME952CEGN-thumb_webp.webp",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T12:39:00+08:00",
+      "meta": "公視"
+    },
+    {
+      "title": "東山休息站「腐爛女屍」時間軸曝光！疑染新冠休克亡　家屬認屍不解",
+      "url": "https://news.tvbs.com.tw/local/4027877",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0d909-05e4-7359-8763-ab96dcd756d1.jpg?w=1067&h=600&t=4x3&wp=l,t&c=0,0,1477,1108&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "美媒稱「習近平當面羞辱川普」！MAGA網紅嘆：好尷尬",
+      "url": "https://news.ebc.net.tw/news/world/572999",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790417908_14555.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T10:47:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "新北國三生持剪刀刺傷學長 楊承勳家屬：加速修少事法",
+      "url": "https://news.pts.org.tw/article/828764",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T12:45:00+08:00",
+      "meta": "公視"
+    },
+    {
+      "title": "LINE「1符號」＝你被封鎖了！　達人急喊：千萬別增相簿",
+      "url": "https://news.tvbs.com.tw/life/2419154",
+      "thumbnail": "https://news-images.tvbs.com.tw/legacy/img/upload/2024/03/09/20240309141250-8228392a.jpg?w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "阿部瑪利亞雙喜臨門！突宣布結婚、懷孕 男方身分曝光",
+      "url": "https://ent.ebc.net.tw/buzz/502682",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/09/26/1790413932_73549.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T09:20:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "柬埔寨舉辦反詐騙國際會議 邀媒體參觀已破獲大型園區",
+      "url": "https://news.pts.org.tw/article/828375",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-23T21:17:00+08:00",
+      "meta": "公視"
+    },
+    {
+      "title": "川習短暫提及台灣議題　美駐中大使：對台政策不變　「不支持」台獨",
+      "url": "https://news.tvbs.com.tw/world/4027650",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0dab2-5500-705f-87e7-934b7582f2e0.jpg?w=1067&h=600&t=16x9&wp=r,b&c=0,60,3435,1992&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "太平洋法屬島嶼新喀里多尼亞島 遭規模7強震侵襲",
+      "url": "https://news.ebc.net.tw/news/world/572973",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790410484_24631.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T08:11:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "14歲林逸凡、12歲辜泳諺摘銀 刷新台灣亞運滑板紀錄",
+      "url": "https://news.pts.org.tw/article/828713",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T19:40:00+08:00",
+      "meta": "公視"
+    },
+    {
+      "title": "亞運棒球／中華隊3：7不敵日本！確定無緣爭金　明再戰中國拚銅",
+      "url": "https://news.tvbs.com.tw/sports/baseball/4027874",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0dd4e-4f50-701a-a419-67ed11fdf7aa.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,2730,1536&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "不斷更新／冒雨奮戰！中華隊關鍵之戰 3：7不敵日本",
+      "url": "https://news.ebc.net.tw/news/sport/573092",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790448440_12621.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T21:30:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "油價繼續凍漲！中油宣布下週汽柴油價格不調整",
+      "url": "https://news.tvbs.com.tw/life/4027924",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0b8ea-c1b2-70ed-99db-7b0dccf4f6f7.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,177,8037,4698&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "北市幼兒園3歲女童遭同學「拿積木塞下體」！判決出爐",
+      "url": "https://news.ebc.net.tw/news/society/573007",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790420632_93431.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T11:18:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "2年前才畢業！女星驚傳驟逝「死因未公開」 圈內大咖哀痛悼念",
+      "url": "https://ent.ebc.net.tw/buzz/502686",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/09/26/1790418933_34644.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T10:38:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "人妻拒絕婆家烤肉！尪帶女兒2人出席遭收2000元 她揭多年心酸",
+      "url": "https://news.ebc.net.tw/news/living/573061",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790436626_89479.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T15:27:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "舒力基最快今晚升級中颱！這時起雨區擴大 恐有新熱帶擾動",
+      "url": "https://news.ebc.net.tw/news/living/573093",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790449013_35933.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T19:12:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "新北女車友傳裸照給人夫 約汽旅6次還墮胎！正宮怒提告",
+      "url": "https://news.ebc.net.tw/news/society/572989",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790414073_21791.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T09:28:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "按摩館藏春色！ 泰女穿小洋裝攬客 涉妨害風化",
+      "url": "https://news.ebc.net.tw/news/society/573083",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/26/1790443080_77761.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T17:40:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}

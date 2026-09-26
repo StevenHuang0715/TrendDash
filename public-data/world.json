@@ -1,0 +1,324 @@
+{
+  "id": "world",
+  "name": "國際新聞",
+  "updated_at": "2026-09-26T18:10:17+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "數百艘中國漁船出現在越南外海，北京想要什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/09a7/live/7bd33190-b267-11f1-a430-4d16ee157c41.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T07:22:44.545Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "在國宴上穿褲子的美國第一夫人",
+      "url": "https://cn.nytimes.com/style/20260926/china-state-dinner-melania-trump-pants/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/25/multimedia/25ST-CHINA-STATE-DINNER-zlpb/25ST-CHINA-STATE-DINNER-zlpb-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T17:35:57+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "「背後支持習近平的，是中國的綜合國力」",
+      "url": "https://www.dw.com/zh-hant/背後支持習近平的是中國的綜合國力/a-79432798",
+      "thumbnail": "https://static.dw.com/image/79430561_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T14:04:13.746Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "習近平訪美：美中各從「習特會」得到什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/8cb1/live/0b37bfa0-b8cf-11f1-bc1f-3f186ca4140c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T12:15:11.069Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "「習川會」落幕，中美分歧仍然暗流涌動",
+      "url": "https://cn.nytimes.com/usa/20260926/trump-xi-state-visit/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/25/multimedia/25dc-prexy-04-vid-topart/25dc-prexy-04-wqvz-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T02:21:25+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "長平觀察：川普在錯誤的賽道中一路狂奔",
+      "url": "https://www.dw.com/zh-hant/長平觀察川普在錯誤的賽道中一路狂奔/a-79431554",
+      "thumbnail": "https://static.dw.com/image/79421473_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T12:55:25.654Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "特習會：習近平促特朗普「反對台獨」，北京措辭升級要的是什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/d59f/live/21784cc0-b8cb-11f1-ad1f-538855f30ba1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T10:23:53.072Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中美貿易休戰延長為習近平贏得喘息之機",
+      "url": "https://cn.nytimes.com/business/20260926/china-trump-xi-truce/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/25/multimedia/25biz-china-summit-mgfb/25biz-china-summit-mgfb-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T01:08:08+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "中國第一夫人彭麗媛在華府展示個人魅力",
+      "url": "https://www.dw.com/zh-hant/中國第一夫人彭麗媛在華府展示個人魅力/a-79427423",
+      "thumbnail": "https://static.dw.com/image/79418954_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T09:36:44.868Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
+      "url": "https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/8b5e/live/bc2f2640-b87f-11f1-bc1f-3f186ca4140c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T04:56:06.373Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "習近平訪美，其健康狀況引發廣泛關注",
+      "url": "https://cn.nytimes.com/china/20260924/china-xi-health/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/23/multimedia/23trump-xi-health-mpzk/23trump-xi-health-mpzk-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T01:27:06+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "「G2」峰會：川普超規格款待習近平",
+      "url": "https://www.dw.com/zh-hant/g2峰會川普超規格款待習近平/a-79430234",
+      "thumbnail": "https://static.dw.com/image/79421845_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T12:06:42.379Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/50e3/live/56060c20-b899-11f1-a0d1-cd9a5b309370.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T06:00:47.097Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "白宮國宴：AI巨頭與習近平共進晚餐，川普脫稿演講",
+      "url": "https://cn.nytimes.com/usa/20260926/state-dinner-scene/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/24/multimedia/24dc-scene/24trump-xi-carousel-fpkq-thumbLarge-v3.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T17:03:32+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體： 中美博弈 - 誰能笑到最後？",
+      "url": "https://www.dw.com/zh-hant/德語媒體-中美博弈-誰能笑到最後/a-79432942",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T14:04:40.839Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "習近平獲特朗普紅地氈迎接，但並非事事如願",
+      "url": "https://www.bbc.com/zhongwen/articles/ckvgyjmq84g4o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/b040/live/c2a19a30-b893-11f1-bc1f-3f186ca4140c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T04:54:32.488Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "「習川會」國宴菜單：芝麻脆皮海鱸魚和爽脆嫩白菜",
+      "url": "https://cn.nytimes.com/world/20260925/trump-xi-state-dinner-menu/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/24/multimedia/24trump-xi-menu-topart-jmkf/24trump-xi-menu-topart-jmkf-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T01:15:55+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "每升減稅17歐分 德國聯邦議院通過新的「燃油補貼」計畫",
+      "url": "https://www.dw.com/zh-hant/每升減稅17歐分-德國聯邦議院通過新的燃油補貼計畫/a-79435013",
+      "thumbnail": "https://static.dw.com/image/79312397_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T14:20:26.948Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T00:03:23.434Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "聚焦中美元首峰會：軍機表演和盛大儀式背後的博弈與分歧",
+      "url": "https://cn.nytimes.com/world/20260925/trump-xi-us-china-summit/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/24/multimedia/24dc-memo-cbzj/24dc-memo-cbzj-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T18:48:56+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "白宮大迎賓客 抗議者呼聲震天",
+      "url": "https://www.dw.com/zh-hant/白宮大迎賓客-抗議者呼聲震天/a-79427410",
+      "thumbnail": "https://static.dw.com/image/79424781_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T09:45:00.276Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "特朗普為何親赴機場，超規格接待習近平？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/9c4d/live/6227ce50-b801-11f1-97e1-83bf52ec4acd.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T10:20:23.937Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中美關係正步入一個新時代",
+      "url": "https://cn.nytimes.com/opinion/20260924/trump-xi-meeting-us-china/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/23/multimedia/23chen-vcwp/23chen-vcwp-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T04:42:21+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "張又俠被整肅後 習近平二十一大連任穩了？",
+      "url": "https://www.dw.com/zh-hant/張又俠被整肅後-習近平二十一大連任穩了/a-79411740",
+      "thumbnail": "https://static.dw.com/image/70905002_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T11:49:37.94Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/d6bb/live/cb969e20-ac21-11f1-9bd9-7b7da208bd5c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-16T04:47:26.706Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "川普與習近平在白宮會面，外界對峰會成果預期較低",
+      "url": "https://cn.nytimes.com/world/20260925/trump-xi-summit-china/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/24/multimedia/24trump-xi-carousel-fpkq/24trump-xi-carousel-fpkq-thumbLarge-v3.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-25T01:10:58+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "專家看「川習會」：排場十足 進展寥寥",
+      "url": "https://www.dw.com/zh-hant/專家看川習會排場十足-進展寥寥/a-79442280",
+      "thumbnail": "https://static.dw.com/image/79438042_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T09:59:49.777Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "俄羅斯佔領烏克蘭城市：居民靠院中野菜維生，死者無法下葬，遺體「棄置街頭」",
+      "url": "https://www.bbc.com/zhongwen/articles/c6zjzl7gl9ero/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/3671/live/a0279100-b76a-11f1-a7b2-f3bdba1cd194.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T03:56:37.121Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "川普的白宮歡迎強人領袖習近平，卻拒絕美國記者",
+      "url": "https://cn.nytimes.com/usa/20260925/trump-xi-press-pool-boycott-media/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-pjmv/24dc-prexy-pjmv-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T19:00:33+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "習近平避開紐約 川普在聯大強調美國優先",
+      "url": "https://www.dw.com/zh-hant/習近平避開紐約-川普在聯大強調美國優先/a-79388188",
+      "thumbnail": "https://static.dw.com/image/79374038_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-23T11:27:37.221Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "澤倫斯基：普丁是散佈戰爭思想的「零號病人」",
+      "url": "https://www.dw.com/zh-hant/澤倫斯基普丁是散佈戰爭思想的零號病人/a-79415420",
+      "thumbnail": "https://static.dw.com/image/79403749_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T14:17:10.002Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "同AI分享訊息安全嗎？OpenAI：用戶圖片被洩露",
+      "url": "https://www.dw.com/zh-hant/同ai分享訊息安全嗎openai用戶圖片被洩露/a-79442913",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-26T11:41:03.497Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "德語媒體：台灣危矣？",
+      "url": "https://www.dw.com/zh-hant/德語媒體台灣危矣/a-79359776",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-21T14:02:55.338Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "增長預期翻倍，德國經濟走出困境了嗎？",
+      "url": "https://www.dw.com/zh-hant/增長預期翻倍德國經濟走出困境了嗎/a-79413288",
+      "thumbnail": "https://static.dw.com/image/79408235_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T13:03:09.308Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "德語媒體：暗流湧動的中美關係",
+      "url": "https://www.dw.com/zh-hant/德語媒體暗流湧動的中美關係/a-79416022",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24T14:36:51.58Z",
+      "meta": "DW 德國之聲中文"
+    }
+  ]
+}
