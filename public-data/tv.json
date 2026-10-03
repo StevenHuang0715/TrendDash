@@ -1,0 +1,234 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-10-03T18:25:34+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "半導體震撼彈！台積電傳聯手Terafab赴德州設廠　馬斯克證實：討論中",
+      "url": "https://news.tvbs.com.tw/world/4031128",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1009e-9551-7217-be02-180aa0fb59b5.jpg?w=1067&h=600&t=16x9&wp=r,t&c=0,0,6048,3402&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "名媛蔡天鳳遭分屍燉煮 鄰居聽電鋸聲：聞到特別味道",
+      "url": "https://news.ebc.net.tw/news/world/574033",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791027599_56701.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T11:48:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "蔡天鳳案庭審再揭細節！檢方稱電鋸後「燉煮紅白蘿蔔」為掩蓋惡臭",
+      "url": "https://news.tvbs.com.tw/china/4031043",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0fff2-d009-7030-b2b0-f68885a0d1fb.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "蔡天鳳命案開庭！檢方公開監視器  錄下男聲喊：要用燙的",
+      "url": "https://news.ebc.net.tw/news/world/574064",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791042288_60673.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T16:33:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "快訊／花蓮民間救護車釀禍！疑雨天打滑撞兩車1死4傷　76歲男送命",
+      "url": "https://news.tvbs.com.tw/local/4031214",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1015b-2785-72de-be07-ee54db562900.png?w=1067&h=600&t=16x9&wp=l,t&c=208,57,2455,1321&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "在警局激戰多次！男女警認了「凍未條」雙雙辭職",
+      "url": "https://news.ebc.net.tw/news/world/574042",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791032836_33083.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T13:13:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "名古屋亞運／摘金後沒握手　謝淑薇直言：對手不尊重我「我也不想握」",
+      "url": "https://news.tvbs.com.tw/sports/4031119",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a100ae-c91b-7052-aafa-ceac3ef84999.jpg?w=1067&h=600&t=16x9&c=0,470,4507,3005&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "ATM提款規定改動！2銀行大砍時效 15家規定一次看",
+      "url": "https://news.ebc.net.tw/news/business/574072",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791045206_78801.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T18:08:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "中東局勢緊繃！中油宣布下週汽柴油「凍漲」　最新油價出爐",
+      "url": "https://news.tvbs.com.tw/life/4031174",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a10102-4562-7079-b2ea-be05caea12f8.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,8256,4644&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "運動打卡送100元！雙北25場館限時試辦 不限戶籍都能領",
+      "url": "https://news.ebc.net.tw/news/living/574059",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791040727_72196.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T15:15:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "南亞科增資海外子公司約600億元！累計注資近千億　原因曝光",
+      "url": "https://news.tvbs.com.tw/money/4030941",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/019fccde-0301-71c1-89b8-33f1b9769560.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "胸罩穿整天脫下還是香的？妹子狂點頭驚呼 專家揭真相",
+      "url": "https://news.ebc.net.tw/news/living/574046",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791034775_47075.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T13:47:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "沈伯洋被告發！青鳥涉非法募資急道歉　認過度渲染「獲沈辦同意」",
+      "url": "https://news.tvbs.com.tw/politics/4030980",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0f196-b4fa-72b9-8254-51b273b73f42.jpg?w=1067&h=600&t=16x9&wp=r,t&c=4,0,4310,2422&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "哪裡有需要就去！聖馬爾定醫院創辦人華淑芳修女辭世",
+      "url": "https://news.ebc.net.tw/news/living/574080",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791048101_99612.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T17:22:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "《六燈獎》寇紹恩小手術後爆不適！急動心臟手術「住進ICU」家人證實了",
+      "url": "https://news.tvbs.com.tw/entertainment/variety/4031141",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a100b3-791f-73ff-b047-3cb1ff5cd869.jpg?w=1067&h=600&t=16x9&c=0,50,960,590&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "普發2萬一讀付委審查！藍委：和明年普發1萬財政不衝突",
+      "url": "https://news.ebc.net.tw/news/politics/574018",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791021508_93692.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T10:33:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "少年站高架橋揚言輕生！美警勸說50分鐘　人下來竟開10槍擊斃",
+      "url": "https://news.tvbs.com.tw/world/4030737",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0fbaa-4617-7253-88fa-4d1f9422f4f9.jpg?w=1067&h=600&t=16x9&c=2,0,1056,593&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "洗外牆吊車突傾倒！宜蘭科學園區工人高空墜地慘死",
+      "url": "https://news.ebc.net.tw/news/society/574025",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791025113_23783.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T11:00:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "鄰居目擊小孩在陽台走動！報警來不及　東京9歲童23樓墜樓亡",
+      "url": "https://news.tvbs.com.tw/world/4031176",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a10106-138e-7005-8a1f-f3dd38462490.png?w=1067&h=600&t=16x9&c=0,0,558,314&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "新／北捷驚傳旅客亮刀！搭捷運路線曝光 警：追查中",
+      "url": "https://news.ebc.net.tw/news/society/574087",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791055198_61819.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T19:23:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "阻止喝酒！印度70歲嬤遭2男集體性侵 拖屍丟灌木叢",
+      "url": "https://news.ebc.net.tw/news/world/574081",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791049311_46333.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T17:42:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "下週加油免驚！中油宣布油價凍漲 最新價格一次看",
+      "url": "https://news.ebc.net.tw/news/living/574078",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791047842_76683.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T17:25:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "獨家／41年「太子油飯」稱整修消失半年！ 內部曝：恐歇業",
+      "url": "https://news.ebc.net.tw/news/living/574044",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791033535_21293.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T13:24:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "沙烏地擬擴大攻勢護紅海航運 青年運動稱遭94次空襲",
+      "url": "https://news.ebc.net.tw/news/world/574068",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791044463_53848.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T16:17:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "隔1年7個月！日本沖繩發流感警報 單週飆1870例",
+      "url": "https://news.ebc.net.tw/news/world/574079",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/03/1791048111_63974.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T18:05:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}

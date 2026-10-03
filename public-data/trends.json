@@ -1,0 +1,99 @@
+{
+  "id": "trends",
+  "name": "Google 熱搜",
+  "updated_at": "2026-10-03T18:25:50+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "明天的天氣",
+      "url": "https://www.google.com/search?q=%E6%98%8E%E5%A4%A9%E7%9A%84%E5%A4%A9%E6%B0%A3",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKUl6PeaFWZZdDNB2b4dUy7WLGaa6bA1phwHgrKCoPmslDB3gubea0LXP0hSE",
+      "score": 20000,
+      "score_label": "20000+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 06:00:00 -0700",
+      "meta": "明2地區有雨…下周東北季風再增強 低溫下探19度"
+    },
+    {
+      "title": "克羅埃西亞 對 英格蘭",
+      "url": "https://www.google.com/search?q=%E5%85%8B%E7%BE%85%E5%9F%83%E8%A5%BF%E4%BA%9E%20%E5%B0%8D%20%E8%8B%B1%E6%A0%BC%E8%98%AD",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnJ3ESpqqZ2_lZnJecYfBSZWuUFNsFMWWpccAGdYpEiG7FT70k6LXExPvSfhE",
+      "score": 5000,
+      "score_label": "5000+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 08:10:00 -0700",
+      "meta": "足球運彩分析》10/4 英格蘭前2戰都有進球 克羅埃西亞防線連場失分"
+    },
+    {
+      "title": "蔣萬安",
+      "url": "https://www.google.com/search?q=%E8%94%A3%E8%90%AC%E5%AE%89",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLRBqjmc-5ZoywyBxhmZk636kAYz7tW-K1mQBofLe8a_pWNJ2Rgj7RLVi25V4",
+      "score": 5000,
+      "score_label": "5000+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 08:00:00 -0700",
+      "meta": "蔣萬安臉書被灌爆！競辦嗆：沈伯洋急了"
+    },
+    {
+      "title": "中華職棒",
+      "url": "https://www.google.com/search?q=%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92",
+      "thumbnail": null,
+      "score": 5000,
+      "score_label": "5000+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 05:10:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "傅子純",
+      "url": "https://www.google.com/search?q=%E5%82%85%E5%AD%90%E7%B4%94",
+      "thumbnail": null,
+      "score": 2000,
+      "score_label": "2000+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 05:10:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "油价",
+      "url": "https://www.google.com/search?q=%E6%B2%B9%E4%BB%B7",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThANr5H-XauxLRqupN_OFfgqm2FfkZ1OphLjxD3LpgEsbpS7nmZ72e8uAlZDs",
+      "score": 2000,
+      "score_label": "2000+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 04:40:00 -0700",
+      "meta": "金价银价“巨震”！国际油价下跌"
+    },
+    {
+      "title": "刘和然",
+      "url": "https://www.google.com/search?q=%E5%88%98%E5%92%8C%E7%84%B6",
+      "thumbnail": null,
+      "score": 1000,
+      "score_label": "1000+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 06:50:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "西班牙 對 捷克",
+      "url": "https://www.google.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%20%E5%B0%8D%20%E6%8D%B7%E5%85%8B",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ6rFNV-LXfIMiwuPJTpID9Lkgkl33QF_8iF9g3Oo6dBUG35zjc9iBPaI88Hg",
+      "score": 500,
+      "score_label": "500+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 11:00:00 -0700",
+      "meta": "欧国联前瞻：西班牙 VS 捷克"
+    },
+    {
+      "title": "nba",
+      "url": "https://www.google.com/search?q=nba",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFI5phq8HQlLhBq0i9J6y_mXQZZKI572-0aNMVuiUhmNgcTSJkRijqJVL7YPE",
+      "score": 500,
+      "score_label": "500+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 09:50:00 -0700",
+      "meta": "Caleb Wilson doesn't carry himself like the average NBA rookie"
+    },
+    {
+      "title": "croatia vs england",
+      "url": "https://www.google.com/search?q=croatia%20vs%20england",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUULscj87q5vudpCKGTnmJ5CRmwuEhTsl8Vmxg-lzRgbAt497ShV26uSeHtPA",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 3 Oct 2026 09:10:00 -0700",
+      "meta": "Croatia vs England: UEFA Nations League stats & head-to-head"
+    }
+  ]
+}

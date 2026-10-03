@@ -1,0 +1,324 @@
+{
+  "id": "world",
+  "name": "國際新聞",
+  "updated_at": "2026-10-03T18:25:42+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
+      "url": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/51ee/live/53a0d690-bcb8-11f1-babe-4199b0e7ccea.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T02:31:44.915Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "東航空難調查：數據顯示飛機俯衝前駕駛艙內曾發生爭鬥",
+      "url": "https://cn.nytimes.com/china/20260508/china-eastern-plane-crash-flight-5735-ntsb/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/05/07/multimedia/07int-china-plane-chjv/07int-china-plane-chjv-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-05-08",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "逃離中國的前新疆警察：「他失去了祖國，卻找回了靈魂」",
+      "url": "https://www.dw.com/zh-hant/逃離中國的前新疆警察他失去了祖國卻找回了靈魂/a-76925018",
+      "thumbnail": "https://static.dw.com/image/76932200_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-04-26T12:34:54.53Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "為什麼有些人坐電動車更容易暈車？",
+      "url": "https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/b233/live/bbcbf7c0-be4a-11f1-a73b-295bdc9b9b7f.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T04:19:55.822Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "「中國製造」背後的聲音：在農民工文學裡讀懂中國",
+      "url": "https://cn.nytimes.com/china/20260930/china-workers-poetry-pope-leo/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/29/multimedia/29int-theworld-top-qhvk/29int-theworld-top-qhvk-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-30T01:01:33+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "北韓戰俘移交曝光 韓烏發生外交爭執",
+      "url": "https://www.dw.com/zh-hant/北韓戰俘移交曝光-韓烏發生外交爭執/a-79522190",
+      "thumbnail": "https://static.dw.com/image/79509919_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T14:40:51.576Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
+      "url": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/861f/live/112640e0-bda1-11f1-babe-4199b0e7ccea.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T08:24:10.560Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國真的在竊取美國公司的人工智慧技術嗎？",
+      "url": "https://cn.nytimes.com/technology/20260929/china-ai-distillation-copying/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/26/multimedia/26sci-china-ai-distillation-ctmq/26sci-china-ai-distillation-ctmq-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-29T02:45:43+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "2架F-16V交付台灣 美國：與印太盟友站在一起",
+      "url": "https://www.dw.com/zh-hant/2架f-16v交付台灣-美國與印太盟友站在一起/a-79510073",
+      "thumbnail": "https://static.dw.com/image/79510170_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T05:36:56.098Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T07:14:39.437Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "康乃爾大學兄弟會強姦案調查重啟：目前我們所知的",
+      "url": "https://cn.nytimes.com/usa/20260930/cornell-university-rape-investigation-chi-phi-fraternity/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/29/multimedia/29met-cornell-wwk-topart-01-wczl/29met-cornell-wwk-topart-01-wczl-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-30T02:35:11+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "星巴克新疆門店開張 美眾議員斥「道德淪喪」",
+      "url": "https://www.dw.com/zh-hant/星巴克新疆門店開張-美眾議員斥道德淪喪/a-79516150",
+      "thumbnail": "https://static.dw.com/image/79517735_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T12:46:35.7Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
+      "url": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/2923/live/f3557d50-bd9c-11f1-bc2e-018d645d8d21.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T05:09:30.424Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國當局為何要求中學生讀《簡·愛》？",
+      "url": "https://cn.nytimes.com/china/20260929/china-jane-eyre-required-reading-literature/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/23/multimedia/23xp-janeeyre-top/23xp-janeeyre-top-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-29T03:54:19+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "維吾爾男子遭德國遣返中國　疑在北京被拘留",
+      "url": "https://www.dw.com/zh-hant/維吾爾男子遭德國遣返中國疑在北京被拘留/a-78080190",
+      "thumbnail": "https://static.dw.com/image/78078101_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-07-23T08:56:46.731Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/d6bb/live/cb969e20-ac21-11f1-9bd9-7b7da208bd5c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-16T04:47:26.706Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "習近平訪美，其健康狀況引發廣泛關注",
+      "url": "https://cn.nytimes.com/china/20260924/china-xi-health/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/23/multimedia/23trump-xi-health-mpzk/23trump-xi-health-mpzk-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體：「去風險」為何如此之難",
+      "url": "https://www.dw.com/zh-hant/德語媒體去風險為何如此之難/a-79521933",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T14:22:37.711Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "替許家蓓「說一個完整的故事」 專訪台灣立法委員吳沛憶",
+      "url": "https://www.bbc.com/zhongwen/trad/chinese-news-69441788",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2024-10-26T01:30:14.000Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中美關係正步入一個新時代",
+      "url": "https://cn.nytimes.com/opinion/20260924/trump-xi-meeting-us-china/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/23/multimedia/23chen-vcwp/23chen-vcwp-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-24",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德國情報部門高官手機號長期網上曝光",
+      "url": "https://www.dw.com/zh-hant/德國情報部門高官手機號長期網上曝光/a-79521794",
+      "thumbnail": "https://static.dw.com/image/78337968_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T14:40:39.737Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "鈉離子電池：「美國製造」能超越中國嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/81ff/live/33895530-a5e8-11f1-a019-f3ea5e194221.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-01T01:58:40.423Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "川普令美國面臨三重病毒威脅",
+      "url": "https://cn.nytimes.com/opinion/20260930/trump-mideast-diplomacy-iran-ai/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/30/multimedia/29friedman-hbkq/29friedman-hbkq-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-29T17:27:54+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "媒體：西沙羚羊礁跑道明年可建成 擴展中國在南海實力",
+      "url": "https://www.dw.com/zh-hant/媒體西沙羚羊礁跑道明年可建成-擴展中國在南海實力/a-79514337",
+      "thumbnail": "https://static.dw.com/image/57591152_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T09:57:49.954Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "我們在中國一家酒店性愛後，發現偷拍影片在網上流傳了給數千觀眾",
+      "url": "https://www.bbc.com/zhongwen/articles/cwynvzd5y1jo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/7499/live/442d24c0-0057-11f1-b7e1-afb6d0884c18.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-02-06T08:09:24.826Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "戀愛結婚效率為上？日本單身年輕人走進婚介所",
+      "url": "https://cn.nytimes.com/asia-pacific/20260930/japan-marriage-matchmaking/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/10/multimedia/00biz-japan-matchmaking--01-lbch/00biz-japan-matchmaking--01-lbch-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-29T18:16:16+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "維吾爾記者：報導真相會讓你變成中共的敵人",
+      "url": "https://www.dw.com/zh-hant/維吾爾記者gulchehra-hoja報導真相會讓你變成中共的敵人/a-77884804",
+      "thumbnail": "https://static.dw.com/image/77884843_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-07-10T00:42:03.987Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台灣副總統外孫機場辦護照被批特殊待遇",
+      "url": "https://www.bbc.com/zhongwen/trad/china/2013/08/130824_taiwan_prevelage",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2013-08-24T16:14:51.000Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "川普要求人工智慧巨頭自我監管",
+      "url": "https://cn.nytimes.com/usa/20260930/ai-trump-meta-microsoft-openai/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/29/multimedia/29dc-trump-tech1-jqmw/29dc-trump-tech1-jqmw-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-30T03:09:29+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "消息人士：美方認為中國2027年「武統」的可能性不大",
+      "url": "https://www.dw.com/zh-hant/消息人士美方認為中國2027年武統的可能性不大/a-79498716",
+      "thumbnail": "https://static.dw.com/image/63693903_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-01T10:07:34.122Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "統一36年，東西德仍有「隱形鴻溝」？",
+      "url": "https://www.dw.com/zh-hant/統一36年東西德仍有隱形鴻溝/a-79529462",
+      "thumbnail": "https://static.dw.com/image/79210665_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T10:10:03.326Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "學生抗議活動席捲法國 警方已逮捕兩千人",
+      "url": "https://www.dw.com/zh-hant/學生抗議活動席捲法國-警方已逮捕兩千人/a-79520948",
+      "thumbnail": "https://static.dw.com/image/79519123_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T13:33:07.121Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "川普想見金正恩遇冷 球星羅德曼能否搭橋",
+      "url": "https://www.dw.com/zh-hant/川普想見金正恩遇冷-球星羅德曼能否搭橋/a-79518527",
+      "thumbnail": "https://static.dw.com/image/39227132_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T12:04:46.381Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "事實核查：魏德爾的「德國破產」論",
+      "url": "https://www.dw.com/zh-hant/事實核查魏德爾的德國破產論/a-79455572",
+      "thumbnail": "https://static.dw.com/image/79455342_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-28T09:30:28.303Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "杜拜航空劫機案副駕駛 去年曾因思想極端被停飛？",
+      "url": "https://www.dw.com/zh-hant/杜拜航空劫機案副駕駛-去年曾因思想極端被停飛/a-79528190",
+      "thumbnail": "https://static.dw.com/image/79496770_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T08:40:52.33Z",
+      "meta": "DW 德國之聲中文"
+    }
+  ]
+}

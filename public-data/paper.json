@@ -1,0 +1,414 @@
+{
+  "id": "paper",
+  "name": "報紙新聞",
+  "updated_at": "2026-10-03T18:25:33+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "首次！4萬人響起掌聲 在台北大巨蛋向蔣萬安喊謝謝",
+      "url": "https://udn.com/news/story/7323/9792457",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386315.jpg&M=1&s=Y&x=0&y=0&sw=1241&sh=827&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T13:43:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "亞運前線》看到台灣隊教練幫對手加油很難過 詹皓晴自爆用眼神跟李洋求助",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5594342",
+      "thumbnail": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/10/03/phpqF0fkE.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T16:13:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "張淑娟、管中閔轟「幫凶」是否影響蘇巧慧選情？網路投票一面倒",
+      "url": "https://www.chinatimes.com/realtimenews/20261003003232-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003003254.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T23:34:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "41年老字號「太子油飯」沒了？半年等無復業 驚傳多數員工已遭資遣",
+      "url": "https://udn.com/news/story/7270/9792299",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386038.jpg&M=1&s=Y&x=1&y=202&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T11:52:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "飛機起降為何要調暗客艙燈光？桃機解答：不是讓乘客補眠",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5593484",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/02/phpD9fa2S.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T04:52:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "支持誰當新北市長？「搖擺區」街訪民調結果超意外",
+      "url": "https://www.chinatimes.com/realtimenews/20261003002849-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003002852.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T19:14:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "馬斯克突與4孩媽分手！齊里斯曝心碎聲明：一周內從相愛到放手",
+      "url": "https://udn.com/news/story/6813/9792313",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386064.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T12:02:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "黃仁勳嫁女兒了？三星李在鎔意外洩喜訊 傳黃敏珊已完婚",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5594340",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/03/phpyxXtGi.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T16:29:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "退休母存款443萬 42歲兒想啃老 返家吃飯被一棒敲醒",
+      "url": "https://www.chinatimes.com/realtimenews/20261003001976-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003001986.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T13:57:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "蕭貪仔網購衣服穿完就退？商家祭「2.4公尺防拆帶」反制",
+      "url": "https://udn.com/news/story/7335/9791956",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35385598.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T09:32:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "頭獎200萬！玉澤演直播玩刮刮樂「真的中獎」 台灣網友嗨翻：捐出來",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5594218",
+      "thumbnail": "https://img.ltn.com.tw/Upload/ent/page/800S/2026/10/03/5594218_5.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T14:16:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "新北 培訓治療犬 號召認養人",
+      "url": "https://www.chinatimes.com/newspapers/20261002000621-260107",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-02/330/B19A00_P_04_02.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T04:10:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "影／擊敗全球8萬選手 台灣學子張楷逸奪HIPPO國際英語奧林匹克總冠軍",
+      "url": "https://udn.com/news/story/6885/9792200",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386001.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T10:52:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "日本7旬富豪剛娶22歲AV嫩妻就暴斃 3億遺產全捐出不留給家人",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5594047",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/phpdG9x3G.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T12:09:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "秦檜後代中狀元 被乾隆問一事 7字妙答皇帝大喜",
+      "url": "https://www.chinatimes.com/hottopic/20261002002996-260812",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-02/330/20261002003015.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-02T14:54:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "亞運網球／與詹皓晴賽後沒握手零互動 謝淑薇：對手不尊重我就沒什麼好說",
+      "url": "https://udn.com/news/story/124981/9792578",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386538.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T15:21:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "沈伯洋自己想出「大洋流計畫」 船員證揭：支持度與民調非常相近",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5593788",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/02/phpu6SoAg.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T05:53:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "新竹縣長之戰徐欣瑩挑戰「鄭朝方故鄉」 街頭民調結果曝",
+      "url": "https://www.chinatimes.com/realtimenews/20261003003207-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003003209.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T22:42:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台灣最高媽祖雕像落成天晴草地冒水 民俗專家：大吉！大家可這樣做",
+      "url": "https://udn.com/news/story/7268/9792371",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386153.jpg&M=1&s=Y&x=0&y=0&sw=1107&sh=738&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T12:47:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "獨家》台美軍事合作升級！ 美五角大廈將派員長駐我國防部本部",
+      "url": "https://def.ltn.com.tw/article/breakingnews/5594012",
+      "thumbnail": "https://img.ltn.com.tw/Upload/def/page/800S/2026/10/03/phpAGDtlB.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T10:37:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "不鏽鋼鍋冒「彩虹紋」要淘汰？業者解答 3招就能清除",
+      "url": "https://www.chinatimes.com/realtimenews/20261003002221-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003002222.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T15:08:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "請10天病假出國玩！女公務員首日拖行李被主管撞見 再爆診斷證明也假的",
+      "url": "https://udn.com/news/story/6810/9792725",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386782.png&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T17:33:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "新竹棒球場案確定不起訴 林智堅發文回應了",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5593834",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/02/php46BI9F.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T05:46:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "小S陪二女兒Lily飛英國攻讀經濟！沒跟隨Elly赴美原因曝光",
+      "url": "https://www.chinatimes.com/realtimenews/20261003001010-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003001013.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T09:27:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "近百萬現金燒成「焦炭」！ 銀行手工搶救…挽回金額曝光",
+      "url": "https://udn.com/news/story/7335/9792860",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35387018.jpg&M=1&s=Y&x=0&y=0&sw=892&sh=595&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T19:54:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "藝人模仿取名「沈脖癢」惹議 沈伯洋大器回應：政治人物能被模仿是榮幸",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594244",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/5594244_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T14:42:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "黃仁勳紐約領獎 三星電子李在鎔曝輝達千金嫁人喜訊",
+      "url": "https://www.chinatimes.com/realtimenews/20261003003219-260408",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003003224.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T22:51:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "「他40歲我19歲」陽明交大教授去年到職今爆性平爭議 校方回應了",
+      "url": "https://udn.com/news/story/6925/9792794",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386937.jpg&M=1&s=Y&x=175&y=0&sw=1081&sh=721&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T18:28:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "醜化、矮化？藝人模仿沈伯洋取名「沈脖癢」惹議 學者感嘆這件事",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5593967",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/phppTCZK1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T11:00:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "勞保繳24年54歲過世「家屬悲劇領0元」 選錯少拿150萬",
+      "url": "https://www.chinatimes.com/realtimenews/20261003000004-260410",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-09-22/330/20260922003840.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T06:30:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "成功嶺新兵「不睡覺被抬回房」隔天還賴床 檢方依違抗長官命令罪嫌起訴",
+      "url": "https://udn.com/news/story/7321/9792293",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386030.png&M=1&s=Y&x=0&y=0&sw=1207&sh=804&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T11:46:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "U15世界盃》奪冠還有機會！墨西哥擊敗美國助攻 台灣晉級決賽劇本出爐",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5594237",
+      "thumbnail": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/10/03/phpITBZ6k.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T14:39:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "4生肖10月財運翻紅 屬馬人脈變錢脈 業績衝高",
+      "url": "https://www.chinatimes.com/realtimenews/20261003001029-265005",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003001044.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T08:43:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "好市多10月新制「點餐先掃卡」！他曝熟食區現況 網傻眼：不用排隊了",
+      "url": "https://udn.com/news/story/120915/9792112",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35385727.png&M=1&s=Y&x=0&y=0&sw=880&sh=587&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T10:38:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "愈拚愈旺！命理師點名「這生肖」有財有福、一路笑到跨年",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5593832",
+      "thumbnail": "https://img.ltn.com.tw/Upload/ent/page/800S/2026/10/02/phpIiGAN7.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T05:55:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "「太陽花女神」劉喬安被起訴！古柯鹼藏蠟燭運台 最重可判死刑",
+      "url": "https://www.chinatimes.com/realtimenews/20261003003191-260402",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003003194.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T22:13:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "西門町知名BDSM酒吧遭搜！現場赫見一片肉色、用過保險套 負責人送辦",
+      "url": "https://udn.com/news/story/7317/9792949",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35387122.jpg&M=1&s=Y&x=0&y=64&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T21:39:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "健康網》吃菜不等於纖維夠！ 高麗菜也不及格 專家曝首選這3樣",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5593111",
+      "thumbnail": "https://img.ltn.com.tw/Upload/health/page/800/2026/10/02/phpaMJ6ox.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T06:25:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "「他40歲我19歲」陽交大傳性騷 學生起底博士論文加碼爆：至少3人受害",
+      "url": "https://www.chinatimes.com/realtimenews/20261003003243-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003003245.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T23:02:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "習近平體力變差？美媒曝川習會「中方提1不尋常要求」 專家喊前所未有",
+      "url": "https://udn.com/news/story/6809/9792461",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386318.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T13:46:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "中職》富邦必須輸球才能晉級季後賽 後藤光尊回應詭譎局勢",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5594283",
+      "thumbnail": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/10/03/phpmipdAw.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T15:10:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "日本大胃女王宣布來台長住 開住宿預算網搖頭：很難",
+      "url": "https://www.chinatimes.com/realtimenews/20261003001367-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003001372.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T10:35:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "不甩政院情勒 藍白擬23日立院闖關老農津貼1.5萬元",
+      "url": "https://udn.com/news/story/6656/9792412",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/03/35386245.jpg&M=1&s=Y&x=0&y=0&sw=1192&sh=794&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T13:15:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "蔣萬安怎麼了！7年前講話「順起來」影片被挖出 網驚：被奪舍？",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594497",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/phpYFKuyx.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T18:47:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "黃安2位妹妹相繼出家！寫歌〈妹妹我愛你〉抒發心境",
+      "url": "https://www.chinatimes.com/realtimenews/20261003003289-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-03/330/20261003003291.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-03T23:44:00+08:00",
+      "meta": "中時新聞網"
+    }
+  ]
+}
