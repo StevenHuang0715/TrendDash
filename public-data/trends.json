@@ -1,0 +1,99 @@
+{
+  "id": "trends",
+  "name": "Google 熱搜",
+  "updated_at": "2026-10-10T16:35:22+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "曼聯 對 熱刺",
+      "url": "https://www.google.com/search?q=%E6%9B%BC%E8%81%AF%20%E5%B0%8D%20%E7%86%B1%E5%88%BA",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQViJvWyLvo2sl-wacoVLg_RlqREVX1-h_2Q47t9ctOVe-NdyFu9BT4qbEnzXk",
+      "score": 500,
+      "score_label": "500+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 08:40:00 -0700",
+      "meta": "台灣運彩AI分析》英格蘭超級聯賽曼聯vs托特納姆熱刺AI預測：曼聯主場有望止跌！3.5小分機率更高"
+    },
+    {
+      "title": "man utd đấu với tottenham",
+      "url": "https://www.google.com/search?q=man%20utd%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20tottenham",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr22KSGOG7h9bVtP4XAXa5VrAHQQ3LjqIODSxgOTLLwi1QKaZySmZut8fvpZE",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 09:20:00 -0700",
+      "meta": "Trực tiếp bóng đá MU - Tottenham: Chờ màn ra mắt của Baleba (Ngoại hạng Anh)"
+    },
+    {
+      "title": "barcelona vs getafe",
+      "url": "https://www.google.com/search?q=barcelona%20vs%20getafe",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtDoInU2FAtEYeYkKuAyFgTwcbUB-KoCkYXnu8Rj1vSU0EsBYUZhTdzdP56xU",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 09:10:00 -0700",
+      "meta": "Alineación confirmada del Barcelona vs Getafe: Gabriel Jesús debuta como titular"
+    },
+    {
+      "title": "man utd vs tottenham",
+      "url": "https://www.google.com/search?q=man%20utd%20vs%20tottenham",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4gUsKLblPEERwLYvsaY8auOie5wHRLL4MQCuSCTI0MNel-vcRbOI9U36hZA",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 09:10:00 -0700",
+      "meta": "Michael Carrick press conference recap ahead of Manchester United vs Tottenham"
+    },
+    {
+      "title": "王金平",
+      "url": "https://www.google.com/search?q=%E7%8E%8B%E9%87%91%E5%B9%B3",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9prfFgrIc0gms9m9NpPmmMvqwZE5Tb9opSLVfpPyyRTp7I0unYWaqRlztT5U",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 08:10:00 -0700",
+      "meta": "「老王」爆柯志恩落後10% 王金平首度露面回應：子虛烏有！"
+    },
+    {
+      "title": "max verstappen",
+      "url": "https://www.google.com/search?q=max%20verstappen",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwU85ve4_jLfNU8jnlB1w6Jb8tjwJQJc242tceR7DagcIMX-s5yvDjjc0mvrk",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 07:30:00 -0700",
+      "meta": "Verstappen beats Leclerc to pole position for the Singapore GP"
+    },
+    {
+      "title": "台新銀行",
+      "url": "https://www.google.com/search?q=%E5%8F%B0%E6%96%B0%E9%8A%80%E8%A1%8C",
+      "thumbnail": null,
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 07:20:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "梅艷芳",
+      "url": "https://www.google.com/search?q=%E6%A2%85%E8%89%B7%E8%8A%B3",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxn3KzOqnGqYX4eh_tpWuse5NmN6w3xx8n8rGzf95tltPQIo6DuT6amtDDzug",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 09:20:00 -0700",
+      "meta": "文化漫談 | 霓虹背後：梅艷芳的另一種「百變」"
+    },
+    {
+      "title": "切爾西",
+      "url": "https://www.google.com/search?q=%E5%88%87%E7%88%BE%E8%A5%BF",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsmb5y-jH4EKZJtvKKYETcQMP8-cey6c6RuSia5Va7OVsMwvsFYZw_o1oqL8g",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 08:40:00 -0700",
+      "meta": "高爾馬彭留「車」至2034年"
+    },
+    {
+      "title": "富邦",
+      "url": "https://www.google.com/search?q=%E5%AF%8C%E9%82%A6",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQMCAbg1zhi0Qd7fEe1aMN8CKRIyHvGsinqchpixKVdbTY-2g0Gu1EtglaDUo",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 10 Oct 2026 07:40:00 -0700",
+      "meta": "土城警分局攜手富邦銀行深入校園反詐宣導"
+    }
+  ]
+}

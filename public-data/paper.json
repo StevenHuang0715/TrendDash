@@ -1,0 +1,414 @@
+{
+  "id": "paper",
+  "name": "報紙新聞",
+  "updated_at": "2026-10-10T16:35:06+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "雲端發票中100萬竟不能領！蝦皮手續費發票「不給獎」 財政部揭原因",
+      "url": "https://udn.com/news/story/7266/9805953",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407156.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T10:40:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "牛仔褲「小口袋」用途揭祕！不是裝硬幣 專家曝最初是為裝「它」",
+      "url": "https://news.ltn.com.tw/news/novelty/breakingnews/5601097",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/09/phplpYZAG.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T06:24:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "韓國瑜國慶脫稿批「假民主真獨裁」 最新網路投票一面倒",
+      "url": "https://www.chinatimes.com/realtimenews/20261010003035-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010003061.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T23:08:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "出國旅行18天忘了關冷氣！她憂電費暴增…收到帳單後看傻",
+      "url": "https://udn.com/news/story/7266/9806261",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407705.jpg&M=1&s=Y&x=0&y=0&sw=1047&sh=698&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T13:06:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "行政院2027年行事曆出爐 請假攻略一次看",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5601431",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/5601431_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T07:05:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "賴總統國慶演說  李艷秋：他從頭到尾沒有說出這幾個字",
+      "url": "https://www.chinatimes.com/realtimenews/20261010002639-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010002643.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T19:43:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "美對多家企業發起337調查 涉及立訊精密、鴻海、台達、廣達等",
+      "url": "https://udn.com/news/story/6811/9806515",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35408175.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T15:12:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "一中散場1》一個中國傷心地！宏達電西進大撤退",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5599800",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/08/phpq9Nsez.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T07:00:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "溥儀認證「滿清第一罪人」 乾隆曾孫1決策 斷送大清",
+      "url": "https://www.chinatimes.com/hottopic/20261010002097-260812",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010002135.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T15:34:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "賴總統國慶演說不提「中華民國台灣」 台灣提42次、中華民國僅2次",
+      "url": "https://udn.com/news/story/122496/9806307",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407810.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T12:40:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "馬斯克自產晶片「比登陸火星還難」被冷嘲至少要30年 傳台積電內部人士認同",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5601786",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/10/phpwPRPS1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T14:21:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "影》韓國瑜突脫稿轟大罷免、不副署「全文曝光」 媒體人讚高招",
+      "url": "https://www.chinatimes.com/realtimenews/20261010001850-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010001693.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T13:56:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "籲賴總統解決兩院對立 韓國瑜國慶許三願：別讓台灣被認為「假民主、真獨裁」",
+      "url": "https://udn.com/news/story/122496/9806089",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407392.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T10:50:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "農曆9月誰最賺？謝沅瑾點名「5生肖」搶先卡位2027起跳點",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5601394",
+      "thumbnail": "https://img.ltn.com.tw/Upload/ent/page/800S/2026/10/09/phpmctG98.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T05:55:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "大戶爆砍43萬張沒在怕？杜金龍看好「友達帶群創」 這時機回頭買",
+      "url": "https://www.chinatimes.com/realtimenews/20261010002220-260410",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010002221.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T16:11:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "走完爭議人生…「黑道狀元」董念台病逝享壽77歲 妻子證實死訊",
+      "url": "https://udn.com/news/story/7315/9806544",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35408221.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T15:33:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "一毛未付？美退出WHO 北京喊捐159億兌現多少竟成謎",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5601241",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/09/phpU3vaXC.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T05:48:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "韓國瑜國慶轟大罷免 賴清德當場沒反應？謝寒冰質疑1事",
+      "url": "https://www.chinatimes.com/realtimenews/20261010002993-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010003002.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T22:34:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "跑馬拉松到一半親吻愛妻 24歲牧師下秒突倒地…心臟驟停送醫不治",
+      "url": "https://udn.com/news/story/6810/9806599",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35408306.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T16:57:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "韓國瑜國慶脫稿致詞批卓揆酸賴總統 現場民眾嗆下台：衝突是你引起",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5601663",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/phpogvhv0.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T12:03:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "25歲工程師沒血便驚罹大腸癌 醫一問飲食搖頭了",
+      "url": "https://www.chinatimes.com/realtimenews/20261010001921-260418",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010001945.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T14:25:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "諾貝爾和平獎頒給ICC前法官！川普轉發貼文批評 美政府隨即宣布制裁",
+      "url": "https://udn.com/news/story/6813/9805936",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407077.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T09:23:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "貼臉開大！萬華宮廟餐會遇蔣萬安 沈伯洋下戰帖遞辯論邀請書",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5602116",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/php2GAzXS.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T21:40:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "松山機場遷移「比輝達來台還難」 專家告訴你真相",
+      "url": "https://www.chinatimes.com/realtimenews/20261010002110-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010002120.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T15:39:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台灣哪裡值得「一去再去」？網齊推1地點：真的很漂亮",
+      "url": "https://udn.com/news/story/7266/9806048",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407355.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T11:50:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "韓國瑜國慶提行政院不副署 卓榮泰離場前「一句話」回應批評",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5601757",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/phpyQACH2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T13:13:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "台股下周狂崩千點？這2大族群成護身符 16檔別人恐懼時勇敢買",
+      "url": "https://www.chinatimes.com/realtimenews/20261010002491-260410",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010002493.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T18:12:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "韓國瑜國慶致詞火力全開！談大罷免、批假民主真獨裁 引發網友正反論戰",
+      "url": "https://udn.com/news/story/122496/9806289",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407774.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T12:29:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "被唐湘龍說「不姓蔣恐市長都不是」 蔣萬安回應內容網狂酸",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5601818",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/phpYUWHf5.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T15:01:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "寶特瓶回收「拆瓶蓋、不拆塑膠環」！日業者揭背後原因",
+      "url": "https://www.chinatimes.com/realtimenews/20261010002504-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010002506.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T18:15:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "影／巴拿馬規模7.7強震！建築倒塌、全國疏散 多起餘震接連襲來",
+      "url": "https://udn.com/news/story/6809/9805857",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35406855.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T07:42:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "一中散場3》賣樓、賣專利、賣團隊！宏達電資產還有388億",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5599786",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/08/5599786_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T07:10:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "館長「成吉思汗」高雄館開5年收攤 員工指他直播成負面行銷",
+      "url": "https://www.chinatimes.com/realtimenews/20261010001973-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010001975.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T14:39:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "競選曲「台北安可」MV出現張育成遭質疑未獲授權 蔣萬安道歉了",
+      "url": "https://udn.com/news/story/124652/9805908",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35406988.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T08:55:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "恭喜！鄭家純誕下「國慶雙胞胎寶寶」甜曬照片報平安",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5602043",
+      "thumbnail": "https://img.ltn.com.tw/Upload/ent/page/800S/2026/10/10/5602043_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T18:11:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "愛馬仕包遭紅酒噴濺求償93萬太過分？內行人曝實際價值：很客氣了",
+      "url": "https://www.chinatimes.com/realtimenews/20261010003005-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010003008.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T22:21:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "康乃爾大學下藥性侵案！1惡狼優渥家境曝光 親爸身分也被挖",
+      "url": "https://udn.com/news/story/6813/9806762",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35408540.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T20:11:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "他玩股票賺1200萬「55歲直接提早退休」爽翻 僅2年超後悔下場曝光",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5601765",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/10/phpG4gWXZ.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T13:39:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "全聯2神級早餐被推爆 一票人讚成分單純：幾乎每天吃",
+      "url": "https://www.chinatimes.com/realtimenews/20261009001645-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-09/330/20261009001652.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T11:37:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "男子到果菜市場攤位撒菱角大罵女攤商 台中警方受理偵辦中",
+      "url": "https://udn.com/news/story/7320/9806269",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407717.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T12:14:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "台北市長選戰民調次數遠低以往！學者曝背後「重大可能」",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5601604",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/php8ZOrun.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T16:25:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "昔日「大頭症重創演藝事業」 胡瓜苦口婆心叮囑孫女EMMA",
+      "url": "https://www.chinatimes.com/realtimenews/20261010001985-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010001986.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T14:47:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "韓國瑜重批賴政府「假民主、真獨裁」 府方反擊：言行失態、貽笑國際",
+      "url": "https://udn.com/news/story/122496/9806494",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35408157.jpg&M=1&s=Y&x=0&y=0&sw=1223&sh=815&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T14:40:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "曝選情朝民進黨有利方向發展！小笠原欣幸：平穩、成功的國慶演說",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5601968",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/phpO3wlfu.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T17:53:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "美國賓州住宅區無差別槍擊9死！男子掃射後自戕 2童無辜喪命",
+      "url": "https://www.chinatimes.com/realtimenews/20261010002927-260408",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-10/330/20261010002945.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T22:06:00+08:00",
+      "meta": "中時新聞網"
+    }
+  ]
+}

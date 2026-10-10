@@ -1,0 +1,324 @@
+{
+  "id": "world",
+  "name": "國際新聞",
+  "updated_at": "2026-10-10T16:35:17+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/8293/live/a78051e0-c2e5-11f1-babe-4199b0e7ccea.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-08T12:34:52.762Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "為何俄羅斯鼠疫疑雲引發全世界擔憂",
+      "url": "https://cn.nytimes.com/world/20261009/russia-plague-outbreak/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/08/multimedia/08russia-plague-01-wlgb/08russia-plague-01-wlgb-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T02:22:53+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "中歐貿易投資磋商成果：混動汽車、稀土出口是看點",
+      "url": "https://www.dw.com/zh-hant/中歐貿易投資磋商成果混動汽車稀土出口是看點/a-79618304",
+      "thumbnail": "https://static.dw.com/image/77752911_602.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T09:59:00.262Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "以「山巔之城」論台灣：賴清德雙十演說想傳達什麼訊息？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/85fa/live/07f48be0-c49e-11f1-8fc0-0b58d7e26e4c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T11:37:11.401Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國人之間為何彼此怨恨、互相攻擊？",
+      "url": "https://cn.nytimes.com/opinion/20261008/china-anger-economic-frustration/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/04/opinion/02gao-imager/02gao-imager-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-08T04:22:17+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體：財政吃緊 北京盯上了富豪們的境外資產",
+      "url": "https://www.dw.com/zh-hant/德語媒體財政吃緊-北京盯上了富豪們的境外資產/a-79618435",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T14:14:31.285Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "替許家蓓「說一個完整的故事」 專訪台灣立法委員吳沛憶",
+      "url": "https://www.bbc.com/zhongwen/trad/chinese-news-69441788",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2024-10-26T01:30:14.000Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "俄羅斯暴發了鼠疫嗎？這裡是我們了解到的信息",
+      "url": "https://cn.nytimes.com/world/20261008/russia-plague-fears-what-to-know/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-russia-plague-wtk-1-wcgm/07int-russia-plague-wtk-1-wcgm-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-08T03:54:39+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "公開處決！五角大樓將網上直播行刑隊執行死刑",
+      "url": "https://www.dw.com/zh-hant/公開處決五角大樓將網上直播行刑隊執行死刑/a-79615338",
+      "thumbnail": "https://static.dw.com/image/79500492_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T12:25:43.31Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "「總有一天或許能再見到她」：丈夫15年來潛水760次，為了「靠近」海嘯失蹤妻子",
+      "url": "https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/f9ca/live/e4acb640-b0fb-11f1-a451-6b1ff10ed362.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T07:48:57.263Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "AI無處不在：中國面臨過度依賴人工智慧的挑戰",
+      "url": "https://cn.nytimes.com/china/20261009/china-ai-overuse/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-china-ai-reliance-01-zvhg/30int-china-ai-reliance-01-zvhg-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T04:56:51+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德國前情報局長涉嫌出售機密給他國 中國或扮演重要角色",
+      "url": "https://www.dw.com/zh-hant/德國前情報局長涉嫌出售機密給他國-中國或扮演重要角色/a-79612102",
+      "thumbnail": "https://static.dw.com/image/79565269_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T10:08:13.775Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "法國學生示威：憤怒背後隱藏著什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/d06a/live/72534a40-c2e0-11f1-babe-4199b0e7ccea.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T09:42:25.003Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國在寮國啟用新空軍基地，進一步向東南亞投射軍力",
+      "url": "https://cn.nytimes.com/asia-pacific/20261009/china-military-base-laos/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/08/multimedia/2026-10-08-china-laos-runway-index/2026-10-08-china-laos-runway-index-thumbLarge-v3.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T02:31:56+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體：向北京亮劍， 歐盟有足夠底氣嗎？",
+      "url": "https://www.dw.com/zh-hant/德語媒體向北京亮劍-歐盟有足夠底氣嗎/a-79599152",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-08T13:54:58.716Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "美國要網上直播軍法槍決胡德堡基地槍擊案兇手",
+      "url": "https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T04:39:43.303Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國希望從國外招募人工智慧科學家，這項努力並未奏效",
+      "url": "https://cn.nytimes.com/technology/20261009/china-ai-research-recruitment/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T00:11:34+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "中國民兵船據報首次現蹤台灣東部海域",
+      "url": "https://www.dw.com/zh-hant/中國民兵船疑現蹤台灣東部海域-美國務院敦促北京停止施壓/a-79607008",
+      "thumbnail": "https://static.dw.com/image/79607005_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T04:48:37.549Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T08:04:54.108Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "報告稱駭客利用中美人工智慧工具攻擊韓國銀行",
+      "url": "https://cn.nytimes.com/asia-pacific/20261009/south-korea-bank-hack-china-us-ai/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/08/multimedia/08xp-crowdstrike-lfcb/08xp-crowdstrike-lfcb-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T01:20:12+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "賴清德雙十講話：強化自我防衛不等於放棄對話",
+      "url": "https://www.dw.com/zh-hant/賴清德雙十講話強化自我防衛不等於放棄對話/a-79627376",
+      "thumbnail": "https://static.dw.com/image/79625978_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T10:27:04.906Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/a5d0/live/a1bc1010-c415-11f1-a175-8928617a734f.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T20:33:46.415Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "戰爭造成燃油短缺，俄羅斯人開始擁抱中國電動汽車",
+      "url": "https://cn.nytimes.com/world/20261009/russia-ukraine-war-ev-sales/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/01/multimedia/00int-russia-evs-01-wzgm/00int-russia-evs-01-wzgm-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T03:20:52+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "南非女律師皮萊榮獲2026年諾貝爾和平獎",
+      "url": "https://www.dw.com/zh-hant/南非女律師皮萊榮獲2026年諾貝爾和平獎/a-79618191",
+      "thumbnail": "https://static.dw.com/image/79617257_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T13:46:03.553Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "口譯與施壓：《臺灣漫遊錄》作家楊双子德國新書活動捲入政治爭議的前前後後",
+      "url": "https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/f9b3/live/e32ca5e0-c2d6-11f1-a64c-550be9e3c66b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-08T05:29:23.160Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "人民幣疲軟與出口退稅：中國出口繁榮背後的兩大政策",
+      "url": "https://cn.nytimes.com/business/20261008/china-exports-currency/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/05/multimedia/05biz-china-currency-01-hwjm/05biz-china-currency-01-hwjm-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-07T21:57:39+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "為錢賣國？德國前情報局長被捕",
+      "url": "https://www.dw.com/zh-hant/為錢賣國德國前情報局長被捕/a-79565862",
+      "thumbnail": "https://static.dw.com/image/79565366_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-06T13:59:47.339Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/d6bb/live/cb969e20-ac21-11f1-9bd9-7b7da208bd5c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-16T04:47:26.706Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國的「自力更生」戰略正在顛覆中歐貿易格局",
+      "url": "https://cn.nytimes.com/business/20261008/china-europe-trade-manufacturing/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/07/multimedia/07biz-china-europe-imbalance-01-kvqz/07biz-china-europe-imbalance-01-kvqz-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-08T02:00:40+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "烏克蘭政壇出現停戰談判呼聲：民意轉向還是政治試探？",
+      "url": "https://www.dw.com/zh-hant/烏克蘭政壇出現停戰談判呼聲民意轉向還是政治試探/a-79596246",
+      "thumbnail": "https://static.dw.com/image/79588742_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-08T13:02:15.956Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "德國前總理施羅德參加普丁生日派對",
+      "url": "https://www.dw.com/zh-hant/德國前總理施羅德參加普丁生日派對/a-79611219",
+      "thumbnail": "https://static.dw.com/image/79605854_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-09T10:00:57.15Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "德語媒體：難以奏效的「威懾武器」",
+      "url": "https://www.dw.com/zh-hant/德語媒體難以奏效的威懾武器/a-79565894",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-06T13:59:00.627Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "2026年諾獎花落誰手？人工智慧如是說",
+      "url": "https://www.dw.com/zh-hant/2026年諾獎花落誰手人工智慧如是說/a-79518962",
+      "thumbnail": "https://static.dw.com/image/79457628_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-06T10:16:54.067Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "China Pulse民調：大陸民眾更傾向用外交手段來統一台灣",
+      "url": "https://www.dw.com/zh-hant/china-pulse民調大陸民眾更傾向用外交手段來統一台灣/a-79562812",
+      "thumbnail": "https://static.dw.com/image/79404961_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-06T10:35:14.087Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "新冠疫情時的武漢市長 被判刑14年",
+      "url": "https://www.dw.com/zh-hant/新冠疫情時的武漢市長-被判刑14年/a-79628160",
+      "thumbnail": "https://static.dw.com/image/79628436_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T12:38:24.21Z",
+      "meta": "DW 德國之聲中文"
+    }
+  ]
+}

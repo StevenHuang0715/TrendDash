@@ -1,0 +1,234 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-10-10T16:35:08+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "國慶發錢了！登錄「每人600元小紅包」　加碼抽雙人來回機票",
+      "url": "https://news.tvbs.com.tw/life/4034114",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a104a6-5122-73d1-b073-1db09aee849a.png?w=1067&h=600&t=16x9&wp=l,t&c=201,0,994,446&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "川普點名台海沒開戰全靠他！怒轟：應得8座諾貝爾和平獎",
+      "url": "https://news.ebc.net.tw/news/world/575058",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791640997_14069.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T14:20:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "競選MV未經同意用張育成畫面！蔣萬安急滅火：造成困擾很抱歉",
+      "url": "https://news.tvbs.com.tw/politics/4034097",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a12363-45ce-71c9-83fd-8f8afb4bd89a.jpg?w=1067&h=600&t=16x9&wp=r,t&c=0,0,1920,1080&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "賴清德國慶演說喊「山巔之城」！六大社福津貼全面提升",
+      "url": "https://news.ebc.net.tw/news/politics/575037",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791631472_51942.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T11:25:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "日本樂天超夯冰品出事！香草冰淇淋混入「不明血液」　公司證實了",
+      "url": "https://news.tvbs.com.tw/world/4034164",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a123db-740a-71da-a4ce-3b8072145d21.jpg?w=1067&h=600&t=16x9&c=0,48,896,552&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "iPhone 18 Pro買氣大降？傳蘋果大砍15%訂單 通路現折4000元",
+      "url": "https://news.ebc.net.tw/news/business/574990",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/09/1791586053_15871.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T08:25:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "台北市長大預言！命理師鐵口他「權杖十號倒牌」：功虧一簣",
+      "url": "https://news.tvbs.com.tw/politics/4033999",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a12054-f839-733c-9db6-3c06463074a6.jpg?w=1067&h=600&t=16x9&wp=r,t&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／「雞排妹」鄭家純國慶生了！喜迎雙胞胎女兒嗨喊：十全十美",
+      "url": "https://ent.ebc.net.tw/variety-show/503064",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/10/10/1791655945_43177.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T18:13:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "載板需求太旺！臻鼎9月營收締造新猷、欣興營收連6月創高",
+      "url": "https://news.tvbs.com.tw/tech/4034234",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a12458-3d5d-720c-ad5a-8b1a0e54944c.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,193,1477,1024&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "100變200！十月限定「好市券」來了 暢遊全台40處夜市",
+      "url": "https://news.ebc.net.tw/news/living/575009",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791624744_27917.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T09:32:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "淡出政壇多年罕發聲！洪慈庸表態支持沈伯洋　親赴競總舉「洋流」合照",
+      "url": "https://news.tvbs.com.tw/politics/4034106",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a12374-0d98-7265-8ccb-e822cd1f0a9d.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "尪偷吃岳母20年！她撞見同床崩潰驗DNA：弟弟變兒子",
+      "url": "https://news.ebc.net.tw/news/world/575006",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791623331_57117.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T10:30:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "成吉思汗高雄館「公告停業」！館長砸1.6億展店　開業5年收攤",
+      "url": "https://news.tvbs.com.tw/life/4026585",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a0cd9f-1f4a-7334-b231-bde6860e2c35.png?w=1067&h=600&t=16x9&c=0,86,943,616&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "今年第3度！國慶當天萬丹泥火山噴發 火舌竄2米高",
+      "url": "https://news.ebc.net.tw/news/living/575011",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791624935_64770.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T09:41:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "沒得獎氣炸！川普嗆「台海沒開戰全靠我」　狂喊：我該拿8座和平獎",
+      "url": "https://news.tvbs.com.tw/world/4034253",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1247c-1b4b-717c-95cc-4e098e4d431f.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "護理師人妻偷吃更生人「要給我8次」車內鹹濕對話曝光",
+      "url": "https://news.ebc.net.tw/news/society/575045",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791634292_47624.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T15:00:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "拍片疑真空「激凸」！艾瑞絲大方認沒穿：已經很多年了",
+      "url": "https://news.tvbs.com.tw/entertainment/variety/4034133",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a123b0-0dc9-735d-97bf-26545ca59c9a.png?w=1067&h=600&t=16x9&c=0,0,1920,1080&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "巨虹連10跌「慘崩64.71%」散戶還在接！專家示警了",
+      "url": "https://news.ebc.net.tw/news/business/575010",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791624605_70592.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T11:26:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "曾向呂秀蓮求婚！董念台驚傳「病逝」享壽77歲　生前最後貼文曝",
+      "url": "https://news.tvbs.com.tw/politics/4034272",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a124b2-15d8-70e6-a4c0-f75b8a341ff5.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／中油宣布油價不變 汽油、柴油最新價格出爐",
+      "url": "https://news.ebc.net.tw/news/living/575097",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791653721_70129.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T17:35:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "沙烏地聯軍大規模行動 稱摧毀葉門叛軍上百個軍事目標",
+      "url": "https://news.ebc.net.tw/news/world/575079",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791647758_28629.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T19:03:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "3年首見！中華白海豚金門現身 遊客驚喜連連",
+      "url": "https://news.ebc.net.tw/news/living/575076",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791647155_65719.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T20:21:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "快訊／高雄左營爆砍人！62歲夫持刀砍妻子",
+      "url": "https://news.ebc.net.tw/news/society/575128",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791665671_99993.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T21:08:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "國慶連假住親戚家 少女遭四度侵犯！狼表哥判1年2月",
+      "url": "https://news.ebc.net.tw/news/society/574951",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/09/1791565621_94770.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T08:17:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "憂鬱症吃藥10多年！婦回診變開朗：老公終於死了",
+      "url": "https://news.ebc.net.tw/news/living/575050",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/10/1791637468_22240.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-10T13:04:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}
