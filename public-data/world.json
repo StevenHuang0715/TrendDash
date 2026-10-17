@@ -1,0 +1,324 @@
+{
+  "id": "world",
+  "name": "國際新聞",
+  "updated_at": "2026-10-17T12:34:34+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
+      "url": "https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/355e/live/bd7af110-c99f-11f1-ad54-aba20166b422.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T05:43:01.118Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "比地球更適宜居住的星球？確實存在",
+      "url": "https://cn.nytimes.com/science/20261014/inhabitable-planets-solar-system/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/13/multimedia/14int-theworld-super-earths/14int-theworld-super-earths-thumbLarge.gif",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-14T03:24:44+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "沒有不倒翁：黃奇帆與「倒查二十年」",
+      "url": "https://www.dw.com/zh-hant/沒有不倒翁黃奇帆與倒查二十年/a-79682475",
+      "thumbnail": "https://static.dw.com/image/79662583_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T14:28:48.69Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "令人窒息的有毒霧霾蔓延東南亞，誰之過？",
+      "url": "https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/b33f/live/4604a520-c7df-11f1-a64c-550be9e3c66b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-15T00:20:23.248Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "以民主換柴油，川普的交易令所有人蒙羞",
+      "url": "https://cn.nytimes.com/opinion/20261016/trump-russia-oil-putin/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/15/multimedia/15friedman-qblt/15friedman-qblt-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T04:36:15+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "白宮新任新聞秘書：中國\"連像樣的廁所都沒有\"",
+      "url": "https://www.dw.com/zh-hant/白宮新任新聞秘書中國連像樣的廁所都沒有/a-79678706",
+      "thumbnail": "https://static.dw.com/image/79658843_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T11:19:22.96Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "中朝新鴨綠江大橋通車：北京、平壤與莫斯科的新格局",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/440e/live/a5961560-c888-11f1-bc2e-018d645d8d21.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-15T11:39:24.355Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國車企成巴黎車展焦點，加速布局歐洲市場",
+      "url": "https://cn.nytimes.com/business/20261016/chinese-evs-europe-paris-motor-show/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-paris-auto-show-01-khgp/14biz-paris-auto-show-01-khgp-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T01:41:05+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "黃奇帆落馬 為什麼有人惋惜？",
+      "url": "https://www.dw.com/zh-hant/黃奇帆落馬-為什麼有人惋惜/a-79662742",
+      "thumbnail": "https://static.dw.com/image/79662567_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-14T15:04:45.115Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "美國中期選舉2026：贏會贏在哪裏，輸會輸在哪裏？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-15T00:20:29.394Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "新鴨綠江大橋通車，中朝貿易關係升溫",
+      "url": "https://cn.nytimes.com/asia-pacific/20261016/north-korea-china-bridge-yalu/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-nkorea-china-bridge-cglj/15int-nkorea-china-bridge-cglj-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T00:37:04+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "中國大使稱「若動武可輕易取勝」 菲律賓批形同威脅",
+      "url": "https://www.dw.com/zh-hant/中國大使稱若動武可輕易取勝-菲律賓批形同威脅/a-79678594",
+      "thumbnail": "https://static.dw.com/image/79679054_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T11:17:19.691Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "「我今年12歲，該嘗試蛋白粉嗎？」",
+      "url": "https://www.bbc.com/zhongwen/articles/cqkgl3re7mnpo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/8554/live/d1f10220-c26e-11f1-bc2e-018d645d8d21.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T09:28:44.224Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "新任白宮新聞秘書在中國做過律師嗎？我們進行了事實核查",
+      "url": "https://cn.nytimes.com/usa/20261015/trump-press-secretary-katie-zacharia-lawyer/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/14/multimedia/14dc-zacharia-top-zgkw/14dc-zacharia-top-zgkw-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T02:07:42+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "台裔德國作家廖樂薇: 用文學展現台灣民主韌性",
+      "url": "https://www.dw.com/zh-hant/台裔德國作家廖樂薇-用文學展現台灣民主韌性/a-79668895",
+      "thumbnail": "https://static.dw.com/image/79666569_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T08:07:09.418Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "中國製造的玩具如何從工廠到美國？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2d65npyrdjo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T00:27:24.809Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "揭秘俄羅斯鼠疫研究所：系統龐大隱秘，安全防護存疑",
+      "url": "https://cn.nytimes.com/science/20261016/russia-plague-laboratory-mystery/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/15/multimedia/15SCI-INSIDE-PLAGUE-LAB-01-hfwt/15SCI-INSIDE-PLAGUE-LAB-01-hfwt-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T02:21:56+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "川普：預計中國核武庫在五年內趕上美國",
+      "url": "https://www.dw.com/zh-hant/川普預計中國核武庫在五年內趕上美國/a-79680539",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T12:14:04.683Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/8293/live/a78051e0-c2e5-11f1-babe-4199b0e7ccea.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-08T12:34:52.762Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國人工智慧加入「失控」大軍：騰訊AI被指越界操作",
+      "url": "https://cn.nytimes.com/technology/20261015/chinese-ai-agents-rogue/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-agents-chat-tencent-zwgj/14biz-agents-chat-tencent-zwgj-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-15T02:16:38+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "「直播處決死刑犯」掀巨大反彈 川普宣佈取消",
+      "url": "https://www.dw.com/zh-hant/直播處決死刑犯掀巨大反彈-川普宣佈取消/a-79676126",
+      "thumbnail": "https://static.dw.com/image/78140935_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T06:15:20.212Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T11:44:49.818Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "水產養殖業的骯髒祕密：你吃的海鮮背後不為人知的陰暗面",
+      "url": "https://cn.nytimes.com/world/20261014/farm-raised-fish-aquaculture-overfishing/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/25/magazine/25mag-fishmeal/25mag-fishmeal-thumbLarge-v2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-13T17:30:25+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "歐盟召開峰會：對華出口、能源價格及預算是重點",
+      "url": "https://www.dw.com/zh-hant/歐盟召開峰會對華出口能源價格及預算是重點/a-79669593",
+      "thumbnail": "https://static.dw.com/image/79669692_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-15T12:55:32.509Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
+      "url": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/815f/live/b7df6e90-be3a-11f1-883b-cfbfbf424e7e.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-14T03:36:37.131Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國出口激增，年度貿易順差有望再次刷新紀錄",
+      "url": "https://cn.nytimes.com/business/20261015/china-exports-trade-surplus/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-china-trade-fcvw/14biz-china-trade-fcvw-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-15T00:37:34+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體：出口激增也是中國的軟肋",
+      "url": "https://www.dw.com/zh-hant/德語媒體出口激增也是中國的軟肋/a-79682218",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T14:19:22.789Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "「日子難熬」：美國人苦苦應對不斷上漲的通貨膨脹",
+      "url": "https://www.bbc.com/zhongwen/articles/c6vgj9r0k18eo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/e691/live/4f2f6b20-adf0-11f1-ad53-0d91a06f3150.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T00:27:29.646Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "一場AI智能體的聚會：它們聊些什麼？",
+      "url": "https://cn.nytimes.com/technology/20261016/ai-agents-communication-tech-dinner-party/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/14/business/00biz-ai-agents/00biz-ai-agents-thumbLarge-v2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T02:51:25+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德國為何轉向支持歐盟對華貿易強硬？",
+      "url": "https://www.dw.com/zh-hant/德國為何轉向支持歐盟對華貿易強硬/a-79660045",
+      "thumbnail": "https://static.dw.com/image/74057341_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-14T14:06:37.629Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "習近平「5年10萬」之邀：是搭橋還是挖坑？",
+      "url": "https://www.dw.com/zh-hant/習近平5年10萬之邀是搭橋還是挖坑/a-79668378",
+      "thumbnail": "https://static.dw.com/image/40381236_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-15T11:29:03.606Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "北溪爆炸案在德國開審 被告律師稱北溪管道或為「合法打擊目標」",
+      "url": "https://www.dw.com/zh-hant/北溪爆炸案在德國開審-被告律師稱北溪管道或為合法打擊目標/a-79670573",
+      "thumbnail": "https://static.dw.com/image/79662867_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-15T13:14:05.579Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "長平觀察：皮萊諾獎爭議背後的「名單」",
+      "url": "https://www.dw.com/zh-hant/長平觀察皮萊諾獎爭議背後的名單/a-79682046",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T14:00:39.895Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "重慶政壇「不倒翁」黃奇帆落馬 卸任近十年後接受中紀委審查",
+      "url": "https://www.dw.com/zh-hant/重慶政壇不倒翁黃奇帆落馬-卸任近十年後接受中紀委審查/a-79651497",
+      "thumbnail": "https://static.dw.com/image/18976068_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-13T13:08:34.06Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "中國9月出口激增 順差逼近兆美元",
+      "url": "https://www.dw.com/zh-hant/中國出口暴增消費疲軟-經濟隱憂難化解/a-79659242",
+      "thumbnail": "https://static.dw.com/image/77961566_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-14T11:45:48.728Z",
+      "meta": "DW 德國之聲中文"
+    }
+  ]
+}

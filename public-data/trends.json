@@ -1,0 +1,99 @@
+{
+  "id": "trends",
+  "name": "Google 熱搜",
+  "updated_at": "2026-10-17T12:34:45+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "洛杉磯道奇",
+      "url": "https://www.google.com/search?q=%E6%B4%9B%E6%9D%89%E7%A3%AF%E9%81%93%E5%A5%87",
+      "thumbnail": null,
+      "score": 1000,
+      "score_label": "1000+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 05:10:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "张忠谋",
+      "url": "https://www.google.com/search?q=%E5%BC%A0%E5%BF%A0%E8%B0%8B",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ykqOUAUJA6d0fKn9iWjJiP-N3Ktv-jtS5me4DE0TbGu7_awPvycUB3O8its",
+      "score": 500,
+      "score_label": "500+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 04:20:00 -0700",
+      "meta": "「别把利润全拿走」 黄仁勳揭NVIDIA供应链共荣哲学"
+    },
+    {
+      "title": "persita vs persija jakarta",
+      "url": "https://www.google.com/search?q=persita%20vs%20persija%20jakarta",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTb8Jiv5hU8WI6cWjmQcckgeSxOvnVyBIMFBmZiZo1ffg81Lk0Z_Wo9hwxMwtA",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 04:50:00 -0700",
+      "meta": "Persita vs Persija Lineup Prediction: Shin Tae-yong Targets Rayco"
+    },
+    {
+      "title": "邁阿密熱火",
+      "url": "https://www.google.com/search?q=%E9%82%81%E9%98%BF%E5%AF%86%E7%86%B1%E7%81%AB",
+      "thumbnail": null,
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 04:30:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "陳素月",
+      "url": "https://www.google.com/search?q=%E9%99%B3%E7%B4%A0%E6%9C%88",
+      "thumbnail": null,
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 05:20:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "市值",
+      "url": "https://www.google.com/search?q=%E5%B8%82%E5%80%BC",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaznBbNhW2FX4RkADd3SK3kFG8--yT9pOVWxJFXVrsFYInDcHoxiM7LdmaHDM",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 05:20:00 -0700",
+      "meta": "美國通膨數據高於預期 物價不利共和黨期中選舉"
+    },
+    {
+      "title": "週末最強大",
+      "url": "https://www.google.com/search?q=%E9%80%B1%E6%9C%AB%E6%9C%80%E5%BC%B7%E5%A4%A7",
+      "thumbnail": null,
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 05:10:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "เอฟเวอร์ตัน พบ เชลซี",
+      "url": "https://www.google.com/search?q=%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%99%20%E0%B8%9E%E0%B8%9A%20%E0%B9%80%E0%B8%8A%E0%B8%A5%E0%B8%8B%E0%B8%B5",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GYORj8I92K9MGEj8e2VxtivaLkPKlyAu2mzbcH_BtgpB4DoDbgdbghqFPpM",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 04:50:00 -0700",
+      "meta": "คอมพิวเตอร์ทำนายผลการแข่งขันพรีเมียร์ลีก รอบที่ 7: มีเพียงแมนเชสเตอร์ ซิตี้ เท่านั้นที่การันตีชัยชนะ"
+    },
+    {
+      "title": "柴油",
+      "url": "https://www.google.com/search?q=%E6%9F%B4%E6%B2%B9",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGpMunU6ZxEsN04JCLQiLF7Gq0Ni2EnOU9V3RsaY96WnCIaNLWd9mc033mM0s",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 04:40:00 -0700",
+      "meta": "加油不急！下周油價不調整　95無鉛每公升32.7元"
+    },
+    {
+      "title": "潮派鹿港2026",
+      "url": "https://www.google.com/search?q=%E6%BD%AE%E6%B4%BE%E9%B9%BF%E6%B8%AF2026",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ85OVFcwHVpyD_EM6ZwBJLgrfPy5zcJwAZgJYjF5OEmGuDqZnSWFTco2b_Ihg",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 17 Oct 2026 04:30:00 -0700",
+      "meta": "2026潮派鹿港音樂祭 海內外72組樂團歡樂開唱"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-10-17T12:34:28+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "心臟科名醫朱志生閃貓摔車亡！門診滿檔卻等嘸人　高醫回應了",
+      "url": "https://news.tvbs.com.tw/local/4037281",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a147ae-0bb0-7214-a9a2-c35c17e86595.png?w=1067&h=600&t=16x9&wp=l,t&c=0,465,929,988&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "西門町甜甜圈店員「跳出櫃台」揍顧客！店家PO監視器曝真相",
+      "url": "https://news.ebc.net.tw/news/living/576108",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/16/1792184462_47545.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T21:04:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "天氣／颱風薔琵新路徑直逼台灣！全台暴風侵襲率曝　這縣市最高",
+      "url": "https://news.tvbs.com.tw/life/4037233",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a14730-726a-730b-9550-9dd780c3fb7a.png?w=1067&h=600&t=16x9&c=0,114,956,652&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "普發1萬來了！最快入帳時間曝光 5大管道一次看",
+      "url": "https://news.ebc.net.tw/news/living/576131",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792226452_87545.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T09:11:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "快訊／郭靜純宣布離婚「沒有第三者」！淡出移居加拿大　帶貨陷仿冒疑雲",
+      "url": "https://news.tvbs.com.tw/entertainment/variety/4037391",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a14889-90c4-7358-9db4-7123f2556bba.jpg?w=1067&h=600&t=16x9&c=0,0,1600,900&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "男友讚「史上最爽」卻戰90分鐘！棉花糖女孩疑惑",
+      "url": "https://news.ebc.net.tw/news/living/576137",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792229130_59189.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T09:47:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "影音／高醫心臟科名醫朱志生「雙肺破裂」亡　獨留妻＋3兒認屍慟：太突然了",
+      "url": "https://news.tvbs.com.tw/local/4037356",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a14819-2e0e-70c9-9255-c3a9d5873dec.png?w=1067&h=600&t=16x9&wp=l,t&c=0,2,2350,1324&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "日地震速報誤判9.9強震 氣象廳：兩度標錯震央、不排除再發生",
+      "url": "https://news.ebc.net.tw/news/world/576115",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/16/1792187602_41475.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T21:50:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "美資深男星猝逝！搶救無效「心臟驟停亡」　忽視3症狀喪命",
+      "url": "https://news.tvbs.com.tw/entertainment/drama/4037291",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a147c9-4ec7-717c-b53c-3614dded6dd9.jpg?w=1067&h=600&t=16x9&c=0,106,351,303&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "盛唐中醫鉛中毒案定讞 張宏年家屬難原諒負責人",
+      "url": "https://news.ebc.net.tw/news/society/576118",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/16/1792188070_71421.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T21:56:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "門口遭貼「強制執行單」！汐止夫妻積欠多年房租　頂樓急墜雙亡",
+      "url": "https://news.tvbs.com.tw/local/4037265",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a14795-a496-70e2-ade9-cf21684a2781.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,277,1477,1108&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "俄軍轟炸釀9死大斷電「美烏裂痕爆發」！川普：沒干涉星鏈",
+      "url": "https://news.ebc.net.tw/news/world/576145",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792233975_90453.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T12:30:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "張秀卿幫嫩尪扛3400萬債離婚！緋聞男友第一時間發聲",
+      "url": "https://news.tvbs.com.tw/entertainment/music/4037183",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a144e3-4704-7013-ab82-798f7fa2164d.jpg?w=1067&h=600&t=16x9&c=0,52,800,502&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "高醫心臟科名醫趕回院救人 閃貓自摔不治",
+      "url": "https://news.ebc.net.tw/news/society/576146",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792234415_81893.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T10:57:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "五金行發票爽中1千萬！吃便當嗨中200萬　獎落2縣市",
+      "url": "https://news.tvbs.com.tw/life/4037270",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a04751-d5f8-7334-b136-121bc41135cb.jpg?w=1067&h=600&t=16x9&c=0,0,800,450&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "AI泡沫化？陸蝕刻機之父示警：半導體9成業者將淘汰",
+      "url": "https://news.ebc.net.tw/news/business/575744",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/14/1792003435_90874.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T08:13:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "才驚險獲救！失蹤進口商副總病況惡化送ICU　百萬懸賞金去向曝",
+      "url": "https://news.tvbs.com.tw/local/4036965",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a14390-14bb-7356-94d2-6cea2c27a5ab.jpg?w=1067&h=600&t=16x9&c=0,0,1920,1080&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "高雄酒醉女KTV遭3度性侵！回男友家又被尾隨猥褻",
+      "url": "https://news.ebc.net.tw/news/society/576163",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792236932_46463.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T13:20:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "《實習醫生》國寶級影星艾倫曼德爾過世享耆壽98歲　好萊塢巨星曾親自登門求教",
+      "url": "https://news.tvbs.com.tw/entertainment/movies/4037246",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a14760-ccf9-729e-99dd-384843cb9c71.png?w=1067&h=600&t=16x9&c=12,0,984,547&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "台指期夜盤狂殺1144點！專家示警：週一「記憶體」先挨1拳",
+      "url": "https://news.ebc.net.tw/news/business/576199",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792252985_70359.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T16:13:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "名校21歲妹慘遭鎖浴室性侵！7男同學門外排隊喊：換我了嗎？",
+      "url": "https://news.ebc.net.tw/news/world/576126",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792225200_28417.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T08:26:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "LINE用戶快檢查！符合「2條件」年底恐永久刪帳號 貼圖、紀錄全消失",
+      "url": "https://news.ebc.net.tw/news/living/576136",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792230001_44999.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T09:38:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "違反醫療器材法判刑確定 張榮法遭取消花蓮市長參選資格",
+      "url": "https://news.ebc.net.tw/news/politics/576182",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792247257_87521.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T14:24:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "醫起看／年輕妹「沒懷孕卻泌乳」醫示警：恐是腦瘤作祟",
+      "url": "https://news.ebc.net.tw/news/health/576152",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792241500_25052.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T12:08:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "沙國石油樞紐險遭炸！葉門機場遭2飛彈襲擊 油價恐拉警報",
+      "url": "https://news.ebc.net.tw/news/world/576213",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/17/1792256103_46299.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-17T17:11:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}
