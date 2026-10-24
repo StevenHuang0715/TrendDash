@@ -1,0 +1,324 @@
+{
+  "id": "world",
+  "name": "國際新聞",
+  "updated_at": "2026-10-24T22:47:28+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "颱風薔琵：台灣釀1死171傷，大部分縣市停班停課",
+      "url": "https://www.bbc.com/zhongwen/live/c6y8lvmvj151t",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/34ba/live/faaa95a0-ceb2-11f1-9a39-31b474234113.png",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "民主倒退、中國崛起，人類命運將走向何方",
+      "url": "https://cn.nytimes.com/opinion/20261022/america-world-order-democracy-trump/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/18/opinion/18schmemann/18schmemann-thumbLarge-v2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-21T17:26:47+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "中共五中全會將登場：習近平再掌權六年？",
+      "url": "https://www.dw.com/zh-hant/中共五中全會將登場習近平再掌權六年/a-79741768",
+      "thumbnail": "https://static.dw.com/image/57843122_602.jpeg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T10:38:29.868Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "巴黎騷亂中的三位華人：「激烈的地方激烈，安靜的地方安靜」",
+      "url": "https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/3f3d/live/dabd82c0-cea3-11f1-bc2e-018d645d8d21.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T08:59:14.582Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "AI識別PHP重大漏洞，多國政府和企業網站臨時關停",
+      "url": "https://cn.nytimes.com/world/20261023/php-vulnerability-websites-cybersecurity-ai/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T02:49:56+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "離岸信託申報期限屆滿　中國富豪拋股票拆信託換國籍",
+      "url": "https://www.dw.com/zh-hant/離岸信託申報期限屆滿中國富豪拋股票拆信託換國籍/a-79744173",
+      "thumbnail": "https://static.dw.com/image/40033475_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T13:31:17.92Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-20T14:58:04.370Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "法國發生近年來最大規模騷亂，人們在抗議什麼？",
+      "url": "https://cn.nytimes.com/world/20261019/france-student-protests-why/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-19",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "抗議、暴力、宵禁 ：年輕人的抗議浪潮為何席捲全歐",
+      "url": "https://www.dw.com/zh-hant/抗議暴力宵禁-年輕人的抗議浪潮為何席捲全歐/a-79734262",
+      "thumbnail": "https://static.dw.com/image/79701703_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-22T14:08:46.409Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "中共五中全會前瞻：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/7597/live/7ef98ae0-ce1e-11f1-906e-e3128518d85d.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T00:41:11.441Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "在台灣，颱風不僅是自然災害，還可能決定政治人物的命運",
+      "url": "https://cn.nytimes.com/asia-pacific/20261023/taiwan-typhoon-champi-mayors/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-taiwan-typhoon-fgbh/22int-taiwan-typhoon-fgbh-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T01:36:53+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "施羅德現身中國論壇　與王毅並肩入場",
+      "url": "https://www.dw.com/zh-hant/施羅德現身中國論壇與王毅並肩入場/a-79745491",
+      "thumbnail": "https://static.dw.com/image/79583402_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T14:33:43.01Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "PHP是什麼？為何它引發全球網絡安全危機？",
+      "url": "https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T08:09:29.482Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "普丁的「棋局」：重塑美俄關係而無需作出任何讓步",
+      "url": "https://cn.nytimes.com/world/20261023/putin-trump-ukraine-war/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-russia-putin-ftcl/22int-russia-putin-ftcl-thumbLarge-v2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T04:19:50+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德國總統時隔八年再次國事訪華",
+      "url": "https://www.dw.com/zh-hant/德國總統時隔八年再次國事訪華/a-79743531",
+      "thumbnail": "https://static.dw.com/image/6392750_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T13:14:20.743Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "不點單，沒座位：星巴克中國推出新門店政策",
+      "url": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-22T09:50:32.172Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國第六代領導人嶄露頭角",
+      "url": "https://cn.nytimes.com/china/20121126/c26leaders/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2012/11/27/world/asia/27sixthgen/27sixthgen-thumbLarge-v2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2012-11-26",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體：德國應當學習「中國模式」？",
+      "url": "https://www.dw.com/zh-hant/德語媒體德國應當學習中國模式/a-79745059",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T14:16:19.332Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
+      "url": "https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/c060/live/ba6a11a0-cd4f-11f1-a64c-550be9e3c66b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-21T13:14:41.491Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "西藏那曲發生7.0級地震，十餘人死亡",
+      "url": "https://cn.nytimes.com/china/20261023/earthquake-tibet-china/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-china-tibet-quake-pvlf/23int-china-tibet-quake-pvlf-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T04:40:30+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體：從仰慕到惋惜 – 中國人眼中的德國形象",
+      "url": "https://www.dw.com/zh-hant/德語媒體從仰慕到惋惜-中國人眼中的德國形象/a-79734614",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-22T14:27:40.929Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "特朗普收緊綠卡政策，印度科技從業者的「美國夢」面臨考驗",
+      "url": "https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-22T09:21:26.919Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "民調顯示，期中選舉兩週前川普支持率跌至新低",
+      "url": "https://cn.nytimes.com/usa/20261022/trump-midterm-election-poll/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/21/multimedia/c22pol-poll-01/c22pol-poll-01-thumbLarge.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-22T03:07:26+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "歐盟應對中國衝擊2.0 擬談判限進口",
+      "url": "https://www.dw.com/zh-hant/對華逆差日逾10億歐-歐盟要出手/a-79744903",
+      "thumbnail": "https://static.dw.com/image/77752911_602.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T13:51:46.722Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
+      "url": "https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/4a16/live/03f1c6b0-cec2-11f1-ae9c-0303957c36f8.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T10:33:20.185Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "當法國人將憤怒砸向奢侈品櫥窗",
+      "url": "https://cn.nytimes.com/style/20261022/france-riots-luxury-dior-hermes/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-LUXURY-LOOTING-PARIS-1-pkgf/21ST-LUXURY-LOOTING-PARIS-1-pkgf-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-22T03:57:51+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "\"Z世代來做主\"號召德國21城抗議  與法國騷亂保持距離",
+      "url": "https://www.dw.com/zh-hant/z世代來做主號召德國21城抗議-與法國騷亂保持距離/a-79733864",
+      "thumbnail": "https://static.dw.com/image/67678897_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T11:20:43.792Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "《決勝時刻》新遊戲設想朝鮮入侵韓國，真的會發生嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cj75p1qkyw7vo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/4e95/live/d4b2d1b0-cc68-11f1-baeb-8d65d4bcd7ab.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-22T08:44:40.802Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "李翊雲新作：「小有名氣」者的宿命與悲歡",
+      "url": "https://cn.nytimes.com/culture/20261023/music-against-the-night-yiyun-li/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/25/books/25TBR-Li-review/13TBR-Li-review-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T04:55:43+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "抗議浪潮下 法國警察是歐盟最暴力的嗎?",
+      "url": "https://www.dw.com/zh-hant/抗議浪潮下-法國警察是歐盟最暴力的嗎/a-79742594",
+      "thumbnail": "https://static.dw.com/image/79696414_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-23T11:35:18.185Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "沒有不倒翁：黃奇帆與「倒查二十年」",
+      "url": "https://www.dw.com/zh-hant/沒有不倒翁黃奇帆與倒查二十年/a-79682475",
+      "thumbnail": "https://static.dw.com/image/79662583_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-16T14:28:48.69Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "字節阿裡騰訊砸數百億美金 搶購英偉達晶片",
+      "url": "https://www.dw.com/zh-hant/字節阿裡騰訊砸數百億美金-搶購英偉達晶片/a-79712724",
+      "thumbnail": "https://static.dw.com/image/74722890_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-20T11:42:51.333Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "中國居民用電近十年首現負增長  AI和電動車用電猛增",
+      "url": "https://www.dw.com/zh-hant/中國居民用電近十年首現負增長-ai和電動車用電猛增/a-79749795",
+      "thumbnail": "https://static.dw.com/image/74146055_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T10:33:57.719Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "習近平「5年10萬」之邀：是搭橋還是挖坑？",
+      "url": "https://www.dw.com/zh-hant/習近平5年10萬之邀是搭橋還是挖坑/a-79668378",
+      "thumbnail": "https://static.dw.com/image/40381236_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-15T11:29:03.606Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "金正恩經新鴨綠江大橋抵達中國 王滬寧陪同訪問丹東",
+      "url": "https://www.dw.com/zh-hant/金正恩經新鴨綠江大橋抵達中國-王滬寧陪同訪問丹東/a-79749922",
+      "thumbnail": "https://static.dw.com/image/79665309_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T10:33:35.938Z",
+      "meta": "DW 德國之聲中文"
+    }
+  ]
+}

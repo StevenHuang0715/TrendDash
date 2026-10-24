@@ -1,0 +1,234 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-10-24T22:47:20+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "賭博輸28萬還不起　女友陪睡抵債1次1萬男哭：6次了",
+      "url": "https://news.tvbs.com.tw/local/1697015",
+      "thumbnail": "https://news-images.tvbs.com.tw/legacy/img/upload/2022/01/21/20220121161049-6a1965c8.jpg?w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "人妻颱風假狂玩「拔香菇」！老公癱沙發求饒：已經枯萎了",
+      "url": "https://news.ebc.net.tw/news/living/577260",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792842640_10114.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T11:54:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "開刀瞬間「蛔蟲瀑布噴出」！美醫護看傻　竄滿手術台畫面曝",
+      "url": "https://news.tvbs.com.tw/world/2542764",
+      "thumbnail": "https://news-images.tvbs.com.tw/legacy/img/upload/2024/07/07/20240707132122-7fc81638.jpg?w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／新莊工地電梯意外墜落！2工人重創慘死",
+      "url": "https://news.ebc.net.tw/news/society/577293",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792853603_19998.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T16:00:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "徐佳青捲晚會慶生爭議　網湧賴清德臉書怒批：要查了嗎？",
+      "url": "https://news.tvbs.com.tw/politics/4040809",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a16de5-2305-706c-875f-6cb3afa4def7.png?w=1067&h=600&t=16x9&c=0,0,800,450&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／萬那杜外海爆規模7.2強震！深度僅10公里",
+      "url": "https://news.ebc.net.tw/news/world/577249",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792838690_94339.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T10:46:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "美驚見「黑色三角形UFO」　速度媲美戰機3度掠過美軍基地",
+      "url": "https://news.tvbs.com.tw/world/4040665",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a16c9f-7e98-71c2-84bd-c495e4cd1e36.png?w=1067&h=600&t=16x9&c=0,24,1201,700&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "菲律賓2軍機空中相撞墜毀 機上4人全員罹難",
+      "url": "https://news.ebc.net.tw/news/world/577333",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792865962_72514.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T18:22:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "高速公路追撞釀1死！女駕駛肇事前「竟在看成人片」遭控重罪",
+      "url": "https://news.tvbs.com.tw/world/4040523",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a16bc6-1b70-73aa-b8cc-e1e6e90798bf.jpg?w=1067&h=600&t=16x9&c=59,0,2727,1501&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "ATM周一凌晨將停30分鐘！跨行轉帳、提款注意了",
+      "url": "https://news.ebc.net.tw/news/business/577298",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792854857_18665.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T15:14:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "56歲金正恩離婚！「性格不合」斬22年婚姻　低調回應情斷細節",
+      "url": "https://news.tvbs.com.tw/entertainment/jk-pop/4040750",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a16d37-7449-7227-8b69-12d07fcad4cb.jpg?w=1067&h=600&t=16x9&c=0,0,1920,1080&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／中油油價公布了！汽油、柴油價格一次看",
+      "url": "https://news.ebc.net.tw/news/living/577324",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792862398_24150.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T17:22:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "颱風連假賣壓殺爆台股！郭哲榮喊下週二大逆轉　點名買這6檔",
+      "url": "https://news.tvbs.com.tw/money/4040681",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a16cce-cf31-7123-b444-09e86cf39de8.png?w=1067&h=600&t=16x9&c=95,0,1787,952&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／萬那杜群島爆7.2強震！氣象署發布海嘯消息",
+      "url": "https://news.ebc.net.tw/news/living/577252",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792840167_58060.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T11:10:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "沒車沒房0股票「戶頭剩2.4萬」　白議員候選人：選舉把錢全花光",
+      "url": "https://news.tvbs.com.tw/politics/4039773",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a162ab-1fb4-7381-9670-476b0110f3f8.jpeg?w=1067&h=600&t=16x9&c=0,44,2048,1196&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "醫起看／長期點人工淚液害結膜「纖維化」 醫揭元凶是這1成分",
+      "url": "https://news.ebc.net.tw/news/health/577352",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792871605_12544.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T20:54:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "陳智菡爆料花千萬公帑替徐佳青慶生　僑委會不忍了！蒐證喊告",
+      "url": "https://news.tvbs.com.tw/politics/4040657",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a16c05-595f-7253-8740-a951aa5caff9.png?w=1067&h=600&t=16x9&c=0,0,934,525&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "美特使拋震撼彈！預告「最快本週末」打擊伊朗",
+      "url": "https://news.ebc.net.tw/news/world/577243",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792836151_39941.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T11:25:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "才剛甜嫁8個月！34歲實境秀女星安妮卡乳癌病逝　粉絲湧社群哀悼",
+      "url": "https://news.tvbs.com.tw/entertainment/variety/4040483",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a16b66-a2e1-72e2-a25c-f610af8ece84.jpg?w=1067&h=600&t=16x9&c=0,0,1440,810&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "資深玉女歌手爆遭5男挾持！男客掏槍強逼陪睡 驚險逃生過程曝",
+      "url": "https://ent.ebc.net.tw/music/503363",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/10/24/1792861773_27119.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T17:10:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "河口湖命案最新！兇嫌一抵日本就買刀 時間軸曝",
+      "url": "https://news.ebc.net.tw/news/world/577331",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792865793_67187.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T18:14:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "快訊／又有新颱風！煙花今晨生成 最新路徑曝光",
+      "url": "https://news.ebc.net.tw/news/living/577233",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792830003_46948.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T08:38:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "國道3號4車連環撞 小貨車翻覆傷亡不明",
+      "url": "https://news.ebc.net.tw/news/society/577302",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792855272_80448.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T15:23:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "女司機「開車看成人網站」 害5寶爸爆頭慘死",
+      "url": "https://news.ebc.net.tw/news/world/577235",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792832379_76995.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T09:03:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "香港無業男扮女同志 激戰一半被揭穿！結果曝光",
+      "url": "https://news.ebc.net.tw/news/world/577330",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/24/1792865402_82391.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T19:49:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "trends",
+  "name": "Google 熱搜",
+  "updated_at": "2026-10-24T22:47:38+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "lcp",
+      "url": "https://www.google.com/search?q=lcp",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX-OF40RTHwJWViJy_tZEk6cOxT_WBwUmg2wHCbs3UrC70gHo7_4K2Oia9cek",
+      "score": 1000,
+      "score_label": "1000+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 11:30:00 -0700",
+      "meta": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\""
+    },
+    {
+      "title": "車票",
+      "url": "https://www.google.com/search?q=%E8%BB%8A%E7%A5%A8",
+      "thumbnail": null,
+      "score": 500,
+      "score_label": "500+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 14:50:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "liga inggris",
+      "url": "https://www.google.com/search?q=liga%20inggris",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnYpix4-HUQXK0jRWw3uRXbn3UP2EtsLthn7lZ5ZHRwG3cJWBejh5E8kAH0zA",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 15:10:00 -0700",
+      "meta": "'Musuh bebuyutan' yang mengakhiri rentetan kemenangan Man City di Liga Premier."
+    },
+    {
+      "title": "台 股",
+      "url": "https://www.google.com/search?q=%E5%8F%B0%20%E8%82%A1",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkpInqlGYY0b8DB06a79pBhvc9YRsfaTVfW3lKJRsj_0Hng9scnJ4Od3xqQTU",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 15:00:00 -0700",
+      "meta": "韓股崩跌40%「台股僅跌4%」！ 專家斷言：情況很明顯了"
+    },
+    {
+      "title": "f1",
+      "url": "https://www.google.com/search?q=f1",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPtQq0D1X1XWshkUlTkodYupz2BXTWAi-q2MgyE29HmzFUTNhTrx9KVh_bdd0",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 15:00:00 -0700",
+      "meta": "Antonelli takes US pole on weekend he can win title"
+    },
+    {
+      "title": "錢騾",
+      "url": "https://www.google.com/search?q=%E9%8C%A2%E9%A8%BE",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgsqI1-eklefill5H2BWYMVMQG-i8n8P0uU2gK0eQoRuEwdUlH9ITXv_NRk9k",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 15:00:00 -0700",
+      "meta": "狮城警：从15岁到76岁 277人涉诈或当钱骡助查"
+    },
+    {
+      "title": "金價",
+      "url": "https://www.google.com/search?q=%E9%87%91%E5%83%B9",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhI0stwtsDk-XYZH7VyG_WzrdL8Gjd2QyYYZFxy_GeVv1onez7zcY9NgvdSf0",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 14:20:00 -0700",
+      "meta": "〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期"
+    },
+    {
+      "title": "cblol",
+      "url": "https://www.google.com/search?q=cblol",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HgUyLEldZ20Ha5EIDdoHnw1E4uQ8PoGTHL4__7iQeXfErmNMrGLugnzChnI",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 12:10:00 -0700",
+      "meta": "Worlds 2026: ''Eu nunca fugi do meta'', diz LOS Curse às vésperas da estreia"
+    },
+    {
+      "title": "lec",
+      "url": "https://www.google.com/search?q=lec",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc06RDWfsivbGB9fTPzaFD1XsgiNHCHbx-1-FQWJ2N5HdvGAnRtoFW-XAW_BE",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 11:40:00 -0700",
+      "meta": "October 23, 2026: Karmine Corp vs. Anyone's Legend Esports Prediction Market"
+    },
+    {
+      "title": "lol esport",
+      "url": "https://www.google.com/search?q=lol%20esport",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYDH8IvvqmU0zD3lG5Vw7dOZZJQ0Azj4U5PA0P-iQ7odFr06lCvB0iowoLVGo",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 24 Oct 2026 10:50:00 -0700",
+      "meta": "Veteran Ruler Park Jae-hyuk: \"Rather than pressure, my mindset is to learn and enjoy\""
+    }
+  ]
+}

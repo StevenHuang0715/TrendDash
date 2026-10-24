@@ -1,0 +1,414 @@
+{
+  "id": "paper",
+  "name": "報紙新聞",
+  "updated_at": "2026-10-24T22:47:18+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "薔琵險登陸 颱風論壇：距離宜蘭蘇澳最近1公里 打倒車檔準備遠離台灣",
+      "url": "https://udn.com/news/story/125052/9834443",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35449957.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T07:56:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "沈伯洋線上座談會陣容超扯 來賓視訊一開聊天室暴動：全都大神",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5617579",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/phpSlz9gv.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T19:10:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "李四端赴山西旅遊 談當地博物館「僅有一點勝台北故宮」",
+      "url": "https://www.chinatimes.com/realtimenews/20261024002266-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002267.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T15:37:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "「我好內疚、很難過」清潔隊長邀蔣萬安清路樹遭青鳥出征 心痛留言曝光",
+      "url": "https://udn.com/news/story/124652/9835336",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451304.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T19:38:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "中國航班飛錯被制止進場竟嗆桃機航管 超瞎錄音曝",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5617549",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/phpBbfhT4.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T19:42:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "神明預言「高雄出女市長」柯志恩自嘲：比我政見還有用",
+      "url": "https://www.chinatimes.com/realtimenews/20261024002586-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002587.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T17:38:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "歡唱影片曝光！僑務晚宴變徐佳青壽宴 網友：喜孜孜、笑盈盈是要高升？",
+      "url": "https://udn.com/news/story/6656/9834527",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450083.jpg&M=1&s=Y&x=0&y=0&sw=1078&sh=719&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T09:30:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "投保前16天發現乳房腫塊 保險公司拒賠50萬敗訴",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5617307",
+      "thumbnail": "https://img.ltn.com.tw/Upload/health/page/800/2026/10/24/5617307_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T14:39:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "僑委會喊不排除提告   陳智菡再爆：原安排徐佳青「會議坐前排」",
+      "url": "https://www.chinatimes.com/realtimenews/20261024002400-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002401.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T16:11:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "薔琵最嚴峻時刻已過 氣象署：薔琵昨晚打轉後北移 今凌晨已掠過南方澳",
+      "url": "https://udn.com/news/story/125052/9834423",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35449933.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T07:05:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "沈伯洋上節目被挖出超強能力 網驚：難怪中共那麼害怕",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5617318",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/phpeDTgU2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T14:17:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "從警近30年退休喊養不起2兒 月退4.1萬竟還想砍扶養費",
+      "url": "https://www.chinatimes.com/realtimenews/20261024000011-260402",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-20/330/20261020002526.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T08:00:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "煙花颱風今天生成 專家曝對台灣影響機率 後期路徑不確定性大",
+      "url": "https://udn.com/news/story/7266/9834667",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450303.png&M=1&s=Y&x=0&y=0&sw=954&sh=636&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T10:23:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "台積工程師舉家赴美過什麼日子？孩子喊2科超輕鬆 家長傻眼憂1事",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5617239",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/24/phpgPCSsQ.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T12:46:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "蔣萬安清樹枝被批干擾   清潔隊長：主動邀請被負面解讀   打擊基層士氣",
+      "url": "https://www.chinatimes.com/realtimenews/20261024002765-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002793.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T18:36:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "美公布最新幽浮檔案！神秘黑色三角飛行器 完全無聲爬升後高速飛離",
+      "url": "https://udn.com/news/story/6813/9834483",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450004.jpg&M=1&s=Y&x=71&y=1&sw=1209&sh=805&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T08:53:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "彰化以南脫離薔琵颱風暴風圈！估傍晚解除陸警",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5617011",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5617011_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T09:00:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "靠中華電信買下新竹豪宅！主播曝友人紀律存股獲利7位數",
+      "url": "https://www.chinatimes.com/realtimenews/20261024001324-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024001333.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T11:25:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "先爆公帑歡送慶生 陳智菡再揭「僑委會安排徐佳青參與僑務會議」高層異議才取消",
+      "url": "https://udn.com/news/story/6656/9835159",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451062.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T16:19:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "沈伯洋10多年前暖舉被挖出！曾送失明學生萬元法律有聲書準備高考",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5616985",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/phpLJJiXw.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T09:24:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "新北市長之戰決定投誰？最新街頭民調這人領先",
+      "url": "https://www.chinatimes.com/realtimenews/20261024000075-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024000078.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T12:30:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "新莊工地疑電梯「7、8樓失控直墜」 2工人送醫不治",
+      "url": "https://udn.com/news/story/7315/9835091",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450972.jpg&M=1&s=Y&x=0&y=44&sw=513&sh=342&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T16:10:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "台股下週二開盤刺激了？網掀兩派論戰「這樣說」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5617119",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/24/php4gR5UJ.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T10:30:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "尷尬！陸朱雀火箭3.35米殘骸砸落美玉米田 哈佛前天文學家說話了",
+      "url": "https://www.chinatimes.com/realtimenews/20261024002288-260408",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002658.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T17:51:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "僑務晚宴變壽宴 與會者：上台時間超過李妍慧 徐佳青儼然成主人",
+      "url": "https://udn.com/news/story/6656/9834621",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450222.jpg&M=1&s=Y&x=0&y=0&sw=1134&sh=756&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T10:02:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "阿部瑪利亞閃婚當媽！老公身分曝光 甜蜜喊話：我是台灣媳婦",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5617073",
+      "thumbnail": "https://img.ltn.com.tw/Upload/ent/page/800S/2026/10/24/5617073_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T10:05:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "恆春舊大樓2樓陽台崩垮砸中機車　民眾驚呼「鋼筋呢？」縣府將查",
+      "url": "https://www.chinatimes.com/realtimenews/20261024002372-260402",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002373.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T15:53:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "6200元機票沒附餐！香港一家四口大鬧日本機場要求說粵語 地勤應對獲讚",
+      "url": "https://udn.com/news/story/7332/9834440",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35449969.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T08:25:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "你也中鏢了？台股套牢苦主大集合 這檔被虧「一路南下」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5617525",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/24/phpYGiTG7.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T18:26:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "影》颱風夜驚見巨蟒！2米長黃金蟒逛永和街頭 民眾拿紙箱急扣留",
+      "url": "https://www.chinatimes.com/realtimenews/20261024001917-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024001919.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T13:51:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "「被醫師耽誤的歌手」成絕響…朱志生今告別式 心導管室「初衷」藏10年",
+      "url": "https://udn.com/news/story/7266/9835101",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450994.jpg&M=1&s=Y&x=0&y=84&sw=669&sh=446&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T15:20:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "沈伯洋遭疑「人設包裝」！作家湯舒雯揭10年私交真面目",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5617637",
+      "thumbnail": "https://img.ltn.com.tw/Upload/ent/page/800S/2026/10/24/5617637_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T19:20:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "蔣萬安對決沈伯洋 挺誰當台北市長？這區街訪民調太驚人",
+      "url": "https://www.chinatimes.com/realtimenews/20261024001415-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024001472.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T18:45:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "青鳥連蔣萬安撿樹枝、戴安全帽都要造謠 清潔隊長：打擊基層士氣",
+      "url": "https://udn.com/news/story/124652/9835193",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451106.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T16:56:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "陳柏惟本要上《面對面》提問！爆蔣萬安團隊要製作單位退他通告",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5617308",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/php4zRkvk.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T15:42:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "徐佳青現身僑委會晚宴 媒體人爆玄機：覺得不寒而慄",
+      "url": "https://www.chinatimes.com/realtimenews/20261024002942-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002959.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T20:02:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "凌晨竟然還有南下列車！他見員工做1事感動：敬佩台灣高鐵",
+      "url": "https://udn.com/news/story/125052/9834655",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450279.jpg&M=1&s=Y&x=0&y=0&sw=1213&sh=809&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T12:36:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "他49歲存到2050萬「直接提早退休」爽翻 僅1年超後悔下場曝光",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5617238",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/24/phphd3tay.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T13:17:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "蔡依珊颱風天穿睡衣陪16歲兒打球！居家素顏 球場激戰畫面曝",
+      "url": "https://www.chinatimes.com/realtimenews/20261024002696-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002701.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T18:13:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "薔琵颱風減弱遠離 14：30解除陸警 湧長浪避免前往海邊",
+      "url": "https://udn.com/news/story/125052/9835068",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450928.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T14:38:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "蔣萬安勘災撿樹枝！官員脫口「市長要『體驗』選這個」露餡網氣炸",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5617223",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/phpH5pcyf.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T13:01:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "徐佳青出席僑務委員會議晚宴惹議 民進黨團：使用公帑應謹慎",
+      "url": "https://www.chinatimes.com/realtimenews/20261024002062-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002063.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T14:24:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "人工淚液狂點結膜紅腫、纖維化 眼科醫揪禍首：防腐劑釀禍",
+      "url": "https://udn.com/news/story/7266/9834944",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450742.jpg&M=1&s=Y&x=0&y=0&sw=537&sh=358&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T13:15:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "黃珊珊突改臉書封面「做自由的自己」 發文：做你自己獨立的決定",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5617609",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/phpkMbVri.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T18:45:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "時評》徐佳青萬歲趴",
+      "url": "https://www.chinatimes.com/opinion/20261024002727-262101",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-24/330/20261024002403.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-24T19:55:00+08:00",
+      "meta": "中時新聞網"
+    }
+  ]
+}
