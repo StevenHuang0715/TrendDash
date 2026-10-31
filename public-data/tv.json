@@ -1,0 +1,234 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-10-31T16:30:20+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "女星公開表態「挺賴瑞隆」！　開轟柯志恩「別來亂」：國民黨滾出高雄",
+      "url": "https://news.tvbs.com.tw/entertainment/variety/4043931",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a190bc-12d3-7240-ae7c-380c61a3ec9e.jpg?w=1067&h=600&t=16x9&c=0,0,1920,1080&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "蔣萬安、沈伯洋辯論誰贏了？ 「AI分析」觀點超犀利！",
+      "url": "https://news.ebc.net.tw/news/politics/578405",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793463666_16829.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T16:32:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "蔣萬安道歉了！警搜同志酒吧涉歧視　他回應：調查最大程度公開",
+      "url": "https://news.tvbs.com.tw/politics/4044029",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a19190-c9a2-72f4-ae97-1a730deb55a4.jpg?w=1067&h=600&t=16x9&c=0,0,2048,1152&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "北市長辯論直播數據出爐！沈伯洋狂飆16萬 蔣萬安5000人",
+      "url": "https://news.ebc.net.tw/news/politics/578384",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793457394_20045.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T15:01:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "高雄醫界再傳憾事！知名兒童精神科醫師李博偉逝世　診所悲痛證實",
+      "url": "https://news.tvbs.com.tw/life/4043887",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1906c-c1b2-72de-ba18-281b15c220a9.jpg?w=1067&h=600&t=16x9&c=22,0,1115,615&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "12歲少女耶誕城被搭訕！遭性侵9小時 惡男下場曝光",
+      "url": "https://news.ebc.net.tw/news/society/578433",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793471678_62963.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T18:59:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "蘋果宣布：調降台灣App Store佣金至26%！「這天起」正式生效",
+      "url": "https://news.tvbs.com.tw/money/4043708",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a18d56-d5c1-7125-b918-647b4bcfc2d8.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,558,5360,3573&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "23歲網紅買藍寶堅尼爆紅 車禍傷重不治...親友證實了",
+      "url": "https://ent.ebc.net.tw/buzz/503533",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/10/31/1793435395_33401.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T08:16:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "TVBS民調／蔣萬安辯論贏了？支持度46%領先沈伯洋　2人僅差4%",
+      "url": "https://news.tvbs.com.tw/politics/4044014",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a19152-687f-732b-80eb-52897259fda1.jpg?w=1067&h=600&t=16x9&wp=r,t&c=0,0,2729,1535&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "煙花颱風變罕見「甜甜圈」下週2階段變天轉雨",
+      "url": "https://news.ebc.net.tw/news/living/578362",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793448119_65035.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T15:30:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "老饕心碎！台南「阿明豬心冬粉」宣布無限期停業…闆娘車禍驟逝",
+      "url": "https://news.tvbs.com.tw/life/4043916",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1909f-a591-7052-b4ad-d72288c74363.jpg?w=1067&h=600&t=16x9&c=0,96,1536,960&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "柯志恩脫稿快攻、賴瑞隆穩健回應  藍綠默契「不自評」",
+      "url": "https://news.ebc.net.tw/news/politics/578340",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793436114_56463.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T08:53:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "開車驚見公路看板播A片！埃及巨型看板遭駭　駕駛停車狂拍",
+      "url": "https://news.tvbs.com.tw/world/4043936",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a190de-6055-733a-94e0-5260621f6578.png?w=1067&h=600&t=16x9&c=37,0,1248,681&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "抗癌7年！歌手吾恩病逝 伴侶證實噩耗",
+      "url": "https://ent.ebc.net.tw/buzz/503541",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/10/31/1793446764_62850.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T12:18:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "中油宣布了！11月民生與工業天然氣價格凍漲、電業戶漲4%",
+      "url": "https://news.tvbs.com.tw/life/4043983",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a118f4-5a73-72bb-9c6f-45117e9dc2d8.png?w=1067&h=600&t=16x9&wp=l,t&c=0,65,984,619&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "老公剛走3個月...好萊塢女星驚傳逝世 享壽85歲",
+      "url": "https://ent.ebc.net.tw/buzz/503539",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/10/31/1793446407_56503.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T16:04:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "防2027中國侵台！美軍集結備戰　「明年4/2前」完成部署",
+      "url": "https://news.tvbs.com.tw/world/4043883",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a19061-82f3-71ce-8844-fcd7dbe40bc3.jpg?w=1067&h=600&t=16x9&wp=r,b&c=0,135,5000,2948&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "台北市長辯論將登場！沈伯洋突宣布關閉彈幕 原因曝光",
+      "url": "https://news.ebc.net.tw/news/politics/578347",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793438200_33235.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T09:41:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "海大畢業生騎車上國道跳橋亡！父驗屍淚崩　質疑警「追人害命」",
+      "url": "https://news.tvbs.com.tw/local/4043943",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a190e0-24b2-7018-915a-bb019ba407b2.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,15,1257,722&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "機車闖國道！24歲男拒檢逃逸 不明原因棄車墜橋身亡",
+      "url": "https://news.ebc.net.tw/news/society/578358",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793443293_23492.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T11:05:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "蔡康永、炎亞綸罕見缺席同志大遊行 原因曝光",
+      "url": "https://ent.ebc.net.tw/buzz/503538",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/10/31/1793444928_93072.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T11:32:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "資深員工想離開！做這事成功被資遣 網狂酸：啥鳥公司",
+      "url": "https://news.ebc.net.tw/news/living/578409",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793465059_73194.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T19:21:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "下個月不缺錢！5生肖事業節節高升、順風順水",
+      "url": "https://news.ebc.net.tw/news/living/578401",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793462182_69886.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T16:01:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "機車還在學校！高雄某國小主任失聯 驚見陳屍雜物間",
+      "url": "https://news.ebc.net.tw/news/society/578350",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793440859_14181.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T10:04:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "病後首度正面交鋒！蔣萬安抱病戰辯論 關鍵戰術曝光",
+      "url": "https://news.ebc.net.tw/news/politics/578338",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/10/31/1793434921_86331.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T08:33:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}

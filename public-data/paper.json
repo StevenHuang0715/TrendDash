@@ -1,0 +1,414 @@
+{
+  "id": "paper",
+  "name": "報紙新聞",
+  "updated_at": "2026-10-31T16:30:19+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
+      "url": "https://udn.com/news/story/7320/9848303",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35471272.jpg&M=1&s=Y&x=0&y=0&sw=399&sh=266&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T08:10:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "上王偉忠專訪都問A答B！他發現蔣萬安、蔡康永最大差別在這......",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624367",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/30/phpO54pcc.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T06:00:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "蔣萬安、沈伯洋辯論後最新民調曝 「若明日就投票」他領先",
+      "url": "https://www.chinatimes.com/realtimenews/20261031003591-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031003594.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T22:04:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "高雄醫界再傳噩耗 兒童精神科醫師李博偉離世 家長淚憶：不可多得良醫",
+      "url": "https://udn.com/news/story/7327/9848935",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472391.jpg&M=1&s=Y&x=0&y=0&sw=927&sh=618&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T14:54:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "台灣排名曝光、與日本並列！2026全球通膨率排行 這國超慘達467.9％",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5624325",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/30/phpYUJjtY.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T07:29:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "福原愛再婚生三寶！江宏傑伴家人成長：成為他們的驕傲",
+      "url": "https://www.chinatimes.com/realtimenews/20261031002548-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031002561.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T15:54:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "離大選不到1個月！台中市議員江和樹兒子遭逮 涉嫌經營賭場多人交保",
+      "url": "https://udn.com/news/story/7315/9849084",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472805.jpg&M=1&s=Y&x=91&y=0&sw=1015&sh=677&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T17:01:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "台北市長辯論》差太多！沈伯洋頻道觀看人數 達蔣萬安40倍",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624747",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/phpiGEOj6.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T12:17:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "獨家》玉女歌手息影20年「貸款200萬度日」　看辯論會點名沈伯洋：我會得憂鬱症",
+      "url": "https://www.chinatimes.com/realtimenews/20261031002284-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031002285.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T14:30:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台北市長辯論／對比當年陳水扁 學者指沈伯洋說服力大減：神情垮掉卻要給市民希望",
+      "url": "https://udn.com/news/story/124652/9849053",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472675.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T16:43:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "台北市長辯論》沈伯洋引謝震武名句痛擊蔣萬安！網友笑翻：這一手高招",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624789",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/phpm3pPK7.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T14:07:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "北市長辯論後社群瘋玩「伯洋體」 醫精選沈15金句：你最愛哪句",
+      "url": "https://www.chinatimes.com/realtimenews/20261031003680-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031003681.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T23:10:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "取消公務員考績甲等75%緊箍咒 銓敘部籲縣市長12月卸職前完成",
+      "url": "https://udn.com/news/story/7314/9849018",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472581.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T16:04:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "高雄市長辯論》柯志恩：我當選「這3人」不會到高雄",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624393",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/30/phpOI3zZH.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T05:53:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "台北市長辯論跟他預期差不多 柯文哲：早就說不要被洋流嚇到",
+      "url": "https://www.chinatimes.com/realtimenews/20261031003598-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031003637.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T22:34:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "軍公教爆逃亡潮！菜鳥公務員逾5成離職 網嘆：早被打成米蟲",
+      "url": "https://udn.com/news/story/7269/9848387",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35471394.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T09:59:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "看完台北市長辯論會 陳揮文曝蔣萬安一件事：輸得有點離譜",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624990",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/phpgWDC23.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T16:36:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "中時社論》台北市長辯論 洋流打回原形",
+      "url": "https://www.chinatimes.com/opinion/20261031003297-262101",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/B02A00_P_02_02.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T22:00:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台灣最強辯論高手是誰？網一片倒點名「政壇戰神」 直呼臨場反應很厲害",
+      "url": "https://udn.com/news/story/124652/9849232",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35473034.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T19:53:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "沈伯洋講話有料？他稱沒工程師會認同 釣出一票大老狠打臉",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624347",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/30/phpgwzsRD.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T06:02:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "兒涉開賭場遭逮 江和樹哽咽直播：「兒子快回我電話」",
+      "url": "https://www.chinatimes.com/realtimenews/20261031003001-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031003002.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T19:26:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "川普晶片製造大夢悄悄瓦解？台積電前首席科學家點出癥結",
+      "url": "https://udn.com/news/story/6811/9848355",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35471333.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T09:20:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "星巴克去冰加奶要付15元被罵翻 路易莎董座曝：業績好到翻掉",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5624379",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/30/5624379_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T06:04:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "曝洋流與韓流最大不同   想翻盤台北市？ 「公道伯」搖頭了",
+      "url": "https://www.chinatimes.com/realtimenews/20261031001878-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031001879.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T13:45:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "曹興誠：北市長選舉是菩薩和邪靈對決 沈伯洋若敗後果不堪設想",
+      "url": "https://udn.com/news/story/124652/9848348",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35471326.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T09:08:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "《德國之聲》藍綠造勢場直擊！中配表態投沈伯洋 笑稱中國最先發現他",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624385",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/30/phpM1Vc79.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T06:00:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "獨家》蔣萬安備戰花1周操演 殷瑋模擬攻防、趙少康親授策略",
+      "url": "https://www.chinatimes.com/realtimenews/20261031003568-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031003569.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T21:51:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "北市長辯論激戰！學者評沈伯洋天馬行空 蔣萬安攻守俱佳「有助吸引中間選民」",
+      "url": "https://udn.com/news/story/124652/9848958",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472438.jpg&M=1&s=Y&x=1&y=56&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T15:15:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "英特爾股價暴跌28％！創近50年最慘單日跌幅 原因一次看",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5624513",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/31/phpYP3IHY.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T08:45:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "憋尿或硬跨過去！搭機想上廁所遇鄰座睡死 空服員曝正解",
+      "url": "https://www.chinatimes.com/realtimenews/20261031003496-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031003497.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T21:24:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "蔣萬安辯論會送上大感謝 柯文哲：從沒想過、辯論和自己預期差不多",
+      "url": "https://udn.com/news/story/124652/9849242",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35473036.jpg&M=1&s=Y&x=0&y=35&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T19:47:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "台中市議員江和樹次子涉經營賭場 警持搜索票攻堅逮人",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5625058",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/5625058_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T17:26:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "全球AI智慧眼鏡出貨量暴增127％！大廠搶攻雙11 優惠一次看",
+      "url": "https://www.chinatimes.com/realtimenews/20261031002146-260412",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031002149.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T14:12:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "賈永婕又提「純樸外套」 前綠委批：都道歉3次了 有必要恃寵而驕嗎？",
+      "url": "https://udn.com/news/story/6656/9848347",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35471325.jpg&M=1&s=Y&x=0&y=200&sw=1206&sh=804&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T09:08:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "美股收盤》英特爾崩逾28％！科技股慘跌 台積電ADR重摔近6％",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5624480",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/31/phpkp9zGH.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T05:42:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "蔣萬安、沈伯洋辯論正面對決 媒體人評他贏10分：比預期強大",
+      "url": "https://www.chinatimes.com/realtimenews/20261031002921-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031002941.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T17:33:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "兒子傳開賭場遭逮…江和樹哽咽「怎麼會這樣」：教導無方 要和社會大眾說抱歉",
+      "url": "https://udn.com/news/story/7315/9849105",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472816.jpg&M=1&s=Y&x=2&y=100&sw=1077&sh=718&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T17:20:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "台灣排名世界第二！教育實力勝過日韓、生活成本僅是冠軍國的一半",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5624859",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/10/31/php62rSFS.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T15:00:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "時評》草帽下的沈演員",
+      "url": "https://www.chinatimes.com/opinion/20261031003059-262101",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-04/330/20261004002779.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T19:58:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "漏網鏡頭…電視辯論 沈伯洋與蔣萬安先禮後兵握手「一手比讚」全捕捉",
+      "url": "https://udn.com/news/story/124652/9848655",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35471885.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T12:03:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "同志酒吧不當搜索案延燒 蔣萬安現身同志遊行不到10分鐘快閃離場",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625074",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/5625074_4_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T17:36:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "超商月底小確幸！咖啡手搖買1送1、拿鐵只要10元",
+      "url": "https://www.chinatimes.com/realtimenews/20261030001743-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-30/330/20261030001744.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-30T11:17:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "結辯最後2分鐘留給柯文哲 蔣萬安曝原因：有基礎才能快速建設台北",
+      "url": "https://udn.com/news/story/124652/9848955",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472434.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T15:13:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "結婚25年！九旬翁病弱盼陪伴 印尼妻返鄉拒回台法院判離",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5624636",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/10/31/5624636_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T11:04:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "兒子不能跟蔡康永住！狄鶯反擊大小S畫面再被挖 全網搖頭",
+      "url": "https://www.chinatimes.com/realtimenews/20261031002783-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-31/330/20261031002868.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-31T17:06:00+08:00",
+      "meta": "中時新聞網"
+    }
+  ]
+}

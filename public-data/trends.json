@@ -1,0 +1,99 @@
+{
+  "id": "trends",
+  "name": "Google 熱搜",
+  "updated_at": "2026-10-31T16:31:04+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "白晝之夜 捷運",
+      "url": "https://www.google.com/search?q=%E7%99%BD%E6%99%9D%E4%B9%8B%E5%A4%9C%20%E6%8D%B7%E9%81%8B",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNc2H5WdrCxQhqFGpfO9nUUEXwYCjr8X8Ma7hLXCn98WOT02Mi_UXcsVOwnxA",
+      "score": 2000,
+      "score_label": "2000+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 07:50:00 -0700",
+      "meta": "暫卸辯論重擔 蔣萬安現身白晝之夜隨電音熱舞"
+    },
+    {
+      "title": "股份",
+      "url": "https://www.google.com/search?q=%E8%82%A1%E4%BB%BD",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtsTfcXSn3QJXbsUbVT_wddlLDuw8FQ34_HojF6NlTr-rRSPuFfaA_xRkAYc4",
+      "score": 2000,
+      "score_label": "2000+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 06:10:00 -0700",
+      "meta": "油价上涨！“三桶油”财报喜人：总计营收逼近5万亿 平均日赚11.50亿元"
+    },
+    {
+      "title": "曼城 對 布萊頓",
+      "url": "https://www.google.com/search?q=%E6%9B%BC%E5%9F%8E%20%E5%B0%8D%20%E5%B8%83%E8%90%8A%E9%A0%93",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLbAPJtZcRY9LwRDJoIqusffVeZEbZHn5uIxjZTObAkwTeYgmLd8uLZzHr7iU",
+      "score": 1000,
+      "score_label": "1000+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 07:50:00 -0700",
+      "meta": "足球智庫／4天內2度對決 布萊頓傷兵較多客場難敵曼城"
+    },
+    {
+      "title": "貴族 世家 個人 燒 肉",
+      "url": "https://www.google.com/search?q=%E8%B2%B4%E6%97%8F%20%E4%B8%96%E5%AE%B6%20%E5%80%8B%E4%BA%BA%20%E7%87%92%20%E8%82%89",
+      "thumbnail": null,
+      "score": 500,
+      "score_label": "500+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 07:20:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "dc",
+      "url": "https://www.google.com/search?q=dc",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcynP_KJqmgT5GMNi7wEcnmeC4OwnC6gyv4Mjq7lVO3CdPrciQHdnfNd5arc4",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 09:10:00 -0700",
+      "meta": "D.C. and Virginia sue to block Trump’s proposed triumphal arch"
+    },
+    {
+      "title": "man city vs brighton",
+      "url": "https://www.google.com/search?q=man%20city%20vs%20brighton",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7Ed5WTmib5yvkVGLsp7gejYEGqH8ZdEiR6qcnw6m2uzIFvDnNW3J5Fp7UWlI",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 08:50:00 -0700",
+      "meta": "Licensable picture: UK: Premier League: Manchester City v Brighton & Hove Albion"
+    },
+    {
+      "title": "曼城",
+      "url": "https://www.google.com/search?q=%E6%9B%BC%E5%9F%8E",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAHmCxJF5RLD83w50bp8Tz2-SanCNU2WKe41y5CsUGDMYDsE9LneiWeC20Wfc",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 08:40:00 -0700",
+      "meta": "[流言板]马雷斯卡：曼城没有球员是不可弃用的；多纳鲁马是一号门将"
+    },
+    {
+      "title": "機車 零 違規 抽獎",
+      "url": "https://www.google.com/search?q=%E6%A9%9F%E8%BB%8A%20%E9%9B%B6%20%E9%81%95%E8%A6%8F%20%E6%8A%BD%E7%8D%8E",
+      "thumbnail": null,
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 08:20:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "興 達 電廠",
+      "url": "https://www.google.com/search?q=%E8%88%88%20%E9%81%94%20%E9%9B%BB%E5%BB%A0",
+      "thumbnail": null,
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 07:30:00 -0700",
+      "meta": null
+    },
+    {
+      "title": "sf",
+      "url": "https://www.google.com/search?q=sf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLkqZSSQET0fh9qoV_d0BaQp-x21Xj2kEnaZ6ROPBBewCTTf3SHR5Fii_Elg",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 31 Oct 2026 09:00:00 -0700",
+      "meta": "Exclusive: Jeff Bezos’ AI startup is closing in on a huge S.F. lease in a former Gap office"
+    }
+  ]
+}
