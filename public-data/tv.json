@@ -1,0 +1,234 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-11-07T09:25:07+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "借200萬投資賠光！印37歲工程師「陳屍旅館」告別妻小：該離開了",
+      "url": "https://news.tvbs.com.tw/world/4047031",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1b332-b8fa-7109-a507-bd15bcfeb333.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,185,5328,3182&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "借款百萬全賠光！印度37歲工程師疑「投資失利」輕生亡",
+      "url": "https://news.ebc.net.tw/news/world/579406",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1793985349_37243.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:28:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "國民黨「大動作開鍘」！北市候選人違紀　選前22天開除黨籍",
+      "url": "https://news.tvbs.com.tw/politics/4047038",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1b355-df07-71ac-b00f-739dedeea849.png?w=1067&h=600&t=16x9&wp=l,b&c=22,0,872,478&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "高雄市長候選人造勢「台下只有8人」！冷清畫面曝",
+      "url": "https://news.ebc.net.tw/news/politics/579444",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1793998807_26883.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T21:25:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "黃仁勳外遇？FT：美情報認為陸女間諜黃樂與他有「浪漫關係」",
+      "url": "https://news.tvbs.com.tw/world/4047114",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1b419-3d26-7390-bb9d-cc3418564eac.jpg?w=1067&h=600&t=16x9&c=0,115,1760,1105&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "泰國水庫管制區男女「水中親密」！官方怒調監視器抓人",
+      "url": "https://news.ebc.net.tw/news/world/579420",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1793991303_24979.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T19:11:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "不挺蔣萬安松機遷移？宋楚瑜喊「不能說搬就搬」　加碼預告做這事",
+      "url": "https://news.tvbs.com.tw/politics/4046916",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1b050-df4a-70c4-8e92-2685cc2707aa.jpg?w=1067&h=600&t=16x9&c=0,0,1060,596&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／日本發生規模6.1強震！東京也有感",
+      "url": "https://news.ebc.net.tw/news/world/579421",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1793991484_42783.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T19:04:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "趙少康挺邱臣遠恐踩禁令「遭黨紀處分」　他喊不在乎：開除就開除",
+      "url": "https://news.tvbs.com.tw/politics/4047052",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a162a0-7938-70a4-a71e-f4db028e4977.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,1920,1080&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "郭哲榮直播鞠躬認錯！坦言沒在高點出場 仍看好台股",
+      "url": "https://news.ebc.net.tw/news/business/579481",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/07/1794043623_91716.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T09:34:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "郭哲榮道歉了！台股大崩跌　鞠躬「沒在最高點賣」爆還有救",
+      "url": "https://news.tvbs.com.tw/money/4047049",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1b375-f257-71b6-b727-98ba77d11378.png?w=1067&h=600&t=16x9&c=130,0,1206,605&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／AI晶片股反彈！美股盤前漲跌互見 輝達回升近5％",
+      "url": "https://news.ebc.net.tw/news/business/579435",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1793996369_11869.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T20:24:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "TPBL／攻城獅董事長陳美玲辭世享壽66歲　球團悼：球隊最溫暖後盾",
+      "url": "https://news.tvbs.com.tw/sports/tpbl/4046760",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1af71-bddd-7016-966c-1c9600c26ea4.jpg?w=1067&h=600&t=16x9&c=64,172,1611,1042&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "29歲抗癌模特兒 睡夢中離世...男友悲痛證實",
+      "url": "https://ent.ebc.net.tw/buzz/503724",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/11/07/1794047181_71121.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T12:08:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "飯店靠窗休息竟斷裂！雙寶媽「7樓倒栽墜樓」慘死　男友嚇傻",
+      "url": "https://news.tvbs.com.tw/world/4046869",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1b01f-0919-707b-8961-f74fd669b8bf.png?w=1067&h=600&t=16x9&c=0,0,1049,590&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "他獨處「女友媽」衝動激戰了！完事收撒嬌訊息崩潰",
+      "url": "https://news.ebc.net.tw/news/living/579431",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1793994876_79827.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T20:06:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "加碼發錢了！符合資格「普發2萬元」　農曆年前領得到",
+      "url": "https://news.tvbs.com.tw/life/4047001",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1b132-4010-7108-9e38-d00d7c67b800.jpg?w=1067&h=600&t=16x9&c=0,0,770,433&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／大樂透1.84億頭獎開出！ 一注獨得獎落新北",
+      "url": "https://news.ebc.net.tw/news/living/579451",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1794002764_73884.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T22:07:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "Canva大規模重整影響1,271名員工　占全球員工22%、實際裁員數未公布",
+      "url": "https://news.tvbs.com.tw/tech/4045849",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1a597-d481-72b8-a284-1b2aa360a50c.jpg?w=1067&h=600&t=16x9&wp=r,t&c=0,0,5204,2927&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "才準備立遺囑！情色教主突重摔昏迷 醒來驚見耳朵爆血",
+      "url": "https://ent.ebc.net.tw/buzz/503725",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/11/07/1794053909_75655.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T12:18:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "川普動作頻頻！「末日飛機」突飛越美國 白宮再傳重大消息",
+      "url": "https://news.ebc.net.tw/news/world/579412",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1793988343_34424.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:22:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "快訊／快關窗！大雨猛炸1縣市 警戒範圍曝光",
+      "url": "https://news.ebc.net.tw/news/living/579489",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/07/1794047932_67523.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T10:44:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "快訊／3地區大雨特報！一路下到明天",
+      "url": "https://news.ebc.net.tw/news/living/579523",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/07/1794061559_52184.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T14:30:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "防疫紅利退潮！西藥零售業淨減221家 藥局遭3大壓力夾擊",
+      "url": "https://news.ebc.net.tw/news/living/579408",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1793985790_23676.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:55:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "出國注意！泰國氣象局急發警報 北部先變天、南部豪雨接力",
+      "url": "https://news.ebc.net.tw/news/world/579427",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/06/1793993856_24146.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T19:52:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}

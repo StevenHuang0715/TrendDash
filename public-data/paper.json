@@ -1,0 +1,414 @@
+{
+  "id": "paper",
+  "name": "報紙新聞",
+  "updated_at": "2026-11-07T09:25:05+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "出手了！台股今日暴跌 國安基金宣布第10度進場護盤",
+      "url": "https://udn.com/news/story/7251/9862465",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493359.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:55:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "巴紐再見！台灣不再忍讓關館斷援 380億對台出口命脈保不住了？",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5632228",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/11/06/phpcfKBuh.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T05:51:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "高雄市長候選人造勢 台下僅8人「68分鐘講好講滿」 爆紅了",
+      "url": "https://www.chinatimes.com/realtimenews/20261107001742-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-07/330/20261107001750.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T12:44:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "影／年輕人怒了！擠爆遼寧夜市挺蔣萬安 直呼台北市民都是高知識份子",
+      "url": "https://udn.com/news/story/124652/9862835",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493869.jpg&M=1&s=Y&x=36&y=0&sw=1080&sh=720&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T22:03:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "蔣萬安掃街闖「洋流」水餃店！挨轟如「討債集團」 店家發聲了",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632332",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/07/phpNhbM2p.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T07:09:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "澎湖跨海大橋守護者「年底走入歷史」 奉獻半世紀功成身退",
+      "url": "https://www.chinatimes.com/realtimenews/20261107000034-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-06/330/20261106004648.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T08:07:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "影／好險有影片！蔣萬安拱手、彎腰入「又一村」 前後40秒何來出征？",
+      "url": "https://udn.com/news/story/124652/9863538",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494767.png&M=2&s=Y&x=0&y=0&sw=1280&sh=863&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T11:54:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "五熊露面了！日本潑油佛足石遭逮獲釋 被爆中國復出合體舊愛",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5632218",
+      "thumbnail": "https://img.ltn.com.tw/Upload/ent/page/800S/2026/11/06/phpbZnOkq.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T21:27:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "政院不副署老人福利法 沈富雄建議民進黨：讓它過  大選見真章",
+      "url": "https://www.chinatimes.com/realtimenews/20261107000163-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-07/330/20261107000174.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T11:55:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "新北知名大學驚傳校園暴力！學生不滿期中考作弊被抓 竟埋伏痛毆助教",
+      "url": "https://udn.com/news/story/6928/9863358",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494473.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T10:29:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "紐時：黃仁勳身邊「女共諜」來自中國國安部 任務目的曝光",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5632354",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/11/07/phpmfYO44.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T09:03:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "康熙臨終前指定1重臣陪葬 雍正登基後 終於看懂布局",
+      "url": "https://www.chinatimes.com/hottopic/20261106001505-260812",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-06/330/20261106001525.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T09:15:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "捐完一輛再一輛！「吊車大王」胡漢龑霸氣捐120萬勘查車挺竹縣消防",
+      "url": "https://udn.com/news/story/7324/9863066",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494076.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T00:29:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "怕沈伯洋拖累選情？蘇巧慧大爆料：許多人致電「跟那隻熊保持距離」",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632215",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/phpiL85iu.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T06:04:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "民俗專家脫口「他」勝出北市首長機率高 謝震武突請許聖梅控制表情",
+      "url": "https://www.chinatimes.com/realtimenews/20261107002249-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-07/330/20261107002250.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T15:42:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "不給韓廠賺了？傳台積電考慮進軍先進記憶體晶片 可能建新廠或收購",
+      "url": "https://udn.com/news/story/6811/9862847",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493897.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T22:20:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "幫邱臣遠站台恐遭黨紀處分 趙少康嗆：開除就開除 我才不在乎",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632305",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/07/5632305_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T08:09:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "影》為讓兒子長高！廣東媽連做1個月「山東飯」 身高體重都增加",
+      "url": "https://www.chinatimes.com/realtimenews/20261107001254-260409",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-07/330/20261107001255.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T10:22:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "民主黨勝選重擊美股！女議員喊停AI開發跟馬斯克開戰 遭網友圍剿",
+      "url": "https://udn.com/news/story/125060/9863251",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494328.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T09:03:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "巴紐再逼撤館！外交部主動關閉駐處 全面終止援助合作",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632042",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5632042_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:41:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "松山機場搭早班機 她提早到傻眼：一堆人被關門外",
+      "url": "https://www.chinatimes.com/realtimenews/20261107001304-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-07/330/20261107001308.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T10:21:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "金融時報揭美方備忘錄 指黃仁勳曾和疑遭陸國安單位吸收的女主管交往",
+      "url": "https://udn.com/news/story/6811/9863452",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494626.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T11:04:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "金管會出手了！祭出五大措施 打擊市場空頭",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5632054",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/11/06/5632054_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:41:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "大咖歌后消失5年移居台東 認了「中年婦女」大解放：對象一直換",
+      "url": "https://www.chinatimes.com/realtimenews/20261106004275-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-06/330/20261106004276.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T21:19:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "老福法修法全台65歲以上免健保費 行政院宣布「不副署」",
+      "url": "https://udn.com/news/story/6656/9862437",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493325.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:38:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "大樂透頭獎1注獨得1.84億 獎落這個縣市",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5632246",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/11/06/5632246_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T22:00:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "王翦替秦始皇打江山 秦亡後子孫分家避禍 成兩大千年豪門",
+      "url": "https://www.chinatimes.com/hottopic/20261106003711-260812",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-06/330/20261106003736.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:00:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "金管會正式發佈限空令 提出五大救市措施",
+      "url": "https://udn.com/news/story/7251/9862547",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493468.jpg&M=1&s=Y&x=0&y=0&sw=1250&sh=833&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:35:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "王惠美又出手！人事凍結倒數再升2處長 縣府局處長、參議滿編",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5631967",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/5631967_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:45:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "15元之亂狂燒！美國補好補滿免錢 台灣星巴克發233字聲明正式回應",
+      "url": "https://www.chinatimes.com/realtimenews/20261106003966-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-06/330/20261106003970.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:49:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "巴布亞紐幾內亞施壓 外交部宣布閉館撤員、檢討雙邊關係",
+      "url": "https://udn.com/news/story/6656/9862590",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493535.jpg&M=1&s=Y&x=0&y=101&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:59:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "馬偕麻醉醫月薪60萬 很高？彰基公開各科薪水「這科」月破157萬稱霸醫界",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5632571",
+      "thumbnail": "https://img.ltn.com.tw/Upload/health/page/800/2026/11/07/5632571_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T12:47:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "台人吃鮭魚愛用煎的 專家搖頭：水煮才能留住營養",
+      "url": "https://www.chinatimes.com/realtimenews/20261107001654-260418",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-07/330/20261107001687.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T12:30:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "國安基金+美股電子盤 台指期夜盤一度噴漲千點",
+      "url": "https://udn.com/news/story/7255/9862825",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493860.jpg&M=1&s=Y&x=0&y=0&sw=1195&sh=797&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T21:47:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "蔣萬安英文致詞「75個字看稿11次」 網吐槽：這叫朗讀比賽",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632130",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/phpvcNKzC.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T20:10:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "獨家》蔣萬安、沈伯洋選戰白熱化！金鐘男星開酸：皇帝乞丐怎麼比",
+      "url": "https://www.chinatimes.com/realtimenews/20261107001918-260404",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-07/330/20261107001920.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T13:46:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台股重挫1,873點跌破4萬點 金管會出手祭出五項措施救市",
+      "url": "https://udn.com/news/story/7239/9862569",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://udn.com/upf/2017_news/noimg_cid6644_7.jpg&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:42:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "救台股！國安基金宣布下週一進場 史上第10次護盤",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5632006",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/11/06/5632006_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:07:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "賴清德向謝金河諮詢！網喊國安體系失靈 點名經部4單位乾脆外包",
+      "url": "https://www.chinatimes.com/realtimenews/20261107000982-260405",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-10-28/330/20261028002579.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T08:33:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "查帕卡颱風最快今生成 有望轉中颱 專家曝影響台日機率",
+      "url": "https://udn.com/news/story/7266/9863175",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494224.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T06:39:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "累積1350例達文西手術 三總執行官王毓淇上校獲優良軍醫",
+      "url": "https://def.ltn.com.tw/article/breakingnews/5631903",
+      "thumbnail": "https://img.ltn.com.tw/Upload/def/page/800S/2026/11/06/phpkFAKHd.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:04:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "獨家》長子砸千萬幫父買地竟變手足共有 二審大逆轉「這關鍵」勝訴",
+      "url": "https://www.chinatimes.com/realtimenews/20261107001403-260402",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-07/330/20261107001404.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T10:52:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台股巨幅波動！國安基金下午召開會議 決議啟動第10次進場護盤",
+      "url": "https://udn.com/news/story/7251/9862476",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493402.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:01:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "「立冬」4生肖將走出陰霾 廖大乙：做2事、避2色運勢更佳",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5632191",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/06/phpmdGUjK.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T08:11:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "石舫亘掃街  鍾沛君近身觀察曝一幕：說服力勝過任何華麗廣告",
+      "url": "https://www.chinatimes.com/realtimenews/20261107000881-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-04/330/20261104003657.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T07:54:00+08:00",
+      "meta": "中時新聞網"
+    }
+  ]
+}

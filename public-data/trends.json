@@ -1,0 +1,99 @@
+{
+  "id": "trends",
+  "name": "Google 熱搜",
+  "updated_at": "2026-11-07T09:25:30+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "李洋",
+      "url": "https://www.google.com/search?q=%E6%9D%8E%E6%B4%8B",
+      "thumbnail": null,
+      "score": 1000,
+      "score_label": "1000+ 次搜尋",
+      "time": "Sat, 7 Nov 2026 00:30:00 -0800",
+      "meta": null
+    },
+    {
+      "title": "曾 文 水庫",
+      "url": "https://www.google.com/search?q=%E6%9B%BE%20%E6%96%87%20%E6%B0%B4%E5%BA%AB",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT06Q_6ZfjsXjqeoWyRoEUj6-g58_Zjs2ix93icZJeS6MN4qbVLZf6mZkgQbmc",
+      "score": 500,
+      "score_label": "500+ 次搜尋",
+      "time": "Sat, 7 Nov 2026 01:00:00 -0800",
+      "meta": "曾文水庫蓄水率止跌回升關鍵原因曝光- 生活"
+    },
+    {
+      "title": "洋流車掃",
+      "url": "https://www.google.com/search?q=%E6%B4%8B%E6%B5%81%E8%BB%8A%E6%8E%83",
+      "thumbnail": null,
+      "score": 500,
+      "score_label": "500+ 次搜尋",
+      "time": "Fri, 6 Nov 2026 23:40:00 -0800",
+      "meta": null
+    },
+    {
+      "title": "政府",
+      "url": "https://www.google.com/search?q=%E6%94%BF%E5%BA%9C",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwEp4gd_uUN6CxaaTUpWw9YXFTqY4iThYxYhPMFULR0COi5QIuKcNZ81z5tug",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 7 Nov 2026 00:00:00 -0800",
+      "meta": "SpaceX大反彈9%，馬斯克放話：Q4營收料將增長70%，明年劍指5000億"
+    },
+    {
+      "title": "蔡家蓁",
+      "url": "https://www.google.com/search?q=%E8%94%A1%E5%AE%B6%E8%93%81",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9HXbfkqEymt7eRJDNd4yl-jQ_DrPdZE1g1TJ2kBjeIO-Dy4QLyBpUpAD8MUM",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 7 Nov 2026 00:00:00 -0800",
+      "meta": "女星台股重挫「3天蒸發200萬」！崩潰台北街頭四處躺 恐怖現況曝光"
+    },
+    {
+      "title": "盧秀燕",
+      "url": "https://www.google.com/search?q=%E7%9B%A7%E7%A7%80%E7%87%95",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmxwMI1seeoaHr-sQiFJP4-fcYIGD5f6wY-yq0NvJeVc6tUMSPohWou9FGgPE",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Fri, 6 Nov 2026 23:50:00 -0800",
+      "meta": "政院不副署老人福利法修法石崇良：調整收費計算勢在必行| 生活"
+    },
+    {
+      "title": "費 半 指數",
+      "url": "https://www.google.com/search?q=%E8%B2%BB%20%E5%8D%8A%20%E6%8C%87%E6%95%B8",
+      "thumbnail": null,
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Fri, 6 Nov 2026 23:40:00 -0800",
+      "meta": null
+    },
+    {
+      "title": "沈富雄",
+      "url": "https://www.google.com/search?q=%E6%B2%88%E5%AF%8C%E9%9B%84",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcmw4X5A_APOX8zvcSsDKY4mlOq8qqKlAyvJi5Dqz4AUGUN_gI9urhogzzfj4",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 7 Nov 2026 00:40:00 -0800",
+      "meta": "不是拚連任？賴清德「破局三招」劍指北市 她曝最真實目的 | TVBS"
+    },
+    {
+      "title": "kgma",
+      "url": "https://www.google.com/search?q=kgma",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpvzGS2lIuLblrMPi_kjEUCeBIQ21VvTo7R69-wd-doonoTQRNRexu_eAptrQ",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 7 Nov 2026 00:30:00 -0800",
+      "meta": "Korean Grand Music Awards 2026 Winners: Full List"
+    },
+    {
+      "title": "泰奧斯卡·赫南德茲",
+      "url": "https://www.google.com/search?q=%E6%B3%B0%E5%A5%A7%E6%96%AF%E5%8D%A1%C2%B7%E8%B5%AB%E5%8D%97%E5%BE%B7%E8%8C%B2",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR4Wjsu8yrXxnJ_P-D0p5eNjBVIJWt7rdZnR7PKDr0L7x7PAYEqgchm_HiDTA",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 7 Nov 2026 00:10:00 -0800",
+      "meta": "Which Kyle Tucker will the Dodgers get in 2027?"
+    }
+  ]
+}

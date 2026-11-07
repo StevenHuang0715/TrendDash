@@ -1,0 +1,414 @@
+{
+  "id": "finance",
+  "name": "財經新聞",
+  "updated_at": "2026-11-07T09:25:11+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "國安基金出手了！台股盤中狂瀉3,737點 第10度進場護盤救市",
+      "url": "https://money.udn.com/money/story/5607/9862465",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493183.jpg&M=1&s=Y&x=0&y=0&sw=1211&sh=807&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:55:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "1998還是2000？高盛：AI股暴跌更像LTCM危機而非網路泡沫化 但最大疑問仍是投資回報",
+      "url": "https://news.cnyes.com/news/id/6651832",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651832/m/aa5da1d1888d2829e2873e5077fc7dbe.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T00:50:03+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "限空令是什麼？何時實施？最新消息、4大措施與股市影響一次看",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023539",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "不給韓廠賺了？傳台積電考慮進軍先進記憶體晶片市場",
+      "url": "https://money.udn.com/money/story/123398/9862847",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493897.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T22:20:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "AI資料中心熱潮出現裂縫？微軟不續租甲骨文AI算力 6640億美元合約積壓曝險 兩檔ETF成觀察焦點",
+      "url": "https://news.cnyes.com/news/id/6651829",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651829/m/2a240748ae6f84e86a2aa961f1b9221f.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T23:20:03+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "2026公投》11/28核電公投投什麼？同意、不同意、通過門檻一次看",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3023538",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "金融時報揭美方備忘錄 指黃仁勳曾和疑遭陸國安單位吸收的女主管交往",
+      "url": "https://money.udn.com/money/story/5599/9863452",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494626.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T11:04:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "白宮突取消高層科技顧問會議！黃仁勳、祖克柏原定出席　AI政策添變數",
+      "url": "https://news.cnyes.com/news/id/6651932",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651932/m/522c639b21bda4fbcc8a093c3e5bad79.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T06:06:31+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "61歲談戀愛，最浪漫的是談死亡！Netflix《愛在山林間3》紅什麼？4個故事看懂熟齡愛情",
+      "url": "https://www.businessweekly.com.tw/style/blog/3023537",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "老福法修法全台65歲以上免健保費 行政院宣布「不副署」",
+      "url": "https://money.udn.com/money/story/7307/9862437",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493325.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:38:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "費半跌掉近4成、獲利預估卻大增155% 想撿便宜先過「這一關」",
+      "url": "https://news.cnyes.com/news/id/6651666",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651666/m/fe3f6228c83aaecc81cb9714b8535274.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T01:30:08+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "退休後怎麼過才幸福？22國研究發現，比退休金多少更重要的一件事",
+      "url": "https://www.businessweekly.com.tw/career/blog/3023536",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "國安基金+美股電子盤 台指期夜盤一度噴漲千點",
+      "url": "https://money.udn.com/money/story/11112/9862825",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35492622.jpg&M=1&s=Y&x=0&y=0&sw=623&sh=415&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T21:47:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "馬斯克昔日大金主出清特斯拉持股！13年投資回報達原始資金13倍 同步減碼SpaceX",
+      "url": "https://news.cnyes.com/news/id/6651849",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651849/m/3c404d22f539d218cfccb270f44abfa6.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T03:25:31+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "2026屏東聖誕節11/6登場！燈區、燈光秀、市集、交通一次看",
+      "url": "https://www.businessweekly.com.tw/style/blog/3023535",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "金管會限空令升級！借券賣出限額砍至3%、融券保證金升至130% 11月9日上路",
+      "url": "https://money.udn.com/money/story/5613/9862569",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/03/35481945.jpg&M=1&s=Y&x=0&y=0&sw=1250&sh=833&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:42:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "敗選未撼動川普經濟路線 哈塞特強調「政策奏效、無須調整」",
+      "url": "https://news.cnyes.com/news/id/6651719",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651719/m/d860709ca371ad924f7eb1c1083f94b9.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T00:30:05+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "為何上班族越來越不想為公司賣命？研究揭10年來職場的3個變化",
+      "url": "https://www.businessweekly.com.tw/career/blog/3023534",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "整理包／國安基金第十次進場護盤！投資人可以跟單嗎？歷次戰績一次看",
+      "url": "https://money.udn.com/money/story/124512/9862538",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493550.jpg&M=1&s=Y&x=0&y=0&sw=1267&sh=845&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T20:00:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "民主黨橫掃國會後 微軟出售Xbox可能性擴大",
+      "url": "https://news.cnyes.com/news/id/6648374",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6648374/m/26df7b21244291389f5e6449925690c3.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T00:40:05+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "台股大跌，該停損還是加碼？手癢前先想清楚4件事",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023533",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "美股早盤／反攻號角響起！費半漲約6% 台積電ADR強彈近8% 道瓊獨憔悴",
+      "url": "https://money.udn.com/money/story/123398/9862895",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493923.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T22:50:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "晶片股遭遇2020年來最慘一日！30大龍頭28檔陷熊市 CoreWeave信用風險竄高",
+      "url": "https://news.cnyes.com/news/id/6651841",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651841/m/8e21446a7453365e89bfe1bde3831919.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T01:00:06+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "融資維持率是什麼？怎麼算？低於130%會斷頭嗎？公式、追繳與補救方法",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023532",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "民主黨擬對川普企業盟友發動調查 馬斯克、蘋果、Meta 拉警報",
+      "url": "https://money.udn.com/money/story/5599/9862785",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493783.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T21:14:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "美伊談判傳進展！川普稱伊朗有意達成協議、荷姆茲海峽接連遇襲升高緊張",
+      "url": "https://news.cnyes.com/news/id/6651999",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651999/m/f59e651d7fad7a1f1b8d889d49ded4c4.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T06:56:24+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "0053分割1拆8、改不配息！分割時間、成分股，與0052、0050差異一次看",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023531",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-05",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "整理包／限空令11月9日即將上路！五大措施、三類限制與歷次實施背景一次看",
+      "url": "https://money.udn.com/money/story/124512/9862830",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/03/35481945.jpg&M=1&s=Y&x=0&y=0&sw=1250&sh=833&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T22:23:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "川普稱美方對伊朗實施「小型打擊」！兩枚飛彈擊中格什姆島",
+      "url": "https://news.cnyes.com/news/id/6651931",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651931/m/4d06a56ae140704127a3f7007dd8a13e.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T03:40:03+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "為什麼越累越不想睡？心理師教3招反制「報復性熬夜」",
+      "url": "https://www.businessweekly.com.tw/style/blog/3023530",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-05",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "科技股狂瀉 亞洲富豪財富大失血 日月光創辦人縮水尤多 有人不減反增",
+      "url": "https://money.udn.com/money/story/5599/9862680",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493682.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T20:05:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "紅果短劇月活4.3億 成網路流量新寵及電商變現新戰場",
+      "url": "https://news.cnyes.com/news/id/6651361",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651361/m/595a7696a4c61903fddcebc91d911ca9.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T14:40:03+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "超商搶當你家社區里長伯！全家包裹直送管理室、小七推AI管家，圖什麼？",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023529",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-05",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "美股「大崩盤」臨頭了嗎？緊盯這4個紅燈是否亮起",
+      "url": "https://money.udn.com/money/story/123398/9862390",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493279.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T17:24:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "美銀：AI相關股票被拋售後 是韓元和新台幣買入良機",
+      "url": "https://news.cnyes.com/news/id/6650473",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6650473/m/4fe0203f80027176037fb3943e213a5e.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T11:20:02+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "22縣市長花錢大調查》城市CEO挑戰者沈伯洋、江啟臣、蘇巧慧出什麼菜？",
+      "url": "https://www.businessweekly.com.tw/focus/indep/6024865",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-05",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "16檔低本益比股 國家隊卡位 力抗賣壓",
+      "url": "https://money.udn.com/money/story/5607/9862955",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493946.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T03:31:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "高盛下調黃金目標價 因聯準會轉趨鷹派抑制投資需求",
+      "url": "https://news.cnyes.com/news/id/6650475",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6650475/m/9c9daeb67ba5e374ce0f45162677eb68.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T13:20:10+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "輝達成短期輸家？美期中選舉讓資料中心踩煞車，台廠先蹲後跳",
+      "url": "https://www.businessweekly.com.tw/international/blog/3023528",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-05",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "台股跌深醞釀技術性反彈 大型投顧：聚焦這三族群、避開五大類股",
+      "url": "https://money.udn.com/money/story/5607/9863135",
+      "thumbnail": "https://udn.com/upf/2017_news/noimg_cid1001_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-07T05:41:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "台股下周「安」了！國安基金緊急召開臨時會 拍板進場護盤",
+      "url": "https://news.cnyes.com/news/id/6650445",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6650445/m/f72732cb8824d8ac31a0fe79d6328212.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T10:04:45+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "LINE通話錄音怎麼開？3步驟設定、錄音檔位置、免費期限一次看",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3023527",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-04",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "準備朝野大對抗！川普如何行使否決權和國會如何反制看這篇就夠了",
+      "url": "https://money.udn.com/money/story/5599/9862483",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493370.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T18:05:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "〈美股盤後〉晶片股反彈！費半勁揚逾4.2% 台積電ADR升超6% 那指標普周線四連黑",
+      "url": "https://news.cnyes.com/news/id/6651785",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6651785/m/d70977d8babef611f6245ccdf6da0515.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T21:52:24+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "不用換公司，接案每月多領2萬！日本企業推「內部兼職」，讓員工跨部門打工",
+      "url": "https://www.businessweekly.com.tw/management/blog/3023526",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-04",
+      "meta": "商業周刊"
+    }
+  ]
+}
