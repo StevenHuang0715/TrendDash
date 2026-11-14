@@ -1,0 +1,414 @@
+{
+  "id": "finance",
+  "name": "財經新聞",
+  "updated_at": "2026-11-14T12:42:19+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "黃仁勳桃色風波連環爆 分析師：台灣人會原諒他私德的過錯 唯一事例外",
+      "url": "https://money.udn.com/money/story/5599/9877667",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35516374.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T21:11:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "馬斯克帶頭簽署請願書聲援黃仁勳復職！逾1.4萬人連署請願、輝達核心工程師示警人才出走",
+      "url": "https://news.cnyes.com/news/id/6662479",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662479/m/7e8a15f06c40f9210fa364948d11c1ce.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T04:20:29+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "黃仁勳嫌她不懂戰略，3個月後她接棒CEO！輝達不當金主，晶片還賣得動？",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3023574",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "馬斯克也簽了！輝達員工股東在內3.6萬人連署挺黃仁勳回任",
+      "url": "https://money.udn.com/money/story/5599/9878539",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35517677.jpg&M=1&s=Y&x=0&y=0&sw=1272&sh=848&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T12:50:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "黃仁勳辭輝達執行長、MSCI調整台股增3刪4、台積電入股 Anthropic與OpenAI 本周大事回顧",
+      "url": "https://news.cnyes.com/news/id/6662262",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662262/m/882f18d86fe94ced1484127dc032ef20.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T04:10:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "黃仁勳33年傳奇執行長生涯，改變全世界的五件事",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3023573",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "黃仁勳遭爆誤導輝達高層 佯稱與黃樂為一般商業往來 曾打算告紐時",
+      "url": "https://money.udn.com/money/story/5599/9878871",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35518186.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T17:15:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "內部通訊曝光！黃仁勳誤導自家法務長 稱與黃樂往來是客戶關係",
+      "url": "https://news.cnyes.com/news/id/6662463",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662463/m/37f6f8543b9d9c9068a21f9c0c656362.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T03:50:05+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "失去黃仁勳，輝達還能稱霸幾年？Google、超微誰是下一任AI盟主？",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3023572",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "美股早盤／黃仁勳下台陰影持續壟罩 標普那指翻黑 費半愈跌愈深",
+      "url": "https://money.udn.com/money/story/123398/9877809",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35516640.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T22:56:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "65歲投保上限刪除、產假延至3.5個月 性平法與就保法5大創新一表看",
+      "url": "https://news.cnyes.com/news/id/6662577",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662577/m/8a4f04cd04fa9def00b01e7902f1e284.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T07:38:41+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "SEVENTEEN JxJ台北演唱會11/17開賣！售票時間、票價、座位圖、實名制一次看",
+      "url": "https://www.businessweekly.com.tw/style/blog/3023571",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "輝達股價回神 台指期夜盤反彈",
+      "url": "https://money.udn.com/money/story/11112/9877660",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35516109.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T21:08:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "微軟Outlook、Teams全球大當機終於修好了！超千名工程師連夜搶修、逾70國受影響",
+      "url": "https://news.cnyes.com/news/id/6662588",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662588/m/57904faec57c72bae59f814fc6fff6e3.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T09:10:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "2026新北耶誕城11/13登場！活動時間、演唱會卡司、燈區地圖、交通一次看",
+      "url": "https://www.businessweekly.com.tw/style/blog/3023570",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "賈伯斯當年幾乎出清蘋果持股 黃仁勳會拋售1350億美元輝達股票嗎？",
+      "url": "https://money.udn.com/money/story/123398/9877856",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35516688.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T23:14:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "升息辯論已轉向明年1月！Fed官員密集放鷹 市場甚至押注一路連升至3月",
+      "url": "https://news.cnyes.com/news/id/6662371",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662371/m/4ad9337abd5bb65db357fd5107eebc29.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T05:50:02+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "ASIC是什麼？概念股有哪些？與GPU差異、台灣供應鏈一次看",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023569",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "聯發科AI ASIC商機爆發！2027年EPS估137.69元 獲利有望翻倍",
+      "url": "https://money.udn.com/money/story/5607/9874732",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247179.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T21:44:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "獲利成長減速、牛市還未完！高盛點名三大布局方向 看好標普明年再漲16%",
+      "url": "https://news.cnyes.com/news/id/6662252",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662252/m/035926c3e8c1c63f2a0610401ca255b9.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T05:00:05+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "黃仁勳外遇下台，8成輝達員工仍盼他留下！當偶像跌落神壇，如何面對失落？",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3023568",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "台積電美國廠獲利爆發 前三季大賺539億、年增逾10倍",
+      "url": "https://money.udn.com/money/story/5612/9877832",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35515640.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T02:18:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "黃仁勳下台根本原因？150萬顆輝達B200等值算力疑流入中國",
+      "url": "https://news.cnyes.com/news/id/6662319",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662319/m/17fd5e2ae5c13829d8928f0495e5bf39.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T05:10:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "天天運動體重沒變？美國研究：「運動8週」全身22器官默默大翻修",
+      "url": "https://www.businessweekly.com.tw/style/blog/3023567",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "育兒大禮包來了 新制雙親最高加總可領 18 月留停津貼",
+      "url": "https://money.udn.com/money/story/7307/9877869",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35516686.jpg&M=1&s=Y&x=0&y=0&sw=1185&sh=790&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T02:28:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "資金大風吹！市場熱錢「賣輝達、轉台積」 專家揭台股下周攻防關鍵指標",
+      "url": "https://news.cnyes.com/news/id/6662541",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662541/m/07195ca4b9a656a40827bce8456284dc.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T05:54:53+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "黃仁勳下台，誰來替AI撐信心？Anthropic上市將成AI泡沫照妖鏡",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023566",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "11月13日期交所夜盤行情",
+      "url": "https://money.udn.com/money/story/11112/9878029",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/28/35370260.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T05:20:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "傳蘋果晶片大將斯魯吉成輝達CEO潛在人選！8大候選人名單曝光",
+      "url": "https://news.cnyes.com/news/id/6662466",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662466/m/21f3aaf761f3bc7c0a74483e36f064fb.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T06:20:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "中國間諜美人計滲透科技圈，前FBI情報專家揭「千粒沙策略」黑幕",
+      "url": "https://www.businessweekly.com.tw/international/blog/3023565",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "台股外資轉買 結束連11賣 多頭戰黑天鵝",
+      "url": "https://money.udn.com/money/story/5607/9877902",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/11/35506516.jpg&M=1&s=Y&x=156&y=0&sw=1124&sh=749&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T03:03:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "〈紐約匯市〉美元創9月來最大單週漲幅 Fed升息幾成定局",
+      "url": "https://news.cnyes.com/news/id/6661753",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6661753/m/192ec88b50796a00324cd65d15de0417.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T21:46:42+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "黃仁勳請辭輝達CEO！為何偏偏現在下台？一場「反AI」浪潮背後的角力",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3023564",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "群聯不只賺NAND景氣財！AI業務占比衝65% 企業級SSD、軟體服務成新成長引擎",
+      "url": "https://money.udn.com/money/story/5607/9874723",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/15/35424970.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T21:49:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "〈貴金屬盤後〉金價周跌4.5% 創6月初以來最差單周",
+      "url": "https://news.cnyes.com/news/id/6661670",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6661670/m/1ce13518f62315748abf399fd441b1b2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T23:15:48+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "黃仁勳下台危機，台廠將被拖下水？AI伺服器高層揭供應鏈新機會",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3023563",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "金控報喜 十家前十月大賺3,917億元、年增45%",
+      "url": "https://money.udn.com/money/story/5613/9877781",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35516595.jpg&M=1&s=Y&x=0&y=0&sw=942&sh=628&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T00:56:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "金管會准了！小資福音「主動式ETF期貨」年底掛牌 每口交易稅最低至6元",
+      "url": "https://news.cnyes.com/news/id/6661935",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6661935/m/a31b2bf85fb1accc3a067b56697f854b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T12:07:40+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "買房前半年千萬別做這件事！銀行貸款變難？首購族必學3大「養信用」心法",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023562",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "台股周線翻紅、行情進入下半場！法人揭下一波選股攻略",
+      "url": "https://money.udn.com/money/story/5607/9878742",
+      "thumbnail": "https://udn.com/upf/2017_news/noimg_cid1001_8.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T15:43:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "華爾街日報：黃仁勳下台前 曾當眾貶低現任臨時執行長",
+      "url": "https://news.cnyes.com/news/id/6662202",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662202/m/acc2c982f0c29cff7d4a3d6bb8893640.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T15:59:16+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "用同樣的AI成果差幾百倍？Anthropic主管公開3大「野心提示詞」",
+      "url": "https://www.businessweekly.com.tw/career/blog/3023561",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12",
+      "meta": "商業周刊"
+    },
+    {
+      "title": "輝達換帥牽動 AI 鏈 14檔「後黃仁勳」概念股出列",
+      "url": "https://money.udn.com/money/story/5607/9877897",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35483021.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T03:05:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "〈能源盤後〉全球供應過剩壓過地緣風險 油價本周再跌2.5% 連兩週收跌",
+      "url": "https://news.cnyes.com/news/id/6662346",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6662346/m/a277646261d3532da97c32361a4050ad.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T22:11:51+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "00418A是什麼？成分股、配息、優缺點，和0050、00981A差在哪？",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023560",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12",
+      "meta": "商業周刊"
+    }
+  ]
+}

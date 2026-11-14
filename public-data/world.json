@@ -1,0 +1,324 @@
+{
+  "id": "world",
+  "name": "國際新聞",
+  "updated_at": "2026-11-14T12:42:21+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/06bc/live/b968be70-df3b-11f1-b441-2b33b063138f.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T09:51:11.451Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "黃仁勛因何跌落神壇？傲慢與自負",
+      "url": "https://cn.nytimes.com/opinion/20261113/jensen-huang-nvidia/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/14/opinion/12Witt/12Witt-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12T18:05:53+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "美國司法部長：「我從沒說過Alice Huang是中國間諜」",
+      "url": "https://www.dw.com/zh-hant/黃仁勳辭職後美國司法部長稱從沒說過alice-huang是中國間諜/a-79938408",
+      "thumbnail": "https://static.dw.com/image/78289577_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T10:21:07.612Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "黃仁勳辭職：這位AI遠見者，如何栽在自己的錯誤決定上",
+      "url": "https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/3345/live/4030f5a0-deea-11f1-9dd5-b5dd10100b88.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T04:20:11.417Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "黃仁勛令皮夾克愛好者蒙羞",
+      "url": "https://cn.nytimes.com/opinion/20261112/jensen-huang-leather-jacket/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/11/multimedia/11giridharadas-hlpf/11giridharadas-hlpf-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-11T17:45:26+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "從「他到底是誰」到醜聞曝光後力挺：川普与黃仁勳的交往時間線",
+      "url": "https://www.dw.com/zh-hant/從他到底是誰到醜聞曝光後力挺川普与黃仁勳的交往時間線梳理/a-79939498",
+      "thumbnail": "https://static.dw.com/image/75070893_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T12:07:49.789Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "黃仁勳婚外情：黃樂據稱身在北京，台灣廢止其入境許可證",
+      "url": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/4b86/live/13384200-de50-11f1-b0c0-99d486f024fd.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12T10:15:57.668Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "「美人計」：中國間諜機構如何利用親密關係套取情報",
+      "url": "https://cn.nytimes.com/china/20261113/china-spy-espionage-romance/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-china-espionage-01-qvpc/12int-china-espionage-01-qvpc-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T00:39:29+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "賓士叫停全部在德投資 稱考慮關閉工廠",
+      "url": "https://www.dw.com/zh-hant/工會要加薪企業要降本賓士叫停全部在德投資-稱考慮關閉工廠/a-79939561",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T12:06:35.989Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」",
+      "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/8b6c/live/40d273e0-df39-11f1-86fa-cbe84eade4f1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T06:12:53.328Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "黃仁勛婚外情醜聞將其妻子置於聚光燈下",
+      "url": "https://cn.nytimes.com/technology/20261112/jensen-huang-affair-lori-huang/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12T03:10:39+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "王忠林被查 新冠期間空降武漢任「一把手」",
+      "url": "https://www.dw.com/zh-hant/武漢前一把手王忠林被查-新冠期間曾火線空降/a-79942549",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T15:02:57.935Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/7a49/live/c76f08c0-dcda-11f1-a8e1-e3454837ffc6.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T10:39:06.318Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "川普曾敦促黃仁勛為保住英偉達CEO職位而戰",
+      "url": "https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/13/multimedia/13DC-TRUMP-HUANG-fwzc/13DC-TRUMP-HUANG-fwzc-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T03:24:19+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體：黃仁勳的遠見卓識",
+      "url": "https://www.dw.com/zh-hant/德語媒體黃仁勳說得對美國本應允許向中國出口晶片/a-79942546",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T15:06:38.709Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "微軟系統全球癱瘓：Outlook、Teams、Copilot受影響",
+      "url": "https://www.bbc.com/zhongwen/articles/crvg2d7v05yno/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T07:32:18.653Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "黃仁勛事件中的「女主角」黃樂是誰？",
+      "url": "https://cn.nytimes.com/business/20261111/alice-huang-megaspeed-nvidia-jensen-huang/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-10T18:38:16+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "重演「雅爾塔」？中美俄可能的三方峰會引發擔憂",
+      "url": "https://www.dw.com/zh-hant/雅爾塔20中美俄可能的三方峰會引發擔憂/a-79929235",
+      "thumbnail": "https://static.dw.com/image/77733980_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12T12:14:09.651Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "黃仁勳辭職：暫時接掌Nvidia的克雷斯是誰？還有哪些正式接班人選？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12T16:12:19.991Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "新加坡政府：在調查黃樂公司時美國幾乎未予協助",
+      "url": "https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T01:13:39+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體：「婚外情」並不是黃仁勳的最大失誤",
+      "url": "https://www.dw.com/zh-hant/德語媒體婚外情並不是黃仁勳的最大失誤/a-79921451",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-11T15:08:02.043Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
+      "url": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/163e/live/9001b4b0-dc3e-11f1-95cf-a38331e6cb4b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-10T08:24:34.965Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "關於英偉達臨時CEO克雷斯，我們知道些什麼",
+      "url": "https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-CFO-topart-mzjt/12biz-nvidia-CFO-topart-mzjt-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T02:04:12+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "京東收購Ceconomy完成 欲打造歐洲領先平台",
+      "url": "https://www.dw.com/zh-hant/京東收購ceconomy-欲打造歐洲領先平台/a-79933405",
+      "thumbnail": "https://static.dw.com/image/77334607_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T07:33:52.977Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "「你甚至不會告訴密友」：分娩後遺併發症，為何多年後仍揮之不去？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/ce3f/live/799f0070-dd7d-11f1-a701-fddedf244c16.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12T08:33:39.808Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "黃仁勛再被曝婚外情：知情人稱其與英偉達一名女高管有染",
+      "url": "https://cn.nytimes.com/technology/20261112/jensen-huang-nvidia-affair/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12T01:41:41+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "黃仁勳辭職 英偉達與AI行業進入不確定時期",
+      "url": "https://www.dw.com/zh-hant/黃仁勳辭職-中企憂美收緊監管-忙搶租海外英偉達算力/a-79929183",
+      "thumbnail": "https://static.dw.com/image/74568703_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-12T14:30:13.426Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "BBC調查揭英國「全球人才簽證」造假產業：中介助移民冒充藝術家及科技專才",
+      "url": "https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/18bf/live/f63106d0-de89-11f1-b441-2b33b063138f.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T08:27:53.682Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "誰能接替黃仁勛？英偉達可以考慮這些人",
+      "url": "https://cn.nytimes.com/business/20261113/jensen-huang-nvidia-successor/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-successors-gcht/12biz-nvidia-successors-gcht-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T02:41:22+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "長平觀察：黃仁勳的間諜疑雲，不只是桃色新聞",
+      "url": "https://www.dw.com/zh-hant/長平觀察黃仁勳的間諜疑雲不只是桃色新聞/a-79896037",
+      "thumbnail": "https://static.dw.com/image/79708779_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-09T08:47:20.632Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "美國國會要求黃仁勳和商務部長盧特尼克接受問詢",
+      "url": "https://www.dw.com/zh-hant/美國國會議員要求黃仁勳和商務部長盧特尼克接受問詢/a-79939554",
+      "thumbnail": "https://static.dw.com/image/79933651_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T11:51:53.627Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "美國打擊加密貨幣詐騙：視訊會議裡的「熟人」，可能是北韓駭客",
+      "url": "https://www.dw.com/zh-hant/美國打擊加密貨幣詐騙視訊會議裡的熟人可能是北韓駭客/a-79942669",
+      "thumbnail": "https://static.dw.com/image/41293377_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T15:20:51.445Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "黃仁勳的「外室」、中國的「間諜」——Alice Huang何許人也？",
+      "url": "https://www.dw.com/zh-hant/涉嫌為中國刺探黃仁勳的黃樂何許人也/a-79898601",
+      "thumbnail": "https://static.dw.com/image/79899562_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-09T11:56:53.776Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "德語媒體：從仰慕到惋惜 – 中國人眼中的德國形象",
+      "url": "https://www.dw.com/zh-hant/德語媒體從仰慕到惋惜-中國人眼中的德國形象/a-79734614",
+      "thumbnail": "https://static.dw.com/image/79669256_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-22T14:27:40.929Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "黃仁勳：中國只差美國幾納秒  對華鷹派是「恥辱徽章」",
+      "url": "https://www.dw.com/zh-hant/黃仁勳中國只差美國幾納秒-對華鷹派是恥辱徽章/a-74177902",
+      "thumbnail": "https://static.dw.com/image/73594338_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2025-09-29T14:51:02.088Z",
+      "meta": "DW 德國之聲中文"
+    }
+  ]
+}

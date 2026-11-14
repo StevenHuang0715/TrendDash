@@ -1,0 +1,234 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-11-14T12:42:14+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "羅大佑失言惹禍？遭李坤城兒強硬開嗆「沒我同意不准唱」 經典台語歌陷封殺危機",
+      "url": "https://news.tvbs.com.tw/entertainment/music/4050386",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1d7da-60aa-71c1-8b13-6605fe30afc5.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "又1所私立大學確定退場！國立接手 3校整併一次看",
+      "url": "https://news.ebc.net.tw/news/living/580574",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/13/1794603774_45142.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T22:40:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "選蔣萬安還是沈伯洋？炎亞綸比出「這手勢」：不是秘密了",
+      "url": "https://news.tvbs.com.tw/entertainment/music/4050524",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1d8de-a0b6-73e7-a459-2409a09a4961.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,296,5677,3489&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "外媒直擊黃仁勳舊金山豪宅 神秘貨車搬家當",
+      "url": "https://news.ebc.net.tw/news/world/580566",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/13/1794601954_62897.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T21:14:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "50嵐「轉運神飲」爆紅！網實測驚呆：喝完隔天被錄取",
+      "url": "https://news.tvbs.com.tw/life/4050169",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1d409-c9eb-73fc-a8b6-c8b2e5146a4b.jpeg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,770,433&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "三巨頭確定合體！川普、習近平、普丁19日舉行三方會談",
+      "url": "https://news.ebc.net.tw/news/world/580616",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794647426_40792.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T09:19:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "「蜂蜜檸檬」現身挺蔣萬安！喊班班有蜂蜜檸檬",
+      "url": "https://news.tvbs.com.tw/politics/4050574",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1d940-90a7-7028-b3a3-9d19d17a0ec4.png?w=1067&h=600&t=16x9&c=0,7,1352,768&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "彰化77歲村長與妻雙亡！兒返家驚見倒臥房內 選舉停止辦理",
+      "url": "https://news.ebc.net.tw/news/society/580585",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/13/1794612301_73136.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T23:29:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "羅大佑轟大港開唱拉低水平　閃靈Doris千字文回擊：這是世界聽見台灣的窗",
+      "url": "https://news.tvbs.com.tw/entertainment/music/4050349",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1d78d-2eb3-736e-97a3-e547b1e3b681.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "汐止塞到林口！雙北交通大癱瘓 原因找到了",
+      "url": "https://news.ebc.net.tw/news/society/580571",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/13/1794603148_19355.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-13T20:55:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "馬斯克表態連署挺黃仁勳復職！百億富豪喊沒他就不投資",
+      "url": "https://news.tvbs.com.tw/world/4050359",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1d7b5-a218-71c2-9a88-5e26e64e15eb.jpg?w=1067&h=600&t=4x3&wp=r,t&c=0,0,701,526&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "《魔鬼孩子王》童星驚傳離世！享年43歲 家人證實死訊",
+      "url": "https://ent.ebc.net.tw/movie/503895",
+      "thumbnail": "https://img-star.ebc.net.tw/ebcstar/news/2026/11/14/1794663054_86880.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T13:41:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "軍公教年終獎金變了！考績「無甲等75%上限」　入帳時間曝",
+      "url": "https://news.tvbs.com.tw/life/4050372",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a186a5-6a3c-70be-bb62-c188ad263225.png?w=1067&h=600&t=16x9&c=0,0,800,450&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "伊朗開火！襲美軍駐巴林基地 川普嗆「不需要協議」",
+      "url": "https://news.ebc.net.tw/news/world/580641",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794659715_33913.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T12:38:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "村長夫婦「倒臥房間雙亡」！月初才懇請支持　彰化選委會喊卡選舉",
+      "url": "https://news.tvbs.com.tw/politics/4050314",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1d570-af3f-7210-ac68-154376a9650e.jpg?w=1067&h=600&t=16x9&c=0,0,864,486&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "紐奧良油輪撞郵輪釀32傷 180乘客游泳逃命",
+      "url": "https://news.ebc.net.tw/news/world/580634",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794655450_17908.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T11:19:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "公開表態挺羅大佑！他轟爆青鳥：把沈伯洋的虛偽人設撕裂了",
+      "url": "https://news.tvbs.com.tw/politics/4049968",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1d2ea-0414-7301-a923-3b9bab9a317c.jpg?w=1067&h=600&t=16x9&c=358,218,1425,818&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "彰化「村長夫妻」離奇雙亡！全縣已4名候選人離世 民俗專家分析了",
+      "url": "https://news.ebc.net.tw/news/society/580684",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794674277_56785.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T16:43:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "普發2萬拚三讀！最新進度一次看　財政部說話了",
+      "url": "https://news.tvbs.com.tw/life/4050541",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1d908-2e53-715e-83ad-3e597620041d.png?w=1067&h=600&t=16x9&c=0,0,770,433&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "黃仁勳閃辭！千億富豪停止加碼輝達：沒他就不投資",
+      "url": "https://news.ebc.net.tw/news/world/580591",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794645170_85012.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T08:14:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "快訊／「蔣萬安競總前」驚傳車禍 陸地頭等艙追撞轎車",
+      "url": "https://news.ebc.net.tw/news/society/580659",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794675750_80308.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T14:03:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "黃仁勳婚外情是「公開的秘密」？他揭內幕：子女也知情",
+      "url": "https://news.ebc.net.tw/news/world/580667",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794668639_19288.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T15:01:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "U23世界盃雷皓博完投飆速153 黃鈞麟開轟台灣勝日本",
+      "url": "https://news.ebc.net.tw/news/sport/580639",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794656540_11300.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T11:43:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "黃仁勳下台仍躲不過！美參院下通牒：拒作證直接發傳票",
+      "url": "https://news.ebc.net.tw/news/world/580650",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794663171_82755.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T13:35:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "「輝達高層集體逼宮」嗆跳槽SpaceX？網抓包烏龍關鍵點",
+      "url": "https://news.ebc.net.tw/news/world/580635",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/14/1794654656_46995.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-14T11:42:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}
