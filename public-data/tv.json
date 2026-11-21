@@ -1,0 +1,234 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-11-21T10:26:25+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "快訊／再次力挺黃仁勳　川普喊話輝達：接受鄭重道歉　讓他回去工作",
+      "url": "https://news.tvbs.com.tw/world/4053764",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1fa36-ad14-7126-bf5e-77509c20db3c.jpg?w=1067&h=600&t=16x9&wp=r,b&c=0,0,7463,4198&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "普發現金2萬元三讀通過 行政院怒批違憲",
+      "url": "https://news.ebc.net.tw/news/politics/581703",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/20/1795204312_10904.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T19:59:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "影音／才砸2.3億買0050！郭哲榮傳「炒作概念股」遭檢調帶走　本人急回應",
+      "url": "https://news.tvbs.com.tw/money/4053790",
+      "thumbnail": "https://img.youtube.com/vi/GLiuj4zl1DE/maxresdefault.jpg?w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "台中和平區長候選人涉「競選文宣夾5千現金」買票 遭收押禁見",
+      "url": "https://news.ebc.net.tw/news/politics/581772",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795259829_95516.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T11:17:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "大馬情侶車內吃播遇歹徒！兩人被迫當場性行為　女還慘遭性侵",
+      "url": "https://news.tvbs.com.tw/world/3097422",
+      "thumbnail": "https://news-images.tvbs.com.tw/legacy/img/upload/2026/01/11/20260111164533-4a54e827.jpg?w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "網傳郭哲榮「涉炒概念股」遭檢調帶走？本人親自回應了",
+      "url": "https://news.ebc.net.tw/news/business/581737",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795250699_29042.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T08:53:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "洋流、小草風向變了？他曝北市「戰況分水嶺」　斷言這人當選倒數",
+      "url": "https://news.tvbs.com.tw/politics/4053933",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1e3b5-815d-72b0-ad37-02d7b7fc9c74.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,2000,1125&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "金價單週血崩9％！Fed放鷹喊升2碼 驚險守住3500美元",
+      "url": "https://news.ebc.net.tw/news/business/581763",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795256764_35861.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T10:31:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "神秘7人訂位遭高雄知名老店婉拒　BTS本尊直接殺到現場開吃",
+      "url": "https://news.tvbs.com.tw/entertainment/4053833",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1fbe2-ea55-7100-be44-35fd4ffb8f60.jpg?w=1067&h=600&t=16x9&c=0,0,1920,1080&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "獨家／合庫銀也爆盜轉！客戶崩潰：「10萬」遭轉出境外",
+      "url": "https://news.ebc.net.tw/news/living/581702",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/20/1795204322_20116.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T21:05:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "輝達、矽品宣布多年期合作擴產計畫！台灣先進封裝產能將提高3倍",
+      "url": "https://news.tvbs.com.tw/money/4052181",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a186ee-162d-7113-887e-70899cfc369d.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,1477,831&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "普發2萬三讀通過！「全民不排富」能跟1萬並領嗎？進度一次看",
+      "url": "https://news.ebc.net.tw/news/business/581775",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795262158_66120.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T12:30:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "立法院三讀通過普發2萬　行政院「深感遺憾」：將採合憲作為",
+      "url": "https://news.tvbs.com.tw/politics/4053668",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1aa64-f3a6-7087-b679-d0d38c347782.jpg?w=1067&h=600&t=16x9&c=0,25,1567,906&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "恐慌指數飆升！高盛：下周恐迎來大規模拋售",
+      "url": "https://news.ebc.net.tw/news/business/581782",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795266705_56634.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T13:12:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "宋楚瑜表態了！公開「支持民進黨候選人」感激26年恩情",
+      "url": "https://news.tvbs.com.tw/politics/4054032",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1b852-47e5-708a-a219-a951379bd667.png?w=1067&h=600&t=16x9&wp=l,t&c=0,28,671,405&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "三胎孕媽狂灌半斤白酒！醫剖腹嚇壞「羊水發臭」驚險救回",
+      "url": "https://news.ebc.net.tw/news/world/581790",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795270037_76004.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T14:03:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "斷頭潮真來了？上市櫃融資「重砍637億」創紀錄　逾6千戶遭追繳",
+      "url": "https://news.tvbs.com.tw/money/4053795",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1f72e-e740-70ca-8919-b9195451263e.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,0,5410,3043&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "台股血洗！他果斷砍光「賠了近千萬」 深夜血淚告白看哭10萬人",
+      "url": "https://news.ebc.net.tw/news/living/581691",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/20/1795200741_77920.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T18:50:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "黃仁勳下一站是英特爾？華爾街基金經理大膽猜：陳立武可能讓位",
+      "url": "https://news.tvbs.com.tw/world/4053976",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a1ee00-18c5-71c2-a288-006e82eaf3c0.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,845,8329,5530&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "桃園轎車撞寶雅釀7傷！駕駛驗出毒品反應 1女OHCA",
+      "url": "https://news.ebc.net.tw/news/society/581717",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/20/1795211410_13548.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T21:54:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "黑絲短裙老師誘吃男學生30次 他暈船到竟喊想再一次",
+      "url": "https://news.ebc.net.tw/news/world/581761",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795256370_58645.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T11:11:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "毒駕撞寶雅釀1死6傷！菲籍女移工路過慘死",
+      "url": "https://news.ebc.net.tw/news/society/581749",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795254788_46749.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T10:12:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "快訊／秘魯規模6.9強震！震源深度142.1公里",
+      "url": "https://news.ebc.net.tw/news/world/581733",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795249273_75437.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T08:21:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "快訊／財神爺降臨！1億頭獎落2縣市 幸運彩券行曝",
+      "url": "https://news.ebc.net.tw/news/business/581719",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795219362_46699.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T22:13:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "台股下週恐再殺？金管會祭出「禁空令」 國安基金罕見假日喊話",
+      "url": "https://news.ebc.net.tw/news/business/581812",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/21/1795277809_31946.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-21T16:19:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}

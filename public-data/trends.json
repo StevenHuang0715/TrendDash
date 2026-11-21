@@ -1,0 +1,99 @@
+{
+  "id": "trends",
+  "name": "Google 熱搜",
+  "updated_at": "2026-11-21T10:26:46+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "阿部翔太",
+      "url": "https://www.google.com/search?q=%E9%98%BF%E9%83%A8%E7%BF%94%E5%A4%AA",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOlPZVEj9nBoSdWczUTPKt_PzRum2y2boT9XZljMY8Hhor0qo1yqgPKTMXO1I",
+      "score": 1000,
+      "score_label": "1000+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 01:50:00 -0800",
+      "meta": "中職》想來台灣打球！日職防禦率2的日本強投 至少2支中職球隊觀察"
+    },
+    {
+      "title": "出口 管制",
+      "url": "https://www.google.com/search?q=%E5%87%BA%E5%8F%A3%20%E7%AE%A1%E5%88%B6",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQzGe5OgHDTMJIITQyT4dtHDrD1YHwr20nSx_WuhgZmBRrPlJ3oBNnpm9ArHs",
+      "score": 1000,
+      "score_label": "1000+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 01:40:00 -0800",
+      "meta": "Advanced Micro Devices(AMD) Stock Price Today | Quotes & News"
+    },
+    {
+      "title": "貝 森 特",
+      "url": "https://www.google.com/search?q=%E8%B2%9D%20%E6%A3%AE%20%E7%89%B9",
+      "thumbnail": null,
+      "score": 500,
+      "score_label": "500+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 01:10:00 -0800",
+      "meta": null
+    },
+    {
+      "title": "藤井風",
+      "url": "https://www.google.com/search?q=%E8%97%A4%E4%BA%95%E9%A2%A8",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgm0BsIkzjDptHpif2o4R46MHNyWSUX0IGWYGlgm2eKYbSehxR1qeL9rue1C0",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 02:10:00 -0800",
+      "meta": "藤井風の“高身長ショット”圧倒的なスタイルの良さが際立つ！海外ファッション誌でのモデル級ビジュアルから豪華アーティストとの共演まで"
+    },
+    {
+      "title": "新北耶誕城",
+      "url": "https://www.google.com/search?q=%E6%96%B0%E5%8C%97%E8%80%B6%E8%AA%95%E5%9F%8E",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zyF-JlHOwM05o2hlrse29dRCpQ94yRo3XIOaqIzG6MYcIu3fGXJYjLitQdA",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 01:30:00 -0800",
+      "meta": "卡娜赫拉新北耶誕屋太可愛 60款節慶周邊交換禮物萌翻了"
+    },
+    {
+      "title": "華泰名品城",
+      "url": "https://www.google.com/search?q=%E8%8F%AF%E6%B3%B0%E5%90%8D%E5%93%81%E5%9F%8E",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHAgQfBfhleNs2Y9ZBhrmC4nBws2Cv0MTrQlGQrZViz6YnszSwVrV6-jM7diw",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 01:20:00 -0800",
+      "meta": "2026聖誕節活動》全台聖誕樹、市集、演唱會、點燈時間一次看"
+    },
+    {
+      "title": "賣空",
+      "url": "https://www.google.com/search?q=%E8%B3%A3%E7%A9%BA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthrkH5ZF8Q79M_3q_L0o9m0UJ80xQd4rhBpOs5KwIlZKakHIM74bEZWJLzVk",
+      "score": 200,
+      "score_label": "200+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 01:00:00 -0800",
+      "meta": "做空AI交易開始獲利了結？ 《大賣空》貝瑞減半輝達、半導體ETF看跌期權"
+    },
+    {
+      "title": "民眾黨",
+      "url": "https://www.google.com/search?q=%E6%B0%91%E7%9C%BE%E9%BB%A8",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxj00g9dfe7AXxelBEwBA_vOHNcWLgUHUgAmXsnCvSWO_kq1xohl9E2g7HhA",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 02:10:00 -0800",
+      "meta": "影／認有連任優勢柯文哲：蔣萬安不用被「洋流」幻象嚇到| 2026九合一選舉"
+    },
+    {
+      "title": "曹雅雯",
+      "url": "https://www.google.com/search?q=%E6%9B%B9%E9%9B%85%E9%9B%AF",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPnhSbnaBGaoj4IEbdbV2uQkI6D2WVs-qprKzGe2G9RPDTRbP75vV2jHkaaAo",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 02:00:00 -0800",
+      "meta": "出櫃認雙性戀！曹雅雯西門町街頭激吻啦啦隊女神女女畫面全被拍| 音樂"
+    },
+    {
+      "title": "persebaya vs malut united",
+      "url": "https://www.google.com/search?q=persebaya%20vs%20malut%20united",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRH4ZIIiNdN75W35oSzviMziLGXEC6b9DlcITY0TC6oZlCtIfsB9KchnKbXvz8",
+      "score": 100,
+      "score_label": "100+ 次搜尋",
+      "time": "Sat, 21 Nov 2026 01:50:00 -0800",
+      "meta": "Persebaya vs Java United: Bajol Ijo Must Bounce Back, Visitors Arrive After Toppling Persib!"
+    }
+  ]
+}

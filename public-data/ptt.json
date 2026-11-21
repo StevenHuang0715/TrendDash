@@ -1,0 +1,180 @@
+{
+  "id": "ptt",
+  "name": "PTT 熱門",
+  "updated_at": "2026-11-21T10:26:35+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "[新聞] 台股周一穩了？金管會5大狠招穩市",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1795252591.A.C5F.html",
+      "thumbnail": null,
+      "score": 100,
+      "score_label": "爆",
+      "time": "11/21",
+      "meta": "Stock"
+    },
+    {
+      "title": "[LIVE] 台灣山林 VS 台灣海洋 冬盟大舞廳",
+      "url": "https://www.ptt.cc/bbs/Baseball/M.1795238070.A.929.html",
+      "thumbnail": null,
+      "score": 100,
+      "score_label": "爆",
+      "time": "11/21",
+      "meta": "Baseball"
+    },
+    {
+      "title": "[LIVE] 台鋼雄鷹 VS 捷克國家隊 交流賽 DAY1",
+      "url": "https://www.ptt.cc/bbs/Baseball/M.1795251461.A.0CC.html",
+      "thumbnail": null,
+      "score": 100,
+      "score_label": "爆",
+      "time": "11/21",
+      "meta": "Baseball"
+    },
+    {
+      "title": "[情報] 麥當勞APP領券十塊雞塊買一送一",
+      "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795002403.A.E15.html",
+      "thumbnail": null,
+      "score": 100,
+      "score_label": "爆",
+      "time": "11/18",
+      "meta": "Lifeismoney"
+    },
+    {
+      "title": "[情報] Klook抽免費Esim流量",
+      "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795044211.A.527.html",
+      "thumbnail": null,
+      "score": 94,
+      "score_label": "推 94",
+      "time": "11/19",
+      "meta": "Lifeismoney"
+    },
+    {
+      "title": "[問題] 為什麼要把綠色藏起來 大量使用橘色？？",
+      "url": "https://www.ptt.cc/bbs/Baseball/M.1795238849.A.1DC.html",
+      "thumbnail": null,
+      "score": 86,
+      "score_label": "推 86",
+      "time": "11/21",
+      "meta": "Baseball"
+    },
+    {
+      "title": "[新聞] 柯文哲才剛陪掃街！民眾黨南市議員候選人",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795253655.A.2FD.html",
+      "thumbnail": null,
+      "score": 86,
+      "score_label": "推 86",
+      "time": "11/21",
+      "meta": "HatePolitics"
+    },
+    {
+      "title": "[新聞] 運動幣將加碼5.3億！李洋預告「改任務制",
+      "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795063993.A.2BA.html",
+      "thumbnail": null,
+      "score": 77,
+      "score_label": "推 77",
+      "time": "11/19",
+      "meta": "Lifeismoney"
+    },
+    {
+      "title": "Re: [新聞] 快訊/國安基金罕見假日喊話！財部喊「已",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1795248253.A.7A6.html",
+      "thumbnail": null,
+      "score": 58,
+      "score_label": "推 58",
+      "time": "11/21",
+      "meta": "Stock"
+    },
+    {
+      "title": "[GTA6] 玩遊戲就是要體驗現實中無法做的事情",
+      "url": "https://www.ptt.cc/bbs/C_Chat/M.1795253943.A.D11.html",
+      "thumbnail": null,
+      "score": 58,
+      "score_label": "推 58",
+      "time": "11/21",
+      "meta": "C_Chat"
+    },
+    {
+      "title": "[新聞] 李政厚淪為巨人「負資產」？美媒點出3致命傷：交易價值趨近",
+      "url": "https://www.ptt.cc/bbs/Baseball/M.1795239740.A.CA9.html",
+      "thumbnail": null,
+      "score": 55,
+      "score_label": "推 55",
+      "time": "11/21",
+      "meta": "Baseball"
+    },
+    {
+      "title": "[情報] line 「逛逛」領券7-11熱美式9元",
+      "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795148379.A.C95.html",
+      "thumbnail": null,
+      "score": 53,
+      "score_label": "推 53",
+      "time": "11/20",
+      "meta": "Lifeismoney"
+    },
+    {
+      "title": "[請益] 為何要護盤  護盤的意義是什麼？",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1795254603.A.FFA.html",
+      "thumbnail": null,
+      "score": 50,
+      "score_label": "推 50",
+      "time": "11/21",
+      "meta": "Stock"
+    },
+    {
+      "title": "[討論] X的中國空軍被拉美BTS阿米輾壓過去",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795253302.A.E5E.html",
+      "thumbnail": null,
+      "score": 44,
+      "score_label": "推 44",
+      "time": "11/21",
+      "meta": "HatePolitics"
+    },
+    {
+      "title": "[新聞] 「沈伯洋怎麼好意思給市府公務員一封信」",
+      "url": "https://www.ptt.cc/bbs/Gossiping/M.1795255456.A.736.html",
+      "thumbnail": null,
+      "score": 43,
+      "score_label": "推 43",
+      "time": "11/21",
+      "meta": "Gossiping"
+    },
+    {
+      "title": "[新聞] 環境部中午起發放維修券　限量千張可抵20",
+      "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795056480.A.096.html",
+      "thumbnail": null,
+      "score": 39,
+      "score_label": "推 39",
+      "time": "11/19",
+      "meta": "Lifeismoney"
+    },
+    {
+      "title": "[情報] 7-11大大大鹽酥雞買2送1",
+      "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795070059.A.D28.html",
+      "thumbnail": null,
+      "score": 37,
+      "score_label": "推 37",
+      "time": "11/19",
+      "meta": "Lifeismoney"
+    },
+    {
+      "title": "[新聞] 王維中有望趕上春訓！台鋼不改先發規劃",
+      "url": "https://www.ptt.cc/bbs/Baseball/M.1795252775.A.3A3.html",
+      "thumbnail": null,
+      "score": 32,
+      "score_label": "推 32",
+      "time": "11/21",
+      "meta": "Baseball"
+    },
+    {
+      "title": "[討論] 吳怡萱車掃沒人：這才正常，而非發瘋群聚",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1795252965.A.AC9.html",
+      "thumbnail": null,
+      "score": 31,
+      "score_label": "推 31",
+      "time": "11/21",
+      "meta": "HatePolitics"
+    }
+  ]
+}

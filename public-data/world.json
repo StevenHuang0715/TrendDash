@@ -1,0 +1,324 @@
+{
+  "id": "world",
+  "name": "國際新聞",
+  "updated_at": "2026-11-21T10:26:30+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "從台灣的倉頡換成大陸的漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/7c0d/live/e9fc49e0-e4a8-11f1-a094-5fdc692f3e33.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T06:12:18.709Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中美俄元首會晤：一場展示情誼的盛大表演",
+      "url": "https://cn.nytimes.com/world/20261120/trump-xi-putin/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-02-cvbz/19trump-summits-ledeall-02-cvbz-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T02:45:31+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "專家：美中俄峰會雖非「雅爾達2.0」，普丁仍是贏家",
+      "url": "https://www.dw.com/zh-hant/專家美中俄峰會雖非雅爾達普丁仍是贏家/a-80000392",
+      "thumbnail": "https://static.dw.com/image/79989601_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T10:45:30.606Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
+      "url": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/dae1/live/2fc34f30-e433-11f1-a094-5fdc692f3e33.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T09:24:25.045Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "習近平與高市早苗簡短會面，中日關係無解凍跡象",
+      "url": "https://cn.nytimes.com/world/20261119/xi-jinping-china-sanae-takaichi-japan/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-xi-takaichi-lcmk/18int-xi-takaichi-lcmk-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-19T02:37:31+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "彭博社記者高聲提問後，被中方拒絕入場",
+      "url": "https://www.dw.com/zh-hant/彭博社記者高聲提問後被中方拒絕入場/a-80000852",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T10:20:31.426Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "假裝身在紐西蘭、提前請假、搶購遊戲主機：粉絲為《GTA 6》發佈做足準備",
+      "url": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-19T12:43:05.813Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "「反日宣傳無處不在」：中國如何升級對日本的輿論攻擊戰",
+      "url": "https://cn.nytimes.com/china/20261120/china-japan-propaganda-xi-takaichi/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-19T17:24:44+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "高市早苗：對台立場不變 遵循《日中聯合聲明》",
+      "url": "https://www.dw.com/zh-hant/高市早苗對台立場不變-遵循日中聯合聲明/a-79989505",
+      "thumbnail": "https://static.dw.com/image/79987771_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-19T10:18:10.722Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+      "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/1b0f/live/68aa4e30-e40f-11f1-b37c-b3a71d7200af.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-19T12:22:04.158Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "三國元首會晤背後，習近平和普丁挑戰美國的共同願景",
+      "url": "https://cn.nytimes.com/world/20261120/xi-putin-trump-meeting-china-russia/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-xi-putin-kzfw/19int-xi-putin-kzfw-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T00:13:33+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "肢體語言透露什麼？專家解讀習近平、川普与普丁的互動",
+      "url": "https://www.dw.com/zh-hant/肢體語言透露什麼專家解讀習近平川普与普丁的互動/a-79993639",
+      "thumbnail": "https://static.dw.com/image/79991902_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-19T14:44:13.68Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "中俄美三方峰會場面大於實質成果——BBC駐北美記者分析",
+      "url": "https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/e1f4/live/f36e5af0-e448-11f1-99a1-253766e7ad8b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T05:46:09.736Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國軍方對英偉達晶片觸手可及？阿里巴巴扮演重要角色",
+      "url": "https://cn.nytimes.com/technology/20261119/nvidia-alibaba-china-military/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/16/business/00-Alibaba-Spy-Wang-Jian/00-Alibaba-Spy-Wang-Jian-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-18T17:21:32+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "高市首相首次訪華被冷遇 或激發日本國內更多擁護",
+      "url": "https://www.dw.com/zh-hant/高市首相首次訪華被冷遇-或激發日本國內更多擁護/a-80005039",
+      "thumbnail": "https://static.dw.com/image/79979162_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T15:12:21.449Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "緬甸種族滅絕裁決影響深遠的歷史意義",
+      "url": "https://www.bbc.com/zhongwen/articles/c5n4eylmmg8po/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/d6fc/live/482060d0-e489-11f1-844f-c7a24d31dcc3.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T08:53:00.521Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "Anthropic創紀錄IPO，中國投資者再被排除在外",
+      "url": "https://cn.nytimes.com/business/20261120/anthropic-ipo-china-hong-kong/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-china-fgbw/19biz-anthropic-china-fgbw-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T01:28:51+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "柏林會議回應深圳會晤 梅爾茨稱三方會晤「主要是為了拍照」",
+      "url": "https://www.dw.com/zh-hant/柏林會議回應深圳會晤-梅爾茨稱三方會晤主要是為了拍照/a-80001244",
+      "thumbnail": "https://static.dw.com/image/79997313_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T11:07:37.377Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-17T11:44:02.040Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "英偉達曾申請向中國涉軍企業出售晶片，獲商務部批准",
+      "url": "https://cn.nytimes.com/business/20261120/nvidia-chips-commerce-china-huang/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-19T17:45:31+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "黃仁勳捲國安風波 如何影響美對中出口管制？",
+      "url": "https://www.dw.com/zh-hant/黃仁勳捲國安風波-如何影響美對中出口管制/a-79998608",
+      "thumbnail": "https://static.dw.com/image/79998705_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T05:27:55.335Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台灣時隔一年再「核電公投」：這次投什麼？通過門檻為何？",
+      "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/eb94/live/1c4078c0-9d39-11f1-bc05-aff3aa1f91c7.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-06T07:56:51.727Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "川普試圖在國際舞台展示權力，在國內卻將被迫分享權力",
+      "url": "https://cn.nytimes.com/world/20261120/trump-summit-power/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T03:06:26+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "從「勝利」走向「勝利」：一場「三贏」的會晤？",
+      "url": "https://www.dw.com/zh-hant/從勝利走向勝利一場三贏的會晤/a-80004967",
+      "thumbnail": "https://static.dw.com/image/79988102_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T15:03:00.886Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "梁振英批評香港小學開放簡體字考試：一文看清爭議何以再起",
+      "url": "https://www.bbc.com/zhongwen/articles/cjekjnyw21yo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/bfcc/live/26c10ab0-c0be-11f0-ae46-bd64331f0fd4.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2025-11-14T01:49:20.865Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "APEC峰會期間，深圳變「空城」",
+      "url": "https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-apec-scene-wgzc/18trump-summits-apec-scene-wgzc-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T04:18:08+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "誰是最大贏家？三巨頭會晤併發表《和平宣言》",
+      "url": "https://www.dw.com/zh-hant/誰是最大贏家三巨頭會晤併發表和平宣言/a-79991746",
+      "thumbnail": "https://static.dw.com/image/79991876_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-19T13:07:42.222Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
+      "url": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/a64b/live/ec420ab0-e1b4-11f1-99a1-253766e7ad8b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-17T02:09:22.586Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "如何解讀川普與習近平的擁抱",
+      "url": "https://cn.nytimes.com/world/20261119/xi-trump-hug-shenzhen/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-hugging-topart-jmkw/19trump-summits-hugging-topart-jmkw-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-18T18:02:15+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "AI泡沫要破裂了嗎？「可怕的崩盤」即將到來？",
+      "url": "https://www.dw.com/zh-hant/ai泡沫要破裂了嗎可怕的崩盤即將到來/a-79972556",
+      "thumbnail": "https://static.dw.com/image/79928201_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-18T09:08:27.236Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "德語媒體：川普在斷送美國的領袖地位",
+      "url": "https://www.dw.com/zh-hant/德語媒體川普在斷送美國的領袖地位/a-80004952",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T15:06:52.434Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "德語媒體：深圳發出的訊號令人沮喪",
+      "url": "https://www.dw.com/zh-hant/德語媒體川普助力習近平/a-79993891",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-19T15:15:07.338Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "媒體爆料分析：中國駭客曾襲擊德意志銀行",
+      "url": "https://www.dw.com/zh-hant/媒體爆料分析中國駭客曾襲擊德意志銀行/a-80002947",
+      "thumbnail": "https://static.dw.com/image/79973795_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-20T12:49:51.404Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "透過黃仁勳事件看中國的晶片產業現狀",
+      "url": "https://www.dw.com/zh-hant/黃仁勳事件後-人們關注中國的晶片產業現狀/a-79961605",
+      "thumbnail": "https://static.dw.com/image/78071977_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-16T15:36:43.872Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "德語媒體：黃仁勳事件戳破了中國的科技自主神話",
+      "url": "https://www.dw.com/zh-hant/德語媒體黃仁勳事件戳破了中國的科技自主神話/a-79972281",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-17T15:11:17.368Z",
+      "meta": "DW 德國之聲中文"
+    }
+  ]
+}
