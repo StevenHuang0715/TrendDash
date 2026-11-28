@@ -1,0 +1,37 @@
+[
+  {
+    "id": "paper",
+    "name": "報紙新聞",
+    "section": "news"
+  },
+  {
+    "id": "tv",
+    "name": "電視新聞",
+    "section": "news"
+  },
+  {
+    "id": "web",
+    "name": "網路新聞",
+    "section": "news"
+  },
+  {
+    "id": "finance",
+    "name": "財經新聞",
+    "section": "news"
+  },
+  {
+    "id": "world",
+    "name": "國際新聞",
+    "section": "news"
+  },
+  {
+    "id": "ptt",
+    "name": "PTT 熱門",
+    "section": "social"
+  },
+  {
+    "id": "trends",
+    "name": "Google 熱搜",
+    "section": "search"
+  }
+]

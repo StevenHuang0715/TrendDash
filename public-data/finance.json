@@ -1,0 +1,279 @@
+{
+  "id": "finance",
+  "name": "財經新聞",
+  "updated_at": "2026-11-28T11:06:17+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "彭博：輝達高階 Blackwell 晶片流入中國 出現在與黃樂有關資料中心",
+      "url": "https://money.udn.com/money/story/5599/9906651",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35561181.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T22:20:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "前高盛策略師警告：風險資產將全面崩跌 逼得Fed 12月放棄升息",
+      "url": "https://news.cnyes.com/news/id/6673731",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6673731/m/6585ee6b55a34f978eb0027c932ba95b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T02:10:05+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "AI 股反彈在望！摩根大通：崩跌走勢大致結束 但2027面臨更糟跌勢",
+      "url": "https://money.udn.com/money/story/123398/9906575",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35561042.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T21:03:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "英國啟動冷戰後最大戰時動員準備！10萬預備役收通知、歐洲多國加速備戰",
+      "url": "https://news.cnyes.com/news/id/6674392",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674392/m/fd6cd6525aaf8942ab837388d68247a8.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T06:10:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "外媒看台灣選舉：從縣市選戰 看下一代領袖和2028布局",
+      "url": "https://money.udn.com/money/story/5599/9907337",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/28/35562203.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T11:11:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "一地雞毛！上市地位將被取消 恆大汽車造車黃粱一夢",
+      "url": "https://news.cnyes.com/news/id/6674425",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674425/m/4facd080055d4f4c4a15e10f53213e69.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T05:09:22+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "美股早盤／感恩節後強勁反彈 四大指數齊揚 輝達獨憔悴",
+      "url": "https://money.udn.com/money/story/123398/9906697",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35561236.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T22:47:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "野村重申「這幾檔」台股「買入」評級！看好2027年AI伺服器市場、上調營收預估",
+      "url": "https://news.cnyes.com/news/id/6674424",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674424/m/5e3fbf4c0083ef153589f6b73355f58b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T09:10:03+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "擔心 AI 取代經濟學博士？哈佛教授佛曼給經濟系學生3個建議",
+      "url": "https://money.udn.com/money/story/5599/9906784",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35561333.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T23:16:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "台積電A14製程就緒！1.4奈米晶片設計啟動 2028下半年量產",
+      "url": "https://news.cnyes.com/news/id/6674317",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674317/m/1579e00abe576e8a5e182c54207cd506.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T02:57:21+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "多頭回家準備投票 台指期夜盤上半場逆勢小跌",
+      "url": "https://money.udn.com/money/story/11112/9906576",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/23/35545914.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T21:04:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "高盛示警美股風險未除！AI擁擠交易退潮後市場「脆弱平衡」、信貸風險決定後市走向",
+      "url": "https://news.cnyes.com/news/id/6674377",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674377/m/a87861dba129988712dc15dbaac9a369.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T07:10:07+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "美畫新紅線 算力不准租給陸企！輝達晶片管制升級衝擊台鏈",
+      "url": "https://money.udn.com/money/story/5612/9906791",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/10/35504872.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T02:45:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "美國空軍核心雲端平台Cloud One遭駭！軍機作戰、彈藥庫存資料恐面臨風險",
+      "url": "https://news.cnyes.com/news/id/6674384",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674384/m/b49baf800615b97608de742c9a223469.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T05:10:02+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "台積電德國廠2027年底投產？最新回應來了",
+      "url": "https://money.udn.com/money/story/5612/9906445",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35560874.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T19:40:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "熱門股〉貿聯-KY獲利創高、展望正向 投信11月來大買力挺周漲29%",
+      "url": "https://news.cnyes.com/news/id/6674416",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674416/m/1ca384d59b0f1358fc7c73ee2d906509.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T04:40:54+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "AI 疑慮暫歇 晶片股強彈 美股下周迎就業、黃仁勳作證與財報考驗",
+      "url": "https://money.udn.com/money/story/123398/9907166",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/28/35561943.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T10:09:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "《彭博》輝達高階晶片現蹤上海！黃樂關係企業涉入、Blackwell設備成銀行抵押品",
+      "url": "https://news.cnyes.com/news/id/6674378",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674378/m/5e8f5654fd029c2e08b2500541d990b6.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T03:27:56+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "萬家福、樂家康網購系統遭攻擊 部分會員資料恐外洩、未涉及金融資訊",
+      "url": "https://money.udn.com/money/story/5612/9906621",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/06/35108764.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T21:43:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "〈第一金法說〉AI重點筆記2026/11/27",
+      "url": "https://news.cnyes.com/news/id/6674426",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674426/m/754a60595e7a3311d5cc3c912e6b8614.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T05:14:00+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "法人喊台股跌深是王道 16檔買盤力捧二低一高股 將帶頭突圍",
+      "url": "https://money.udn.com/money/story/5607/9906794",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/26/35555665.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T03:21:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "紐時：華為從被美國制裁 如今成為中國AI戰略的核心",
+      "url": "https://news.cnyes.com/news/id/6674106",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674106/m/b07902cb7a27d481682a6f7fe7c47fb7.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T13:30:04+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "川普救回黃仁勳 救得了 AI 信心？選民不買單 華爾街疑慮未解",
+      "url": "https://money.udn.com/money/story/5599/9907385",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/28/35562270.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T11:41:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "友達華亞廠找到新買家 售予矽品處分利益估104億元",
+      "url": "https://news.cnyes.com/news/id/6674033",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674033/m/79ee5184d0f3bd61bb9c2f6b8a3ddf45.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T11:26:34+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "南亞科、旺宏、華邦電套牢怎麼辦？從航海王經驗看股利行情與布局時機",
+      "url": "https://money.udn.com/money/story/12040/9906790",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/01/35093038.jpg&M=1&s=Y&x=0&y=0&sw=928&sh=619&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T23:24:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "〈美股盤後〉AI強勢回血！標普創2025年4月來最佳單周 Sandisk飆16% Anthropic重返IPO價",
+      "url": "https://news.cnyes.com/news/id/6674256",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674256/m/cef40b7f03dd2e624da79906c8357df4.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T20:20:02+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "11月27日期交所夜盤行情",
+      "url": "https://money.udn.com/money/story/11112/9906954",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/25/35551021.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=300&exp=3600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T05:15:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "鴻海大語言模型FoxBrain 臺灣主權AI評測奪全球第二",
+      "url": "https://news.cnyes.com/news/id/6674029",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674029/m/d2bdc56eafab75cac0969fc820398cfe.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T11:50:56+00:00",
+      "meta": "鉅亨網"
+    },
+    {
+      "title": "投顧喊明年台股上 57K 超前部署五族群",
+      "url": "https://money.udn.com/money/story/5607/9906800",
+      "thumbnail": "https://udn.com/upf/2017_news/noimg_cid1001_7.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T02:36:00+08:00",
+      "meta": "經濟日報"
+    },
+    {
+      "title": "正崴看好明年AI高速線出貨續成長 算力中心需求旺租金有調漲空間",
+      "url": "https://news.cnyes.com/news/id/6674059",
+      "thumbnail": "https://cimg.cnyes.cool/prod/news/6674059/m/b02333aac4962d52e593edbd1b42700a.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T12:15:04+00:00",
+      "meta": "鉅亨網"
+    }
+  ]
+}

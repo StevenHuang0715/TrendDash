@@ -1,0 +1,324 @@
+{
+  "id": "world",
+  "name": "國際新聞",
+  "updated_at": "2026-11-28T11:06:20+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "台灣「九合一」選舉與核電公投：開票結果實時更新",
+      "url": "https://www.bbc.com/zhongwen/articles/ck0jxz70e4z5o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/de3d/live/fa7c0280-e5d2-11f1-99b6-a35a62fa4264.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T08:31:23.991Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "華為：從被美國制裁到成為中國人工智慧戰略的核心",
+      "url": "https://cn.nytimes.com/business/20261127/huawei-trump-china-ai/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T19:07:14+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "陳吉寧落馬與中共內部權力鬥爭",
+      "url": "https://www.dw.com/zh-hant/陳吉寧受調查-中共權鬥習近平大權在握/a-80076794",
+      "thumbnail": "https://static.dw.com/image/80077845_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T13:58:46.578Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台灣「九合一」選舉：投票結束 全台各地投票所隨即開票",
+      "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/7a64/live/b45cee90-eadc-11f1-81da-2ff518b71d00.jpg",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "在中國，「女凝」正在推動一場新的娛樂消費熱潮",
+      "url": "https://cn.nytimes.com/business/20261127/china-women-spending-entertainment/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Sheconomy-video-bpvg/Biz-Sheconomy-video-bpvg-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T19:48:10+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "大眾汽車出售中國？德國經濟學家爭議言論引發軒然大波",
+      "url": "https://www.dw.com/zh-hant/大眾賣給中國德頂級經濟學家拋出困境解方/a-80076955",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T14:14:42.029Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台灣「九合一」選舉：六都市長候選人簡介",
+      "url": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/6f3d/live/717c67f0-e950-11f1-99b6-a35a62fa4264.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T16:04:01.680Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "台灣喜劇演員黃逸豪：「習近平是我的繆斯」",
+      "url": "https://cn.nytimes.com/asia-pacific/20261127/china-taiwan-comedian-xi-jinping/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T17:53:44+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "德語媒體：陳吉寧落馬 技術官僚主政時代終結？",
+      "url": "https://www.dw.com/zh-hant/德語媒體陳吉寧落馬-一種政治晉升模式的終結/a-80065059",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T15:12:32.917Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台中市選戰：江啟臣對決何欣純，盧秀燕問鼎總統前哨戰",
+      "url": "https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/ed63/live/743f96d0-ea25-11f1-a968-f30728b956c0.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T05:47:37.365Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "上海市委書記陳吉寧被調查",
+      "url": "https://cn.nytimes.com/china/20261125/shanghai-party-leader-investigation-china-xi/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-25T03:09:27+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "事實核查：台灣九合一選舉前 網路上的深度偽造與虛假敘事",
+      "url": "https://www.dw.com/zh-hant/事實核查台灣地方選舉前的深度偽造與虛假敘事/a-80045799",
+      "thumbnail": "https://static.dw.com/image/80033774_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T09:59:42.327Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/d6bb/live/cb969e20-ac21-11f1-9bd9-7b7da208bd5c.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-09-16T04:47:26.706Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "高市早苗訪問中國時是否遭到冷遇？",
+      "url": "https://cn.nytimes.com/asia-pacific/20261127/japan-china-takaichi-snubbed/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-thumbLarge-v2.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T23:59:43+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "黃仁勳復職風波：川普力挺背後的性別雙重標準",
+      "url": "https://www.dw.com/zh-hant/川普发侮辱女性ai圖-學者關注臨時ceo克雷斯境遇/a-80074935",
+      "thumbnail": "https://static.dw.com/image/79975569_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T13:06:43.384Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台灣「九合一」選舉BBC視像直播",
+      "url": "https://www.bbc.com/zhongwen/articles/cwkgry00vk48o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/fd03/live/048c4290-eb09-11f1-99a1-253766e7ad8b.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T09:20:11.980Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "《毛澤東私人醫生回憶錄》合著者石文安逝世",
+      "url": "https://cn.nytimes.com/obits/20261126/anne-thurston-dead/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/13/multimedia/13obit-thurston-01-bwzl/13obit-thurston-01-bwzl-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T04:47:11+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "宏福苑大火一周年：168枝白花和缺席的官方悼念",
+      "url": "https://www.dw.com/zh-hant/168個死者的公義到現在都沒有宏福苑大火一周年悼念/a-80067919",
+      "thumbnail": "https://static.dw.com/image/80068092_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T17:05:44.849Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "九合一選前反轉：沈伯洋破天荒取消台北「選前之夜」，如何影響選情？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/7fb4/live/8bdc5170-e985-11f1-99b6-a35a62fa4264.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T13:41:15.141Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "斥責、威脅、精神折磨：黃仁勛如何把羞辱變成管理日常",
+      "url": "https://cn.nytimes.com/technology/20261123/jensen-huang-nvidia-culture/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-23",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "台灣地方選舉前夕 解放軍軍機活動增加",
+      "url": "https://www.dw.com/zh-hant/台灣地方選舉前夕-解放軍30架次軍機在台海周邊活動/a-80072713",
+      "thumbnail": "https://static.dw.com/image/67273805_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T11:08:48.92Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
+      "url": "https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T07:40:38.906Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢",
+      "url": "https://cn.nytimes.com/business/20261127/trump-tariffs-asia/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/26/multimedia/26Biz-Asia-Tariffs-01-fzkq/26Biz-Asia-Tariffs-01-fzkq-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T02:47:16+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "廣西原主席藍天立受賄5.87億被判死緩終身監禁",
+      "url": "https://www.dw.com/zh-hant/廣西原主席藍天立受賄587億-一審判死緩終身監禁/a-80074342",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T12:11:18.723Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台灣九合一選舉：從「洋流」看民進黨戰略性擱置「抗中保台」牌",
+      "url": "https://www.bbc.com/zhongwen/articles/cmx29vxzgj25o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/a056/live/5ce6dab0-e8af-11f1-99b6-a35a62fa4264.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T09:38:20.025Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "中國將迎來自己的AI驚恐時刻，我們拭目以待",
+      "url": "https://cn.nytimes.com/opinion/20261126/china-ai-race-control/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/25/opinion/23wang/23wang-thumbLarge-v2.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T03:58:38+00:00",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "消息人士：美國限制海外算力將遏制中國AI模型進度",
+      "url": "https://www.dw.com/zh-hant/美國限制海外算力-知情人士稱中國ai公司受衝擊/a-80064912",
+      "thumbnail": "https://static.dw.com/image/78062891_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T14:48:29.008Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "失去伊朗石油供應，中國小型煉油廠如何應對？",
+      "url": "https://www.bbc.com/zhongwen/articles/c3qj5y7lwrn9o/trad",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/480/cpsprodpb/832e/live/a99e84b0-e789-11f1-a094-5fdc692f3e33.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T03:35:06.143Z",
+      "meta": "BBC 中文"
+    },
+    {
+      "title": "黃仁勛復職重掌英偉達，美股大漲但兩黨批評聲不斷",
+      "url": "https://cn.nytimes.com/business/20261124/nvidia-jensen-huang/zh-hant/",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-nvidia-econ-lvjb/23dc-nvidia-econ-lvjb-thumbLarge.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-24",
+      "meta": "紐約時報中文網"
+    },
+    {
+      "title": "賓士凍結投資、大眾裁員10萬：德國汽車業能否扭轉局面？",
+      "url": "https://www.dw.com/zh-hant/賓士暫停對德國工廠投資-德國車企還能否扭轉局面/a-80022159",
+      "thumbnail": "https://static.dw.com/image/79669256_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-24T10:16:27.193Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "馬斯克承諾送全美兒童SpaceX股票",
+      "url": "https://www.dw.com/zh-hant/馬斯克承諾贈送全美兒童兩股spacex股票-總價值約180億美元/a-80074766",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T12:13:31.159Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "馬來西亞：中國人工智慧的「馬六甲數字海峽」",
+      "url": "https://www.dw.com/zh-hant/馬六甲數字海峽馬來西亞為中國人工智慧企業提供數據中心/a-80058663",
+      "thumbnail": "https://static.dw.com/image/79998705_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T10:37:15.51Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "台北市長爭奪戰的兩位主角：蔣萬安與沈伯洋是誰？",
+      "url": "https://www.dw.com/zh-hant/台北市長爭奪戰的兩位主角蔣萬安與沈伯洋是誰/a-79657998",
+      "thumbnail": "https://static.dw.com/image/79647129_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-10-14T09:40:53.548Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "德語媒體：水泥澆筑的債務",
+      "url": "https://www.dw.com/zh-hant/德語媒體習近平清除了一名潛在繼任者/a-80077870",
+      "thumbnail": null,
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T14:53:38.942Z",
+      "meta": "DW 德國之聲中文"
+    },
+    {
+      "title": "美國新關稅瞄準中國但沒撕破臉 北京稱堅決反對但未威脅報復措施",
+      "url": "https://www.dw.com/zh-hant/美國新關稅瞄準中國但沒撕破臉-北京稱堅決反對但尚未威脅報復措施/a-80060086",
+      "thumbnail": "https://static.dw.com/image/79987742_602.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-26T11:49:05.433Z",
+      "meta": "DW 德國之聲中文"
+    }
+  ]
+}

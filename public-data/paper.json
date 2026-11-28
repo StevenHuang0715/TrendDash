@@ -1,0 +1,414 @@
+{
+  "id": "paper",
+  "name": "報紙新聞",
+  "updated_at": "2026-11-28T11:06:13+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "全台議員選舉即時開票／22縣市919席誰當選？激戰選區、熱門候選人及連霸紀錄一次看",
+      "url": "https://udn.com/news/story/125080/9905118",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35558583.png&M=1&s=Y&x=60&y=0&sw=945&sh=630&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T15:58:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "「廢除非核家園」公投懶人包！投票資格、通過門檻、法律效力QA",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654750",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpNrAVyZ.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T14:56:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "開票最新》蔣萬安突破50萬票 預計20：00發表談話",
+      "url": "https://www.chinatimes.com/realtimenews/20261128001725-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128001730.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T15:55:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "桃園市議員選舉即時開票／參選大爆炸！龜山增席、桃園中壢激戰 最新選況一次看",
+      "url": "https://udn.com/news/story/125080/9904240",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/26/35557309.png&M=1&s=Y&x=0&y=0&sw=945&sh=630&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T15:43:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "72歲阿嬤退休12年不啃老本！204萬退休金竟一毛沒花 真相很實際",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5655907",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/11/27/phpGmmsRq.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T07:18:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "開票最新》選戰陷拉鋸！何欣純38萬票領先江啟臣 差距曝光",
+      "url": "https://www.chinatimes.com/realtimenews/20261128001715-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-14/330/20261114001463.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T16:00:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "九合一選舉即時開票／蔣萬安破50萬票領先沈伯洋8萬票、新北李四川得票破77萬(不斷更新)",
+      "url": "https://udn.com/news/story/124652/9874224",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35559648.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T19:00:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "恐罰100萬！鍾明軒投票日發文被檢舉 警方已接獲報案",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656089",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpcwHdFd.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T11:26:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "開票最新》對決新北   李四川破78萬票拉開差距   蘇巧慧74萬票在後追趕",
+      "url": "https://www.chinatimes.com/realtimenews/20261128002401-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128002405.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T16:04:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台中市議員選舉即時開票／北屯混戰最激烈！老鳥連霸vs.新人拚出頭 最新選況一次看",
+      "url": "https://udn.com/news/story/125080/9904220",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/26/35557261.png&M=1&s=Y&x=62&y=0&sw=945&sh=630&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T15:35:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656043",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpX9cZzG.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T09:38:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "影》台南神準「章魚里」開票中！陳亭妃、謝龍介差距曝",
+      "url": "https://www.chinatimes.com/realtimenews/20261128002616-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128002618.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T16:47:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "桃園市議員即時開票／無黨籍候選人「王妃」宣布當選 多個選區仍激烈拉鋸中",
+      "url": "https://udn.com/news/story/125080/9907794",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/28/35562987.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T17:35:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "蔣萬安凱道選前之夜1小時 喊出人潮破10萬",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655777",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/27/phpGh4nOT.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T20:25:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "快訊》謝國樑自行宣布當選基隆市長",
+      "url": "https://www.chinatimes.com/realtimenews/20261128003050-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128003052.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:25:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "高雄市議員選舉即時開票／前鎮小港13人爭搶7席！ 15選區最新選況一次看",
+      "url": "https://udn.com/news/story/125080/9904233",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/26/35557291.png&M=1&x=&y=&sw=&sh=&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T15:40:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "黃仁勳剛回歸輝達 疑似座機今晨降落松山機場引熱議",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5655973",
+      "thumbnail": "https://img.ltn.com.tw/Upload/business/page/800S/2026/11/28/phpZIM0Dp.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T06:56:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "花29萬買到「51萬公里退役小黃」　監理站一查中古車行慘了",
+      "url": "https://www.chinatimes.com/realtimenews/20261127003532-260402",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-27/330/20261127003533.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T17:10:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "新北市議員選舉即時開票／三重蘆洲17人搶9席 熱門候選人及連霸紀錄一次看",
+      "url": "https://udn.com/news/story/125080/9904193",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/26/35557220.png&M=1&s=Y&x=54&y=0&sw=945&sh=630&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T15:32:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "選舉效應！連動「立委補選、2028」骨牌 攸關鄭麗文、黃國昌黨魁寶座",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654813",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/phpIIysOL.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T09:02:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "北京永定河故道現三艘漢晉沉船　「官」字烙印揭開近2000年前水運之謎",
+      "url": "https://www.chinatimes.com/realtimenews/20261128001069-260409",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128001070.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T11:39:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台北市議員選舉即時開票／牽動首都政治版圖 激戰選區、熱門候選人得票數一次看",
+      "url": "https://udn.com/news/story/125080/9904071",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/26/35557139.png&M=1&s=Y&x=52&y=0&sw=945&sh=630&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T15:13:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "九合一大選今登場！投票QA懶人包、違規須知一次看",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654715",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/26/php46v9lK.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T14:56:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "蘇巧慧得票突破50萬仍落後李四川 現場氣氛隨開票起伏",
+      "url": "https://www.chinatimes.com/realtimenews/20261128003008-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128003009.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:12:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台南市議員選舉即時開票／陳秋萍拚九連霸、郭信良再戰議會！13選區即時票數不斷更新",
+      "url": "https://udn.com/news/story/125080/9904246",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/26/35557314.png&M=1&s=Y&x=56&y=0&sw=945&sh=630&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T15:53:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "12強》巨大1敗！中國遭完封陷不利處境 最新晉級劇本出爐",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5655827",
+      "thumbnail": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/11/27/php8hgvUF.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T20:59:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "九合一大選開票 羅友志點名2區示警：藍2028絕沒有樂觀本錢",
+      "url": "https://www.chinatimes.com/realtimenews/20261128002973-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128002974_20261128180415.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:05:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台北市長即時開票／選戰最神指標！「章魚里」天玉里開票中 台北市長選舉結果受矚",
+      "url": "https://udn.com/news/story/125078/9907689",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/28/35562783.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T16:15:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "蔡英文投票小迷糊！摸口袋驚覺「嘖」一聲 全場笑了",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656252",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpq5v9wt.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T12:50:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "彰化邱建富宣布敗選 坦言藍綠歸隊壓縮中間選票",
+      "url": "https://www.chinatimes.com/realtimenews/20261128003014-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128003015.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:21:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "台北市長即時開票／「章魚里」天玉里選票開完 蔣萬安2565票勝沈伯洋2370票",
+      "url": "https://udn.com/news/story/125078/9907824",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/25/35553827.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T17:46:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "直播抿筷夾醬瓜意外成話題！網憂會臭酸 蔣萬安：真的餓了",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656073",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/5656073_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T10:26:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "快訊》苗栗縣長之戰   鍾東錦自行宣布以6成2得票率連任成功",
+      "url": "https://www.chinatimes.com/realtimenews/20261128003030-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128003031.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:20:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "苗栗縣即時開票／市長選舉開票藍、綠開票拉踞 雙方支持者七上八下",
+      "url": "https://udn.com/news/story/7324/9907760",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/28/35562917.jpg&M=1&s=Y&x=59&y=0&sw=1080&sh=720&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T17:09:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "沈伯洋直播衝破52萬人、登全球第1 妻淚告白：愛你3萬年",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5655857",
+      "thumbnail": "https://img.ltn.com.tw/Upload/ent/page/800S/2026/11/27/phpLHitkY.png",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T21:27:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "川普念念不忘深圳國宴「漂亮帽子菜」 餐飲專家揭祕真身",
+      "url": "https://www.chinatimes.com/realtimenews/20261127002701-260408",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-27/330/20261127002702.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T16:47:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "輝達高階Blackwell晶片流入大陸 出現在與黃樂有關資料中心",
+      "url": "https://udn.com/news/story/125066/9906651",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/27/35561181.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-27T22:20:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "MLB》台灣好手鄭宗哲遭老虎DFA！美媒分析未來：他的處境很微妙...",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5655983",
+      "thumbnail": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/11/28/phpu61TIX.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T07:35:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "蔣萬安領先！競總湧支持者「激動姐」高喊：催落",
+      "url": "https://www.chinatimes.com/realtimenews/20261128002983-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128002984.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:06:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "影／以前見牠尖叫、現在見牠像見錢 屏東夫妻捕綠鬣蜥拚進前三名",
+      "url": "https://udn.com/news/story/7470/9907012",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/28/35561697.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T07:00:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "傳南韓國情院為營救情報員 擬向中國提供台灣情資惹美震怒",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5655970",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/5655970_1_1.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T05:56:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "台南「章魚里」開票預言結果？陳亭妃、謝龍介得票結果出爐了",
+      "url": "https://www.chinatimes.com/realtimenews/20261128002960-260407",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128002961.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T17:58:00+08:00",
+      "meta": "中時新聞網"
+    },
+    {
+      "title": "基隆市長即時開票／拿下破9萬2千票！謝國樑篤定連任 晚間6時赴競總發表感言",
+      "url": "https://udn.com/news/story/124652/9907839",
+      "thumbnail": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/28/35563038.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=600",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:01:00+08:00",
+      "meta": "聯合新聞網"
+    },
+    {
+      "title": "台灣九合一大選全球矚目 本報即時開票完整呈現",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656171",
+      "thumbnail": "https://img.ltn.com.tw/Upload/news/600/2026/11/28/phpYnRH5w.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T14:00:00+08:00",
+      "meta": "自由時報"
+    },
+    {
+      "title": "投票日全國共177件違反選罷法 攜帶手機83件最多",
+      "url": "https://www.chinatimes.com/realtimenews/20261128002626-260402",
+      "thumbnail": "https://images.chinatimes.com/newsphoto/2026-11-28/330/20261128002627.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T17:06:00+08:00",
+      "meta": "中時新聞網"
+    }
+  ]
+}

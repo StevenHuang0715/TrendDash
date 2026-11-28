@@ -1,0 +1,234 @@
+{
+  "id": "tv",
+  "name": "電視新聞",
+  "updated_at": "2026-11-28T11:06:14+00:00",
+  "ok": true,
+  "error": null,
+  "items": [
+    {
+      "title": "2026九合一開票即時結果》22縣市長當選名單與得票率（不斷更新）",
+      "url": "https://news.tvbs.com.tw/politics/4055774",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a210c9-4bc8-700e-ac61-ffaf145821ea.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "不斷更新／手機拍視障者圈選結果！新店選務人員被抓包動機說不清",
+      "url": "https://news.ebc.net.tw/news/society/582838",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795864936_83956.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T16:08:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "助夫引進台灣！「空手道之母」陳惠珠辭世　享耆壽92歲",
+      "url": "https://news.tvbs.com.tw/entertainment/4057213",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a21ccc-35fc-7198-92c1-d8eaf133bf70.jpg?w=1067&h=600&t=16x9&c=0,0,1920,1080&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "不斷更新／柯文哲下午1點投票！是「ChatGPT說人潮最少」",
+      "url": "https://news.ebc.net.tw/news/politics/582825",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795871950_12414.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T13:32:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "2026台北市長開票即時結果》蔣萬安破34萬票　與沈伯洋拉開近5萬票（不斷更新）",
+      "url": "https://news.tvbs.com.tw/politics/4055050",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a2118d-8de1-7346-9260-967a565983ff.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "險出賣台灣！ 韓遭爆「向中提供情報」營救人質",
+      "url": "https://news.ebc.net.tw/news/world/582823",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795853234_67215.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T08:20:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "雙北好天氣湧投票潮！台北投票率破68％　可望達7成",
+      "url": "https://news.tvbs.com.tw/politics/4057475",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a220ab-c903-7105-a22d-e346f79ab5e1.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,243,4673,2872&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "不斷更新／蔣萬安領先沈伯洋！競總擠滿支持者 預計8點發表談話",
+      "url": "https://news.ebc.net.tw/news/politics/582686",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/27/1795774065_75856.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:55:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "台南最新投票率出爐　截至下午2時破五成",
+      "url": "https://news.tvbs.com.tw/politics/4057532",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a22114-9da4-72fc-828c-547fbfd621c8.png?w=1067&h=600&t=16x9&wp=l,t&c=0,10,1867,1060&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "16字超狂改名女郎現身投票！被笑喊像總統直呼榮幸",
+      "url": "https://news.ebc.net.tw/news/politics/582873",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795865649_10411.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T11:40:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "新書上月才在台出版！香港作家潘國靈「墜樓身亡」　享年56歲",
+      "url": "https://news.tvbs.com.tw/china/4057323",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a21fb2-0044-714c-a005-4dc38d239549.jpg?w=1067&h=600&t=16x9&c=50,0,2183,1200&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "王妃票數衝第一　她卻道歉了",
+      "url": "https://news.ebc.net.tw/news/politics/582922",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795887086_78125.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T17:34:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "鍾明軒投票日凌晨發文談政治！遭網檢舉疑涉違選罷法、恐噴百萬",
+      "url": "https://news.tvbs.com.tw/entertainment/variety/4057393",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a22026-ffe7-7083-be91-310b0a720a74.jpg?w=1067&h=600&t=16x9&c=0,0,1920,1080&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "快訊／連江縣長選戰 王忠銘自行宣布當選",
+      "url": "https://news.ebc.net.tw/news/politics/582921",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795886903_63050.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T17:26:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "投票所狀況不斷！新北婦蓋錯章「誤認可重領」　撕爛選票挨罰",
+      "url": "https://news.tvbs.com.tw/local/4057372",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a2200e-975d-72b2-a92a-a87f062ca76b.jpg?w=1067&h=600&t=16x9&wp=l,t&c=0,73,1477,904&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "不斷更新／苗栗縣、南投縣現任縣長自行宣布當選",
+      "url": "https://news.ebc.net.tw/news/politics/582924",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795887755_38104.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:26:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "2026新北市長開票即時結果》李四川率先破77萬票！穩定領先蘇巧慧（不斷更新）",
+      "url": "https://news.tvbs.com.tw/politics/4055063",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a2118e-c631-7375-b66f-4b9e38bc6a2b.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "候選人團隊驚傳「穿號次背心」公祭 選委會證實接獲檢舉",
+      "url": "https://news.ebc.net.tw/news/politics/582890",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795874718_22001.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T14:27:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "2026高雄市長開票即時結果》賴瑞隆35萬票領先　柯志恩預計19時上台（不斷更新）",
+      "url": "https://news.tvbs.com.tw/politics/4055210",
+      "thumbnail": "https://news-images.tvbs.com.tw/api/v1/image/01a22143-23fd-7265-9166-6c71b5af3966.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675&w=264&h=148",
+      "score": null,
+      "score_label": null,
+      "time": null,
+      "meta": "TVBS"
+    },
+    {
+      "title": "不斷更新／6都最強！桃園張善政大幅領先5萬票",
+      "url": "https://news.ebc.net.tw/news/politics/582691",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/27/1795774606_61025.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T17:34:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "不斷更新／高雄賴瑞隆 持續領先柯志恩4萬票",
+      "url": "https://news.ebc.net.tw/news/politics/582699",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/27/1795775640_54002.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T17:19:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "不斷更新／差距又變小了！新北蘇巧慧緊追李四川1萬多票",
+      "url": "https://news.ebc.net.tw/news/politics/582690",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/27/1795774424_62241.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T18:43:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "王妃不天崩了！投票所開票暫居第一",
+      "url": "https://news.ebc.net.tw/news/politics/582918",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795884458_32733.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T16:50:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "文壇痛失英才！作家潘國靈抗罕病3年墜樓亡 享年56歲",
+      "url": "https://news.ebc.net.tw/news/living/582828",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795854416_17018.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T08:33:00+08:00",
+      "meta": "東森新聞"
+    },
+    {
+      "title": "台灣黑熊「芭甘」野放僅14天傳死訊 初步排除人為因素",
+      "url": "https://news.ebc.net.tw/news/living/582845",
+      "thumbnail": "https://img.news.ebc.net.tw/EbcNews/news/2026/11/28/1795858583_53855.jpg",
+      "score": null,
+      "score_label": null,
+      "time": "2026-11-28T09:36:00+08:00",
+      "meta": "東森新聞"
+    }
+  ]
+}
